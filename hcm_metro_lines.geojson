@@ -7,8 +7,9 @@
         "line_key": "L2_DEPOT",
         "name": "Tuyến 2: Nhánh Depot Tham Lương",
         "status": "construction",
-        "stroke_color": "#e74c3c",
-        "dash_array": "8,4"
+        "stroke_color": "#EC4899",
+        "dash_array": "8,4",
+        "route_number": 2
       },
       "geometry": {
         "type": "LineString",
@@ -138,8 +139,9 @@
         "line_key": "L2_CONSTRUCTION",
         "name": "Tuyến 2: Bến Thành - Tham Lương",
         "status": "construction",
-        "stroke_color": "#e74c3c",
-        "dash_array": "8,4"
+        "stroke_color": "#EC4899",
+        "dash_array": "8,4",
+        "route_number": 2
       },
       "geometry": {
         "type": "LineString",
@@ -261,8 +263,9 @@
         "line_key": "L2_THUTHIEM",
         "name": "Tuyến 2: Bến Thành - Thủ Thiêm",
         "status": "proposed",
-        "stroke_color": "#95a5a6",
-        "dash_array": "4,4"
+        "stroke_color": "#EC4899",
+        "dash_array": "4,4",
+        "route_number": 2
       },
       "geometry": {
         "type": "LineString",
@@ -428,8 +431,9 @@
         "line_key": "THULONGTHANH",
         "name": "Đường sắt Thủ Thiêm - Long Thành",
         "status": "proposed",
-        "stroke_color": "#95a5a6",
-        "dash_array": "4,4"
+        "stroke_color": "#06B6D4",
+        "dash_array": "4,4",
+        "route_number": "TL"
       },
       "geometry": {
         "type": "LineString",
@@ -863,8 +867,9 @@
         "line_key": "L1",
         "name": "Tuyến 1: Bến Thành - Suối Tiên",
         "status": "operational",
-        "stroke_color": "#0079b8",
-        "dash_array": null
+        "stroke_color": "#3B9EE8",
+        "dash_array": null,
+        "route_number": 1
       },
       "geometry": {
         "type": "MultiLineString",
@@ -2304,8 +2309,9 @@
         "line_key": "CANGIO",
         "name": "Đường sắt đô thị Bến Thành - Cần Giờ",
         "status": "proposed",
-        "stroke_color": "#95a5a6",
-        "dash_array": "4,4"
+        "stroke_color": "#FACC15",
+        "dash_array": "4,4",
+        "route_number": "CG"
       },
       "geometry": {
         "type": "LineString",
@@ -2623,8 +2629,9 @@
         "line_key": "L6",
         "name": "Tuyến 6: Phú Hữu - Sân bay Tân Sơn Nhất",
         "status": "proposed",
-        "stroke_color": "#95a5a6",
-        "dash_array": "4,4"
+        "stroke_color": "#22C55E",
+        "dash_array": "4,4",
+        "route_number": 6
       },
       "geometry": {
         "type": "LineString",
@@ -3322,8 +3329,9 @@
         "line_key": "L1_BINHDUONG",
         "name": "Tuyến 1 nối dài: TP mới Bình Dương - Suối Tiên",
         "status": "proposed",
-        "stroke_color": "#95a5a6",
-        "dash_array": "4,4"
+        "stroke_color": "#3B9EE8",
+        "dash_array": "4,4",
+        "route_number": 1
       },
       "geometry": {
         "type": "LineString",
@@ -3909,8 +3917,9 @@
         "line_key": "L7",
         "name": "Tuyến 7: Tân Kiên - Vinhomes Grand Park",
         "status": "proposed",
-        "stroke_color": "#95a5a6",
-        "dash_array": "4,4"
+        "stroke_color": "#A855F7",
+        "dash_array": "4,4",
+        "route_number": 7
       },
       "geometry": {
         "type": "LineString",
@@ -5184,8 +5193,9 @@
         "line_key": "L2_THUDAUMOT",
         "name": "Tuyến 2: Thủ Dầu Một - TP.HCM",
         "status": "proposed",
-        "stroke_color": "#95a5a6",
-        "dash_array": "4,4"
+        "stroke_color": "#EC4899",
+        "dash_array": "4,4",
+        "route_number": 2
       },
       "geometry": {
         "type": "LineString",
@@ -6027,8 +6037,9 @@
         "line_key": "L3",
         "name": "Tuyến 3: Hiệp Bình Phước - An Hạ",
         "status": "proposed",
-        "stroke_color": "#95a5a6",
-        "dash_array": "4,4"
+        "stroke_color": "#F97316",
+        "dash_array": "4,4",
+        "route_number": 3
       },
       "geometry": {
         "type": "LineString",
