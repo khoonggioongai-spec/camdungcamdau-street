@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Bình Triệu",
-        "line": "Tuyến 6: Phú Hữu - Sân bay Tân Sơn Nhất",
+        "line": "Tuyến 6: Vành đai trong (Depot Bình Hưng - Bình Triệu - Hiệp Bình Phước - Long Trường)",
         "status": "proposed",
         "stroke_color": "#4CE84C",
         "distance_to_line_km": 0.024,
@@ -18,46 +18,6 @@
         "coordinates": [
           106.7159069,
           10.8273477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Tao Đàn (dự kiến)",
-        "line": "Tuyến 2: Bến Thành - Tham Lương",
-        "status": "proposed",
-        "stroke_color": "#E84C4C",
-        "distance_to_line_km": 0.0,
-        "osm_id": "node/4871907822",
-        "catchment_core_km": 1.0,
-        "catchment_extended_km": 2.0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6902954,
-          10.7731636
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ga Thủ Thiêm",
-        "line": "Tuyến 2: Bến Thành - Thủ Thiêm",
-        "status": "proposed",
-        "stroke_color": "#E84C4C",
-        "distance_to_line_km": 0.0,
-        "osm_id": "node/6598118289",
-        "catchment_core_km": 1.0,
-        "catchment_extended_km": 2.0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.7422905,
-          10.7854228
         ]
       }
     },
@@ -504,106 +464,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ga Đại Lộ Vòng Cung",
-        "line": "Tuyến 2: Bến Thành - Thủ Thiêm",
-        "status": "proposed",
-        "stroke_color": "#E84C4C",
-        "distance_to_line_km": 0.0,
-        "osm_id": "node/13606878192",
-        "catchment_core_km": 1.0,
-        "catchment_extended_km": 2.0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.7149845,
-          10.771919
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ga Cung Thiếu Nhi",
-        "line": "Tuyến 2: Bến Thành - Thủ Thiêm",
-        "status": "proposed",
-        "stroke_color": "#E84C4C",
-        "distance_to_line_km": 0.0,
-        "osm_id": "node/13606878193",
-        "catchment_core_km": 1.0,
-        "catchment_extended_km": 2.0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.7222923,
-          10.7731271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ga Bệnh Viện Quốc Tế",
-        "line": "Tuyến 2: Bến Thành - Thủ Thiêm",
-        "status": "proposed",
-        "stroke_color": "#E84C4C",
-        "distance_to_line_km": 0.0,
-        "osm_id": "node/13606878194",
-        "catchment_core_km": 1.0,
-        "catchment_extended_km": 2.0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.7287175,
-          10.7764018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ga Bình Khánh",
-        "line": "Tuyến 2: Bến Thành - Thủ Thiêm",
-        "status": "proposed",
-        "stroke_color": "#E84C4C",
-        "distance_to_line_km": 0.0,
-        "osm_id": "node/13606878195",
-        "catchment_core_km": 1.0,
-        "catchment_extended_km": 2.0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.7359227,
-          10.7800693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ga Hàm Nghi",
-        "line": "Tuyến 2: Bến Thành - Thủ Thiêm",
-        "status": "proposed",
-        "stroke_color": "#E84C4C",
-        "distance_to_line_km": 0.0,
-        "osm_id": "node/13606878196",
-        "catchment_core_km": 1.0,
-        "catchment_extended_km": 2.0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.7035857,
-          10.770867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Ga Đỗ Xuân Hợp",
         "line": "Đường sắt Thủ Thiêm - Long Thành",
         "status": "proposed",
@@ -798,46 +658,6 @@
         "coordinates": [
           106.9317415,
           10.7347841
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ga S5",
-        "line": "Tuyến 2: Thủ Dầu Một - TP.HCM",
-        "status": "proposed",
-        "stroke_color": "#E84C4C",
-        "distance_to_line_km": 0.0,
-        "osm_id": "node/13610982001",
-        "catchment_core_km": 1.0,
-        "catchment_extended_km": 2.0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.6688734,
-          11.0079574
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ga Hiệp Bình Phước",
-        "line": "Tuyến 2: Thủ Dầu Một - TP.HCM",
-        "status": "proposed",
-        "stroke_color": "#E84C4C",
-        "distance_to_line_km": 0.0,
-        "osm_id": "node/13610982207",
-        "catchment_core_km": 1.0,
-        "catchment_extended_km": 2.0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.7239717,
-          10.8659724
         ]
       }
     },
