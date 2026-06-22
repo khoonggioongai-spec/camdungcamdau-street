@@ -7,7 +7,7 @@
         "line_key": "L2_DEPOT",
         "name": "Tuyến 2: Nhánh Depot Tham Lương",
         "status": "construction",
-        "stroke_color": "#EC4899",
+        "stroke_color": "#E84C4C",
         "dash_array": "8,4",
         "route_number": 2
       },
@@ -139,7 +139,7 @@
         "line_key": "L2_CONSTRUCTION",
         "name": "Tuyến 2: Bến Thành - Tham Lương",
         "status": "construction",
-        "stroke_color": "#EC4899",
+        "stroke_color": "#E84C4C",
         "dash_array": "8,4",
         "route_number": 2
       },
@@ -263,7 +263,7 @@
         "line_key": "L2_THUTHIEM",
         "name": "Tuyến 2: Bến Thành - Thủ Thiêm",
         "status": "proposed",
-        "stroke_color": "#EC4899",
+        "stroke_color": "#E84C4C",
         "dash_array": "4,4",
         "route_number": 2
       },
@@ -431,7 +431,7 @@
         "line_key": "THULONGTHANH",
         "name": "Đường sắt Thủ Thiêm - Long Thành",
         "status": "proposed",
-        "stroke_color": "#06B6D4",
+        "stroke_color": "#A8E83B",
         "dash_array": "4,4",
         "route_number": "TL"
       },
@@ -2309,7 +2309,7 @@
         "line_key": "CANGIO",
         "name": "Đường sắt đô thị Bến Thành - Cần Giờ",
         "status": "proposed",
-        "stroke_color": "#FACC15",
+        "stroke_color": "#C2570F",
         "dash_array": "4,4",
         "route_number": "CG"
       },
@@ -2629,7 +2629,7 @@
         "line_key": "L6",
         "name": "Tuyến 6: Phú Hữu - Sân bay Tân Sơn Nhất",
         "status": "proposed",
-        "stroke_color": "#22C55E",
+        "stroke_color": "#4CE84C",
         "dash_array": "4,4",
         "route_number": 6
       },
@@ -3917,7 +3917,7 @@
         "line_key": "L7",
         "name": "Tuyến 7: Tân Kiên - Vinhomes Grand Park",
         "status": "proposed",
-        "stroke_color": "#A855F7",
+        "stroke_color": "#E83B9E",
         "dash_array": "4,4",
         "route_number": 7
       },
@@ -5193,7 +5193,7 @@
         "line_key": "L2_THUDAUMOT",
         "name": "Tuyến 2: Thủ Dầu Một - TP.HCM",
         "status": "proposed",
-        "stroke_color": "#EC4899",
+        "stroke_color": "#E84C4C",
         "dash_array": "4,4",
         "route_number": 2
       },
@@ -6037,7 +6037,7 @@
         "line_key": "L3",
         "name": "Tuyến 3: Hiệp Bình Phước - An Hạ",
         "status": "proposed",
-        "stroke_color": "#F97316",
+        "stroke_color": "#E8A23B",
         "dash_array": "4,4",
         "route_number": 3
       },
@@ -7118,7 +7118,7 @@
         "name": "Tuyến 2: Đoạn nối Tham Lương - Bình Mỹ (ƯỚC LƯỢNG)",
         "status": "proposed",
         "route_number": 2,
-        "stroke_color": "#EC4899",
+        "stroke_color": "#E84C4C",
         "dash_array": "2,6",
         "is_estimated": true,
         "estimation_note": "Toạ độ ước lượng từ ảnh sơ đồ tham khảo (không phải dữ liệu OSM khảo sát), sai số có thể vài trăm mét. Dùng cho mục đích minh hoạ hình dạng tổng thể, không dùng để tính khoảng cách/catchment chính xác."
@@ -7224,7 +7224,7 @@
         "name": "Tuyến 4: Thạnh Xuân - Hiệp Phước",
         "status": "proposed",
         "route_number": 4,
-        "stroke_color": "#10B981",
+        "stroke_color": "#2DBD7E",
         "dash_array": "3,5",
         "is_estimated": true,
         "estimation_note": "Toạ độ ước lượng bằng cách đối chiếu ảnh sơ đồ tham khảo với các điểm neo chính xác đã biết (Ga Bến Thành, ga Thảo Điền/Tân Cảng/An Phú của Tuyến 1). Sai số ước tính 200-500m. Dùng cho mục đích minh hoạ hình dạng tổng thể, không dùng để tính khoảng cách/catchment chính xác."
@@ -7394,7 +7394,7 @@
         "name": "Tuyến 5: Đa Phước - Long Trường (Bến xe Cần Giuộc mới - Vinhomes Grand Park)",
         "status": "proposed",
         "route_number": 5,
-        "stroke_color": "#D946EF",
+        "stroke_color": "#B23BE8",
         "dash_array": "3,5",
         "is_estimated": true,
         "estimation_note": "Toạ độ ước lượng bằng cách đối chiếu ảnh sơ đồ tham khảo với các điểm neo chính xác đã biết (Ga Bến Thành, ga Thảo Điền/Tân Cảng/An Phú của Tuyến 1). Sai số ước tính 200-500m. Dùng cho mục đích minh hoạ hình dạng tổng thể, không dùng để tính khoảng cách/catchment chính xác."
@@ -7568,7 +7568,7 @@
         "name": "Tuyến 8: Đa Phước - Bình Mỹ",
         "status": "proposed",
         "route_number": 8,
-        "stroke_color": "#6366F1",
+        "stroke_color": "#6B5CE8",
         "dash_array": "3,5",
         "is_estimated": true,
         "estimation_note": "Toạ độ ước lượng bằng cách đối chiếu ảnh sơ đồ tham khảo với các điểm neo chính xác đã biết (Ga Bến Thành, Depot Bình Mỹ, Depot Đa Phước, Depot An Hạ, ga Bình Triệu - từ các tuyến OSM/đã trace trước). Sai số ước tính 200-500m. Dùng cho mục đích minh hoạ hình dạng tổng thể, không dùng để tính khoảng cách/catchment chính xác."
@@ -7734,7 +7734,7 @@
         "name": "Tuyến 9: An Hạ - Bình Triệu",
         "status": "proposed",
         "route_number": 9,
-        "stroke_color": "#F43F5E",
+        "stroke_color": "#D4C92D",
         "dash_array": "3,5",
         "is_estimated": true,
         "estimation_note": "Toạ độ ước lượng bằng cách đối chiếu ảnh sơ đồ tham khảo với các điểm neo chính xác đã biết (Ga Bến Thành, Depot Bình Mỹ, Depot Đa Phước, Depot An Hạ, ga Bình Triệu - từ các tuyến OSM/đã trace trước). Sai số ước tính 200-500m. Dùng cho mục đích minh hoạ hình dạng tổng thể, không dùng để tính khoảng cách/catchment chính xác."
@@ -7848,7 +7848,7 @@
         "name": "Tuyến 10: Vành đai ngoài (Ga Thủ Thiêm - vòng quanh thành phố)",
         "status": "proposed",
         "route_number": 10,
-        "stroke_color": "#84CC16",
+        "stroke_color": "#2DA8D4",
         "dash_array": "3,5",
         "is_estimated": true,
         "estimation_note": "Toạ độ ước lượng bằng cách đối chiếu ảnh sơ đồ tham khảo với điểm neo Ga Thủ Thiêm (chính xác, từ Tuyến 2), kết hợp ước lượng tỷ lệ pixel/km dựa trên tổng chiều dài tuyến đã công bố (83,9km). Sai số có thể cao hơn các tuyến khác (chỉ dùng 1 điểm neo + tỷ lệ suy ra, không phải 2+ điểm neo trực tiếp). Dùng cho mục đích minh hoạ hình dạng tổng thể, không dùng để tính khoảng cách/catchment chính xác."
