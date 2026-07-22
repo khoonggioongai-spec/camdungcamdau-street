@@ -1,0 +1,929 @@
+Tên	STT	Loại	Dân số (người)	Diện tích (km2)	Mật độ (người/km2)	Sáp nhập toàn bộ từ	Sáp nhập một phần từ	Giáp ranh	Full Address 1	Latitude 1	Longitude 1	SĐT	AFF+MAF  hiện tại	AFF+MAF  2030	CN hiện có	CN cần có	SLCN	Thị trường thừa/ thiếu	Mật độ Aff+Maf	TỈNH	GHÉP ĐVHC
+Bà Rịa	13	Phường	52265	16	3361	Phường Phước Trung, Phường Phước Nguyên, Phường Long Toàn, Phường Phước Hưng (TP. Bà Rịa)		phường Long Hương, phường Tam Long, phường Phước Thắng và xã Long Điền	Số 221 Cách mạng Tháng Tám, phường Bà Rịa	10,498699	107,167995	2543711781	12.808	16.858	1	0	1	Thừa CN	801	Thành phố Hồ Chí Minh	Bà RịaThành phố Hồ Chí Minh
+Tam Long	117	Phường	41130	35	1185	Phường Long Tâm (TP. Bà Rịa), Xã Hoà Long (TP. Bà Rịa), Xã Long Phước (TP. Bà Rịa)		phường Long Hương, phường Bà Rịa, xã Long Điền, xã Đất Đỏ và xã Nghĩa Thành	Tỉnh lộ 52, Ấp Đông, phường Tam Long	10,521766	107,207832	2543751844	10.081	13.268	0	0	0	Đủ CN	288	Thành phố Hồ Chí Minh	Tam LongThành phố Hồ Chí Minh
+Côn Đảo	54	Đặc khu	6502	76	86	Huyện Côn Đảo		không	Số 28, Tôn Đức Thắng, Đặc Khu Côn Đảo	8,682211	106,607268	2543830176	3.134	4.127	0	0	0	Đủ CN	41	Thành phố Hồ Chí Minh	Côn ĐảoThành phố Hồ Chí Minh
+Ngãi Giao	92	Xã	49065	69	708	Thị trấn Ngãi Giao, Xã Bình Ba, Xã Suối Nghệ (H. Châu Đức)		xã Bình Giã, xã Kim Long, phường Tân Thành, xã Châu Pha và xã Nghĩa Thành	Số 70 Trần Hưng Đạo, xã Ngãi Giao	10,655253	107,243237	2543881125	7.781	10.221	0	0	0	Đủ CN	113	Thành phố Hồ Chí Minh	Ngãi GiaoThành phố Hồ Chí Minh
+Nghĩa Thành	93	Xã	27819	66	424	Xã Đá Bạc (H. Châu Đức), Xã Nghĩa Thành (H. Châu Đức)		phường Long Hương, phường Tam Long, xã Đất Đỏ, xã Xuân Sơn, xã Bình Giã, xã Ngãi Giao và xã Châu Pha	Tổ 6 thôn Sông Cầu, xã Nghĩa Thành	10,567849	107,211527	2543881204	4.411	5.794	0	0	0	Đủ CN	67	Thành phố Hồ Chí Minh	Nghĩa ThànhThành phố Hồ Chí Minh
+Châu Đức	50	Xã	28240	85	334	Xã Cù Bị (H. Châu Đức), Xã Xà Bang (H. Châu Đức)		xã Bình Giã, xã Kim Long, phường Tân Thành và tỉnh Đồng Nai	Ấp Liên Lộc, xã Châu Đức	10,727754	107,237226	2543885121	4.479	5.882	0	0	0	Đủ CN	53	Thành phố Hồ Chí Minh	Châu ĐứcThành phố Hồ Chí Minh
+Xuân Sơn	166	Xã	27368	74	371	Xã Suối Rao (H. Châu Đức), Xã Xuân Sơn (H. Châu Đức), Xã Sơn Bình (H. Châu Đức)		xã Bình Giã, xã Nghĩa Thành, xã Đất Đỏ, xã Hồ Tràm, xã Hoà Hội và xã Bàu Lâm	Tổ 11, thôn Xuân Tân, xã Xuân Sơn	10,647031	107,329116	2543887279	4.340	5.701	0	0	0	Đủ CN	59	Thành phố Hồ Chí Minh	Xuân SơnThành phố Hồ Chí Minh
+Bình Giã	26	Xã	34262	67	512	Xã Bình Trung (H. Châu Đức), Xã Bình Giã (H. Châu Đức), Xã Quảng Thành (H. Châu Đức)		xã Châu Đức, xã Kim Long, xã Ngãi Giao, xã Nghĩa Thành, xã Xuân Sơn và tỉnh Đồng Nai	Đường Mỹ xuân-Hoà bình, tổ 1, ấp Vĩnh Bình, xã Bình Giã	10,645235	107,255145	2543968533	5.433	7.137	0	0	0	Đủ CN	81	Thành phố Hồ Chí Minh	Bình GiãThành phố Hồ Chí Minh
+Kim Long	78	Xã	33369	64	522	Thị trấn Kim Long, Xã Bàu Chinh, Xã Láng Lớn (H. Châu Đức)		xã Bình Giã, xã Châu Đức, phường Tân Thành và xã Ngãi Giao	Tổ 19, xã Kim Long	10,702277	107,244080	2543985120	5.292	6.951	0	0	0	Đủ CN	83	Thành phố Hồ Chí Minh	Kim LongThành phố Hồ Chí Minh
+Bến Cát	19	Phường	97928	101	971	Xã Lai Hưng (H. Bàu Bàng), Xã Tân Hưng (H. Bàu Bàng)	Phường Mỹ Phước (TP. Bến Cát)	phường Chánh Phú Hoà, phường Long Nguyên, phường Thới Hoà, xã Bàu Bàng và xã An Long	Đường 30 Tháng 4, phường Bến Cát	11,152058	106,593541	2743559732	9.297	12.127	1	0	1	Thừa CN	92	Thành phố Hồ Chí Minh	Bến CátThành phố Hồ Chí Minh
+Long Nguyên	86	Phường	53387	108	494	Xã Long Nguyên (H. Bàu Bàng), Phường An Điền (TP. Bến Cát)	Phường Mỹ Phước (TP. Bến Cát)	phường Bến Cát, phường Thới Hoà, phường Tây Nam, phường Phú An, xã Long Hoà, xã Bàu Bàng và xã Thanh An	Đường An Điền 151, phường Long Nguyên	11,148081	106,559197	2743564445	5.069	6.611	0	0	0	Đủ CN	47	Thành phố Hồ Chí Minh	Long NguyênThành phố Hồ Chí Minh
+Tân Hiệp	124	Phường	142494	47	3028	Phường Khánh Bình (TP. Tân Uyên), Phường Tân Hiệp (TP. Tân Uyên)		phường Tân Uyên, phường Bình Dương, phường Vĩnh Tân, phường Tân Khánh và phường Bình Cơ	Đường Nguyễn Khuyến, phường Tân Hiệp	10,965605	106,866728	2743655456	23.736	31.062	0	1	(1)	Thiếu CN	505	Thành phố Hồ Chí Minh	Tân HiệpThành phố Hồ Chí Minh
+Vườn Lài	163	Phường	104076	1	81309	Phường 1 (Quận 10), Phường 2 (Quận 10), Phường 4 (Quận 10), Phường 9 (Quận 10), Phường 10 (Quận 10)		phường Diên Hồng, phường Hoà Hưng, phường Bàn Cờ, phường Chợ Quán và phường An Đông	Số 168 Hùng Vương, phường Vườn Lài	10,761550	106,669813	2838359477	27.178	36.080	0	1	(1)	Thiếu CN	27178	Thành phố Hồ Chí Minh	Vườn LàiThành phố Hồ Chí Minh
+Long Hương	85	Phường	31457	41	763	Phường Kim Dinh (TP. Bà Rịa), Phường Long Hương (TP. Bà Rịa), Xã Tân Hưng (TP. Bà Rịa)		phường Bà Rịa, phường Tam Long, phường Tân Hải, phường Phước Thắng, xã Long Sơn, xã Châu Pha và xã Nghĩa Thành	Đường Trịnh Đình Thảo, phường Long Hương	10,505637	107,133747	823683968	7.708	10.145	0	0	0	Đủ CN	188	Thành phố Hồ Chí Minh	Long HươngThành phố Hồ Chí Minh
+Tân An Hội	119	Xã	84342	54	1576	Xã Phước Hiệp (H. Củ Chi), Xã Tân An Hội (H. Củ Chi), Thị trấn Củ Chi (H. Củ Chi)		xã Củ Chi, xã Thái Mỹ, xã Nhuận Đức và tỉnh Tây Ninh	Số 77 Tỉnh lộ 8, xã Tân An Hội	10,973855	106,493898	901404999	18.030	23.742	0	1	(1)	Thiếu CN	334	Thành phố Hồ Chí Minh	Tân An HộiThành phố Hồ Chí Minh
+Bình Chánh	21	Xã	76187	21	3572	Xã Bình Chánh (H. Bình Chánh), Xã Tân Quý Tây (H. Bình Chánh)	Xã An Phú Tây (H. Bình Chánh)	xã Tân Nhựt, xã Bình Hưng, xã Hưng Long, phường Bình Đông và tỉnh Tây Ninh	Số 345, đường Trịnh Như Khuê, xã Bình Chánh	10,663042	106,567246	901481788	9.085	12.049	0	0	0	Đủ CN	433	Thành phố Hồ Chí Minh	Bình ChánhThành phố Hồ Chí Minh
+Củ Chi	55	Xã	128661	65	1983	Xã Tân Phú Trung (H. Củ Chi), Xã Tân Thông Hội (H. Củ Chi), Xã Phước Vĩnh An (H. Củ Chi)		xã Tân An Hội, xã Nhuận Đức, xã Phú Hoà Đông, xã Hóc Môn, xã Xuân Thới Sơn và tỉnh Tây Ninh	Số 342 Phan Văn Khải, ấp Đình, xã Củ Chi	10,940034	106,539751	907279579	27.504	36.218	1	1	0	Đủ CN	423	Thành phố Hồ Chí Minh	Củ ChiThành phố Hồ Chí Minh
+Nhuận Đức	96	Xã	40239	62	648	Xã Nhuận Đức (H. Củ Chi), Xã Trung Lập Hạ (H. Củ Chi), Xã Phạm Văn Cội (H. Củ Chi)		xã Thái Mỹ, xã Tân An Hội, xã Củ Chi, xã Phú Hoà Đông, xã An Nhơn Tây và phường Tây Nam	Số 1A Bà Thiên, ấp Ngã Tư, xã Nhuận Đức	11,034097	106,487063	908169934	8.601	11.327	0	0	0	Đủ CN	139	Thành phố Hồ Chí Minh	Nhuận ĐứcThành phố Hồ Chí Minh
+Tân Nhựt	129	Xã	115513	44	2645	Xã Tân Nhựt (H. Bình Chánh), Thị trấn Tân Túc (H. Bình Chánh)	Xã Tân Kiên (H. Bình Chánh), Phường Tân Tạo A (Quận Bình Tân), Phường 16 (Quận 8)	xã Bình Lợi, xã Bình Chánh, phường Phú Định, phường Bình Đông, phường An Lạc, phường Tân Tạo và tỉnh Tây Ninh	Số 79, đường Tân Túc, xã Tân Nhựt	10,690017	106,584371	908856970	13.759	18.249	0	1	(1)	Thiếu CN	313	Thành phố Hồ Chí Minh	Tân NhựtThành phố Hồ Chí Minh
+Hưng Long	76	Xã	71504	36	2012	Xã Hưng Long (H. Bình Chánh), Xã Qui Đức (H. Bình Chánh), Xã Đa Phước (H. Bình Chánh)		xã Bình Chánh, xã Bình Hưng, xã Hiệp Phước và tỉnh Tây Ninh	Số 564 Đoàn Nguyễn Tuấn, xã Hưng Long	10,650245	106,624569	909501338	8.526	11.308	0	0	0	Đủ CN	237	Thành phố Hồ Chí Minh	Hưng LongThành phố Hồ Chí Minh
+Tân Vĩnh Lộc	141	Xã	163839	34	4812	Xã Vĩnh Lộc B (H. Bình Chánh)	Xã Phạm Văn Hai (H. Bình Chánh), Phường Tân Tạo (Quận Bình Tân)	xã Vĩnh Lộc, xã Bình Lợi, phường Bình Tân và tỉnh Tây Ninh	Số 2206 đường Trần Văn Giàu, xã Tân Vĩnh Lộc	10,798364	106,560551	909539800	19.588	25.981	0	1	(1)	Thiếu CN	576	Thành phố Hồ Chí Minh	Tân Vĩnh LộcThành phố Hồ Chí Minh
+An Nhơn Tây	8	Xã	40896	78	526	Xã Phú Mỹ Hưng (H. Củ Chi), Xã An Phú (H. Củ Chi), Xã An Nhơn Tây (H. Củ Chi)		xã Thái Mỹ, xã Nhuận Đức, phường Tây Nam và tỉnh Tây Ninh	Số 1407 Tỉnh lộ 7, ấp Chợ Củ 2, xã An Nhơn Tây	11,087474	106,512721	913133727	8.743	11.513	0	0	0	Đủ CN	112	Thành phố Hồ Chí Minh	An Nhơn TâyThành phố Hồ Chí Minh
+Hồ Tràm	69	Xã	51895	95	549	Thị trấn Phước Bửu, Xã Phước Tân, Xã Phước Thuận (H. Xuyên Mộc)		xã Phước Hải, xã Đất Đỏ, xã Xuân Sơn, xã Hoà Hội, xã Xuyên Mộc và Biển Đông	Hẻm 147, Quốc lộ 55, xã Hồ Tràm	10,537909	107,406314	918509160	6.569	8.618	0	0	0	Đủ CN	69	Thành phố Hồ Chí Minh	Hồ TràmThành phố Hồ Chí Minh
+Tân Đông Hiệp	122	Phường	100243	21	4669	Phường Tân Bình (TP. Dĩ An)	Phường Tân Đông Hiệp (TP. Dĩ An), Phường Thái Hoà (TP. Tân Uyên)	phường An Phú, phường Dĩ An, phường Đông Hoà, phường Tân Khánh và tỉnh Đồng Nai	Số 880, đường Nguyễn Thị Minh Khai, phường Tân Đông Hiệp	10,936795	106,766130	918699011	16.698	21.851	0	1	(1)	Thiếu CN	795	Thành phố Hồ Chí Minh	Tân Đông HiệpThành phố Hồ Chí Minh
+Vĩnh Lộc	160	Xã	167521	31	5484	Xã Vĩnh Lộc A (H. Bình Chánh)	Xã Phạm Văn Hai (H. Bình Chánh)	xã Tân Vĩnh Lộc, phường Bình Tân, xã Bà Điểm, xã Xuân Thới Sơn và tỉnh Tây Ninh	F7/16 Hương lộ 80, xã Vĩnh Lộc	10,813460	106,578622	919389207	19.918	26.418	0	1	(1)	Thiếu CN	643	Thành phố Hồ Chí Minh	Vĩnh LộcThành phố Hồ Chí Minh
+Bình Hưng	28	Xã	183697	33	5631	Xã Bình Hưng (H. Bình Chánh), Xã Phong Phú (H. Bình Chánh)	Phường 7 (Quận 8)	xã Hưng Long, xã Bình Chánh, xã Tân Nhựt, phường Chánh Hưng, phường Bình Đông, phường Tân Hưng, xã Nhà Bè, xã Hiệp Phước	A10/26A đường Số 10, Khu dân cư Bình Hưng, xã Bình Hưng	10,720010	106,670396	931869938	21.907	29.057	1	1	0	Đủ CN	664	Thành phố Hồ Chí Minh	Bình HưngThành phố Hồ Chí Minh
+Bình Lợi	31	Xã	47180	54	871	Xã Bình Lợi (H. Bình Chánh), Xã Lê Minh Xuân (H. Bình Chánh)		xã Tân Vĩnh Lộc, xã Tân Nhựt, phường Bình Tân, phường Tân Tạo và tỉnh Tây Ninh	Số 1905, đường Trần Văn Giàu, xã Bình Lợi	10,777358	106,537505	937048567	5.626	7.462	0	0	0	Đủ CN	104	Thành phố Hồ Chí Minh	Bình LợiThành phố Hồ Chí Minh
+Chánh Phú Hòa	49	Phường	53916	70	775	Phường Chánh Phú Hoà (TP. Bến Cát), Xã Hưng Hoà (H. Bàu Bàng)		phường Vĩnh Tân, phường Bến Cát, phường Hoà Lợi, phường Thới Hoà, xã Phước Hoà và xã An Long	Đường Nguyễn Văn Thành, phường Chánh Phú Hòa	11,144099	106,669886	938882779	5.119	6.677	0	0	0	Đủ CN	73	Thành phố Hồ Chí Minh	Chánh Phú HòaThành phố Hồ Chí Minh
+Phú Hòa Đông	100	Xã	97766	60	1636	Xã Tân Thạnh Tây (H. Củ Chi), Xã Tân Thạnh Đông (H. Củ Chi), Xã Phú Hoà Đông (H. Củ Chi)		xã Bình Mỹ, xã Củ Chi, xã Nhuận Đức, xã Xuân Thới Sơn, phường Tây Nam và phường Phú An	Số 269 Tỉnh lộ 8, ấp 2A, xã Phú Hòa Đông	10,984888	106,559347	964793096	20.900	27.521	0	1	(1)	Thiếu CN	348	Thành phố Hồ Chí Minh	Phú Hòa ĐôngThành phố Hồ Chí Minh
+Phú Giáo	99	Xã	42739	193	222	Xã An Bình (H. Phú Giáo), Thị trấn Phước Vĩnh (H. Phú Giáo)	Xã Tam Lập (H. Phú Giáo)	xã Phước Thành, xã Phước Hoà, xã Bắc Tân Uyên và tỉnh Đồng Nai	Số 16A, đường Trần Quang Diệu, xã Phú Giáo	11,294679	106,795069	964809126	3.553	4.708	0	0	0	Đủ CN	18	Thành phố Hồ Chí Minh	Phú GiáoThành phố Hồ Chí Minh
+Thường Tân	156	Xã	21238	121	176	Xã Thường Tân (H. Bắc Tân Uyên), Xã Lạc An (H. Bắc Tân Uyên), Xã Hiếu Liêm (H. Bắc Tân Uyên)	Xã Tân Mỹ (H. Bắc Tân Uyên)	xã Bắc Tân Uyên, phường Tân Uyên và tỉnh Đồng Nai	Đường ĐT746, ấp 4, xã Thường Tân	11,028004	106,865316	976643121	6.376	8.367	0	0	0	Đủ CN	53	Thành phố Hồ Chí Minh	Thường TânThành phố Hồ Chí Minh
+Phước Thành	113	Xã	15803	123	128	Xã An Thái (H. Phú Giáo), Xã Phước Sang (H. Phú Giáo), Xã Tân Hiệp (H. Phú Giáo)		xã Phú Giáo, xã Phước Hoà, xã An Long và tỉnh Đồng Nai	Đường ĐH508, xã Phước Thành	11,361269	106,771535	986754606	1.313	1.741	0	0	0	Đủ CN	11	Thành phố Hồ Chí Minh	Phước ThànhThành phố Hồ Chí Minh
+Thủ Dầu Một	152	Phường	88132	16	5621	Phường Phú Cường (TP. Thủ Dầu Một), Phường Phú Thọ (TP. Thủ Dầu Một), Phường Chánh Nghĩa (TP. Thủ Dầu Một)	Phường Hiệp Thành (TP. Thủ Dầu Một), Phường Chánh Mỹ (TP. Thủ Dầu Một)	phường Phú Lợi, phường Thuận An, phường Chánh Hiệp, phường Thuận Giao và xã Bình Mỹ	Số 01, đường Quang Trung, phường Thủ Dầu Một	10,980546	106,651957	1900866665	18.340	24.263	0	1	(1)	Thiếu CN	1146	Thành phố Hồ Chí Minh	Thủ Dầu MộtThành phố Hồ Chí Minh
+Vũng Tàu	162	Phường	117413	17	6964	Phường 1 (TP. Vũng Tàu), Phường 2 (TP. Vũng Tàu), Phường 3 (TP. Vũng Tàu), Phường 4 (TP. Vũng Tàu), Phường 5 (TP. Vũng Tàu), Phường Thắng Nhì (TP. Vũng Tàu), Phường Thắng Tam (TP. Vũng Tàu)		phường Tam Thắng và Biển Đông	Số 89 Lý Thường Kiệt, Phường 1, phường Vũng Tàu	10,350259	107,076291	2543511928	39.221	51.720	1	2	(1)	Thiếu CN	2307	Thành phố Hồ Chí Minh	Vũng TàuThành phố Hồ Chí Minh
+Tam Thắng	118	Phường	86420	12	7349	Phường 7, Phường 8, Phường 9, Phường Nguyễn An Ninh (TP. Vũng Tàu)		phường Rạch Dừa, phường Vũng Tàu và biển Đông	Số 603 đường Nguyễn An Ninh, phường Tam Thắng	10,361761	107,095681	2543583366	28.871	38.072	2	1	1	Thừa CN	2406	Thành phố Hồ Chí Minh	Tam ThắngThành phố Hồ Chí Minh
+Hòa Hiệp	71	Xã	25995	99	262	Xã Hoà Hiệp (H. Xuyên Mộc) (giữ nguyên)		xã Bàu Lâm, xã Hoà Hội, xã Bình Châu và tỉnh Lâm Đồng	Tỉnh lộ 329, ấp Phú Bình, xã Hòa Hiệp	10,689117	107,500480	2543784254	3.291	4.316	0	0	0	Đủ CN	33	Thành phố Hồ Chí Minh	Hòa HiệpThành phố Hồ Chí Minh
+Long Sơn	88	Xã	17767	57	314	Xã Long Sơn (TP. Vũng Tàu) (giữ nguyên)		phường Phước Thắng, phường Long Hương, phường Tân Hải và Biển Đông	Thôn 1, xã Long Sơn	10,463689	107,084246	2543844005	5.933	7.824	0	0	0	Đủ CN	104	Thành phố Hồ Chí Minh	Long SơnThành phố Hồ Chí Minh
+Bình Châu	22	Xã	26054	87	299	Xã Bình Châu (H. Xuyên Mộc) (giữ nguyên)		xã Xuyên Mộc, xã Hoà Hội, xã Hoà Hiệp, tỉnh Lâm Đồng và Biển Đông	Quốc lộ 55, ấp Láng Găng, xã Bình Châu	10,560390	107,541126	2543871137	3.298	4.326	0	0	0	Đủ CN	38	Thành phố Hồ Chí Minh	Bình ChâuThành phố Hồ Chí Minh
+Xuyên Mộc	168	Xã	26917	103	261	Xã Bông Trang, Xã Xuyên Mộc, Xã Bưng Riềng (H. Xuyên Mộc)		xã Bình Châu, xã Hoà Hội, xã Hồ Tràm và Biển Đông	Quốc lộ 55, ấp Trang Hoàng, xã Xuyên Mộc	10,553251	107,455475	2543878337	3.408	4.470	0	0	0	Đủ CN	33	Thành phố Hồ Chí Minh	Xuyên MộcThành phố Hồ Chí Minh
+Tân Hải	123	Phường	30297	52	584	Phường Tân Hoà (TP. Phú Mỹ), Phường Tân Hải (TP. Phú Mỹ)		phường Long Hương, phường Tân Phước, xã Châu Pha và xã Long Sơn	QL 51, thôn Láng Cát, phường Tân Hải	10,499955	107,102612	2543890517	16.920	22.257	0	1	(1)	Thiếu CN	325	Thành phố Hồ Chí Minh	Tân HảiThành phố Hồ Chí Minh
+Châu Pha	51	Xã	25438	66	388	Xã Tóc Tiên (TP. Phú Mỹ), Xã Châu Pha (TP. Phú Mỹ)		phường Long Hương, phường Tân Hải, phường Tân Phước, phường Phú Mỹ, phường Tân Thành, xã Ngãi Giao và xã Nghĩa Thành	Thôn Tân Lễ B, xã Châu pha	10,573543	107,160176	2543897552	15.299	20.124	0	1	(1)	Thiếu CN	232	Thành phố Hồ Chí Minh	Châu PhaThành phố Hồ Chí Minh
+Tân Thành	137	Phường	33943	62	551	Phường Hắc Dịch (TP. Phú Mỹ), Xã Sông Xoài (TP. Phú Mỹ)		phường Phú Mỹ, xã Châu Pha, xã Ngãi Giao, xã Kim Long, xã Châu Đức và tỉnh Đồng Nai	Số 152, đường Bình Giã, phường Tân Thành	10,641694	107,121685	2543898433	18.956	24.934	0	1	(1)	Thiếu CN	306	Thành phố Hồ Chí Minh	Tân ThànhThành phố Hồ Chí Minh
+Tân Phước	131	Phường	29363	84	351	Phường Tân Phước (TP. Phú Mỹ), Phường Phước Hoà (TP. Phú Mỹ)		phường Phú Mỹ, phường Tân Hải, xã Châu Pha, xã Thạnh An và Biển Đông	Số 2102, Đường Độc lập, phường Tân Phước	10,564596	107,059288	2543936003	16.399	21.570	0	1	(1)	Thiếu CN	195	Thành phố Hồ Chí Minh	Tân PhướcThành phố Hồ Chí Minh
+Hòa Lợi	74	Phường	79694	34	2373	Phường Tân Định (TP. Bến Cát), Phường Hoà Lợi (TP. Bến Cát)		phường Vĩnh Tân, phường Bình Dương, phường Thới Hoà, phường Phú An, phường Chánh Hiệp và phường Chánh Phú Hoà	Số 353, đường Nguyễn Văn Thành, phường Hòa Lợi	11,101557	106,663144	2743560367	46.037	60.065	0	1	(1)	Thiếu CN	1354	Thành phố Hồ Chí Minh	Hòa LợiThành phố Hồ Chí Minh
+Tân Khánh	127	Phường	126393	38	3306	Xã Thạnh Hội (TP. Tân Uyên), Phường Thạnh Phước (TP. Tân Uyên), Phường Tân Phước Khánh (TP. Tân Uyên), Phường Tân Vĩnh Hiệp (TP. Tân Uyên)	Phường Thái Hoà (TP. Tân Uyên)	phường Tân Uyên, phường Bình Dương, phường Phú Lợi, phường Thuận Giao, phường Tân Đông Hiệp, phường An Phú, phường Tân Hiệp và tỉnh Đồng Nai	Đường ĐT746, phường Tân Khánh	11,003468	106,721189	2743612344	21.054	27.552	0	1	(1)	Thiếu CN	554	Thành phố Hồ Chí Minh	Tân KhánhThành phố Hồ Chí Minh
+Bắc Tân Uyên	14	Xã	27964	144	195	Xã Đất Cuốc (H. Bắc Tân Uyên), Xã Tân Định (H. Bắc Tân Uyên), Thị trấn Tân Thành (H. Bắc Tân Uyên)		xã Thường Tân, xã Phước Hoà, xã Phú Giáo, phường Tân Uyên, phường Bình Cơ và tỉnh Đồng Nai	Khu phố 5, xã Bắc Tân Uyên	11,127367	106,851528	2743620260	8.395	11.017	0	0	0	Đủ CN	58	Thành phố Hồ Chí Minh	Bắc Tân UyênThành phố Hồ Chí Minh
+Bình Cơ	23	Phường	64601	74	877	Xã Bình Mỹ (H. Bắc Tân Uyên), Phường Hội Nghĩa (TP. Tân Uyên)		phường Tân Uyên, phường Vĩnh Tân, phường Tân Hiệp, xã Bắc Tân Uyên, xã Phước Hoà	Đường ĐT747A, phường Bình Cơ	11,108208	106,759920	2743648464	10.761	14.082	0	0	0	Đủ CN	145	Thành phố Hồ Chí Minh	Bình CơThành phố Hồ Chí Minh
+Tân Uyên	140	Phường	73032	95	771	Phường Uyên Hưng (TP. Tân Uyên), Xã Bạch Đằng (TP. Tân Uyên), Xã Tân Lập (H. Bắc Tân Uyên)	Xã Tân Mỹ (H. Bắc Tân Uyên)	phường Tân Khánh, phường Tân Hiệp, phường Bình Cơ, xã Bắc Tân Uyên, xã Thường Tân và tỉnh Đồng Nai	Khu phố 1, phường Tân Uyên	11,061098	106,798854	2743686970	12.165	15.920	0	0	0	Đủ CN	128	Thành phố Hồ Chí Minh	Tân UyênThành phố Hồ Chí Minh
+Thuận An	154	Phường	64689	16	4015	Phường Hưng Định (TP. Thuận An), Phường An Thạnh (TP. Thuận An), Xã An Sơn (TP. Thuận An)		phường Thuận Giao, phường Lái Thiêu, phường Phú Lợi, phường Thủ Dầu Một, xã Bình Mỹ và xã Đông Thạnh	Số 289, đường Hưng Định 31, phường Thuận An	10,939813	106,691515	2743746374	13.860	18.172	0	1	(1)	Thiếu CN	866	Thành phố Hồ Chí Minh	Thuận AnThành phố Hồ Chí Minh
+Lái Thiêu	79	Phường	118852	15	7688	Phường Lái Thiêu (TP. Thuận An), Phường Bình Nhâm (TP. Thuận An)	Phường Vĩnh Phú (TP. Thuận An)	phường Bình Hoà, phường Thuận An, phường Thuận Giao, phường An Phú Đông và xã Đông Thạnh	Đường Phan Đình Phùng, phường Lái Thiêu	10,905091	106,699615	2743787357	25.464	33.387	1	1	0	Đủ CN	1698	Thành phố Hồ Chí Minh	Lái ThiêuThành phố Hồ Chí Minh
+Bình Dương	25	Phường	107576	58	1850	Phường Hoà Phú (TP. Thủ Dầu Một), Phường Phú Mỹ (TP. Thủ Dầu Một), Phường Phú Tân (TP. Thủ Dầu Một), Phường Phú Chánh (TP. Tân Uyên)		phường Vĩnh Tân, phường Tân Hiệp, phường Tân Khánh, phường Hoà Lợi, phường Chánh Hiệp và phường Phú Lợi	Số 357, đường Võ Nguyên Giáp, phường Bình Dương	11,070084	106,670694	2743815198	22.387	29.615	0	1	(1)	Thiếu CN	386	Thành phố Hồ Chí Minh	Bình DươngThành phố Hồ Chí Minh
+Chánh Hiệp	47	Phường	57176	20	2875	Phường Định Hoà (TP. Thủ Dầu Một), Phường Tương Bình Hiệp (TP. Thủ Dầu Một)	Phường Hiệp An (TP. Thủ Dầu Một), Phường Chánh Mỹ (TP. Thủ Dầu Một)	phường Bình Dương, phường Phú Lợi, phường Thủ Dầu Một, phường Phú An, phường Hoà Lợi và xã Bình Mỹ	Số 279, đường Hồ Văn Cống, phường Chánh Hiệp	11,008997	106,633372	2743824243	11.735	15.523	0	0	0	Đủ CN	587	Thành phố Hồ Chí Minh	Chánh HiệpThành phố Hồ Chí Minh
+Phú An	97	Phường	46142	35	1319	Xã Phú An (TP. Bến Cát), Phường Tân An (TP. Thủ Dầu Một)	Phường Hiệp An (TP. Thủ Dầu Một)	phường Chánh Hiệp, phường Hoà Lợi, phường Thới Hoà, phường Long Nguyên, phường Tây Nam, xã Phú Hoà Đông và xã Bình Mỹ	Số 143, đường Nguyễn Đức Cảnh, phường Phú An	11,026851	106,638019	2743888383	9.766	12.920	0	0	0	Đủ CN	279	Thành phố Hồ Chí Minh	Phú AnThành phố Hồ Chí Minh
+Phú Lợi	102	Phường	107721	18	5998	Phường Phú Lợi (TP. Thủ Dầu Một), Phường Phú Hoà (TP. Thủ Dầu Một)	Phường Hiệp Thành (TP. Thủ Dầu Một)	phường Tân Khánh, phường Thuận Giao, phường Thủ Dầu Một, phường Chánh Hiệp, phường Thuận An và phường Bình Dương	Số 438, đường Phú Lợi, phường Phú Lợi	10,984287	106,681245	2743904872	22.417	29.656	2	2	0	Đủ CN	1245	Thành phố Hồ Chí Minh	Phú LợiThành phố Hồ Chí Minh
+Chánh Hưng	48	Phường	190707	5	41368	Phường Rạch Ông (Quận 8), Phường Hưng Phú (Quận 8), Phường 4 (Quận 8)	Phường 5 (Quận 8)	phường Bình Đông, phường Phú Định, phường Chợ Quán, phường An Đông, phường Tân Hưng, phường Vĩnh Hội và xã Bình Hưng	Trụ sở chính: 39 Dương Bạch Mai, phường Chánh Hưng; - Điểm tiếp nhận thứ nhất: 210-212 Âu Dương Lân, phường Chánh Hưng; - Điểm tiếp nhận thứ hai: 625-625A Hưng Phú, phường Chánh Hưng;	10,740399	106,665774	2822206789	23.819	31.601	1	1	0	Đủ CN	4764	Thành phố Hồ Chí Minh	Chánh HưngThành phố Hồ Chí Minh
+Bình Lợi Trung	32	Phường	116121	4	29851	Phường 5 (Quận Bình Thạnh), Phường 11 (Quận Bình Thạnh), Phường 13 (Quận Bình Thạnh)		phường Bình Thạnh, phường Hiệp Bình, phường An Phú Đông, phường Hạnh Thông, phường An Nhơn và phường Đức Nhuận	Số 355/5 Nơ Trang Long, phường Bình Lợi Trung	10,820454	106,702458	2835533088	33.449	44.536	1	1	0	Đủ CN	8362	Thành phố Hồ Chí Minh	Bình Lợi TrungThành phố Hồ Chí Minh
+Bình Quới	35	Phường	46200	6	7287	Phường 27 (Quận Bình Thạnh), Phường 28 (Quận Bình Thạnh)		phường Thạnh Mỹ Tây, phường Bình Thạnh, phường Hiệp Bình, phường Thủ Đức, phường An Khánh	Số 1 khu hành chính Thanh Đa, phường Bình Quới	10,815532	106,720580	2835566641	13.309	17.719	0	0	0	Đủ CN	2218	Thành phố Hồ Chí Minh	Bình QuớiThành phố Hồ Chí Minh
+Thông Tây Hội	151	Phường	121192	3	37405	Phường 8 (Quận Gò Vấp), Phường 11 (Quận Gò Vấp)		phường An Hội Tây, phường Gò Vấp, phường An Hội Đông và phường Tân Sơn	Số 175 Nguyễn Văn Khối, phường Thông Tây Hội	10,834552	106,664189	2835899733	23.637	31.458	0	1	(1)	Thiếu CN	7879	Thành phố Hồ Chí Minh	Thông Tây HộiThành phố Hồ Chí Minh
+Nhà Bè	94	Xã	125832	37	3392	Thị trấn Nhà Bè, Xã Phú Xuân, Xã Phước Kiển, Xã Phước Lộc (H. Nhà Bè)		xã Hiệp Phước, phường Phú Thuận, phường Tân Hưng, phường Tân Mỹ, xã Bình Hưng và tỉnh Đồng Nai	Số 330 Nguyễn Bình, xã Nhà Bè	10,674390	106,732963	2836222444	22.829	30.295	2	1	1	Thừa CN	617	Thành phố Hồ Chí Minh	Nhà BèThành phố Hồ Chí Minh
+Đức Nhuận	63	Phường	71495	2	32947	Phường 4 (Quận Phú Nhuận), Phường 5 (Quận Phú Nhuận), Phường 9 (Quận Phú Nhuận)		phường Cầu Kiệu, phường Phú Nhuận, phường Tân Sơn Hoà, phường Hạnh Thông, phường Bình Lợi Trung và phường Gia Định	Số 744 Nguyễn Kiệm, phường Đức Nhuận	10,803897	106,684772	2836367113	27.251	36.244	0	1	(1)	Thiếu CN	13626	Thành phố Hồ Chí Minh	Đức NhuậnThành phố Hồ Chí Minh
+Trung Mỹ Tây	158	Phường	126470	7	18250	Phường Trung Mỹ Tây (Quận 12), Phường Tân Chánh Hiệp (Quận 12)		phường Đông Hưng Thuận, phường Tân Thới Hiệp, xã Bà Điểm, xã Đông Thạnh	Số 036, phường Trung Mỹ Tây	10,847348	106,616400	2837157559	22.950	30.511	0	1	(1)	Thiếu CN	3279	Thành phố Hồ Chí Minh	Trung Mỹ TâyThành phố Hồ Chí Minh
+Tân Thới Hiệp	138	Phường	168060	8	20851	Phường Hiệp Thành (Quận 12), Phường Tân Thới Hiệp (Quận 12)		phường Trung Mỹ Tây, phường Thới An, phường An Hội Tây và xã Đông Thạnh	Số 226 Trương Thị Hoa, phường Tân Thới Hiệp	10,866995	106,642005	2837171423	30.498	40.546	0	1	(1)	Thiếu CN	3812	Thành phố Hồ Chí Minh	Tân Thới HiệpThành phố Hồ Chí Minh
+Thới An	149	Phường	125657	15	8433	Phường Thới An (Quận 12), Phường Thạnh Xuân (Quận 12)		phường An Phú Đông, phường Tân Thới Hiệp, phường An Hội Đông, phường An Hội Tây và xã Đông Thạnh	Số 340 Lê Văn Khương, phường Thới An	10,875493	106,649485	2837173560	22.802	30.316	0	1	(1)	Thiếu CN	1520	Thành phố Hồ Chí Minh	Thới AnThành phố Hồ Chí Minh
+Bình Hưng Hòa	29	Phường	187950	8	22190	Phường Bình Hưng Hoà (Quận Bình Tân)	Phường Bình Hưng Hoà A (Quận Bình Tân), Phường Sơn Kỳ (Quận Tân Phú)	phường Bình Tân, phường Bình Trị Đông, phường Đông Hưng Thuận, phường Tây Thạnh, phường Tân Sơn Nhì, phường Phú Thọ Hoà và phường Phú Thạnh	Số 621 Tân Kỳ Tân Quý, phường Bình Hưng Hòa	10,794221	106,610162	2837503732	31.896	42.436	0	1	(1)	Thiếu CN	3987	Thành phố Hồ Chí Minh	Bình Hưng HòaThành phố Hồ Chí Minh
+Bình Phú	34	Phường	75925	3	26547	Phường 10 (Quận 6), Phường 11 (Quận 6)	Phường 16 (Quận 8)	phường Bình Tiên, phường Phú Lâm, phường Bình Tây, phường An Lạc, phường Phú Định	Số 15 Chợ Lớn, phường Bình Phú	10,745922	106,634088	2837551430	12.007	15.883	1	0	1	Thừa CN	4002	Thành phố Hồ Chí Minh	Bình PhúThành phố Hồ Chí Minh
+Bình Tân	36	Phường	161851	11	14387	Phường Bình Hưng Hoà B (Quận Bình Tân)	Phường Bình Trị Đông A (Quận Bình Tân), Phường Tân Tạo (Quận Bình Tân)	phường Tân Tạo, phường Bình Hưng Hoà, phường Bình Trị Đông, xã Vĩnh Lộc, xã Tân Vĩnh Lộc, xã Bình Lợi và xã Bà Điểm	Số 43 đường Số 16, phường Bình Tân	10,813208	106,593829	2837652524	52.704	69.863	0	1	(1)	Thiếu CN	4791	Thành phố Hồ Chí Minh	Bình TânThành phố Hồ Chí Minh
+Hiệp Phước	68	Xã	67754	63	1070	Xã Nhơn Đức (H. Nhà Bè), Xã Long Thới (H. Nhà Bè), Xã Hiệp Phước (H. Nhà Bè)		xã Nhà Bè, xã Hưng Long, xã Bình Khánh, xã An Thới Đông và tỉnh Tây Ninh	Số 209 Nguyễn Văn Tạo, xã Hiệp Phước	10,656244	106,729005	2837801716	12.293	16.312	0	0	0	Đủ CN	195	Thành phố Hồ Chí Minh	Hiệp PhướcThành phố Hồ Chí Minh
+Sài Gòn	115	Phường	47022	3	15468	Phường Bến Nghé (Quận 1)	Phường Đa Kao (Quận 1), Phường Nguyễn Thái Bình (Quận 1)	phường Tân Định, phường Bến Thành, phường Cầu Ông Lãnh, phường Thạnh Mỹ Tây, phường An Khánh, phường Xuân Hoà	Số 45 - 47 Lê Duẩn, phường Sài Gòn	10,780631	106,699298	2838234223	56.805	75.379	2	1	1	Thừa CN	18935	Thành phố Hồ Chí Minh	Sài GònThành phố Hồ Chí Minh
+Vĩnh Hội	159	Phường	63015	1	53859	Phường 1 (Quận 4), Phường 3 (Quận 4)	Phường 2 (Quận 4), Phường 4 (Quận 4)	phường Khánh Hội, phường Cầu Ông Lãnh, phường Chợ Quán, phường Chánh Hưng, phường Tân Hưng	Số 130 đường 46, phường Vĩnh Hội	10,759072	106,698047	2838261566	17.285	22.873	0	1	(1)	Thiếu CN	17285	Thành phố Hồ Chí Minh	Vĩnh HộiThành phố Hồ Chí Minh
+Bến Thành	20	Phường	71875	2	38851	Phường Bến Thành (Quận 1), Phường Phạm Ngũ Lão (Quận 1)	Phường Cầu Ông Lãnh (Quận 1), Phường Nguyễn Thái Bình (Quận 1)	phường Sài Gòn, phường Cầu Ông Lãnh, phường Xuân Hoà, phường Bàn Cờ, phường Xóm Chiếu, phường Khánh Hội	Số 92 Nguyễn Trãi, phường Bến Thành	10,770185	106,691297	2838390856	86.829	115.220	0	1	(1)	Thiếu CN	43415	Thành phố Hồ Chí Minh	Bến ThànhThành phố Hồ Chí Minh
+Cầu Ông Lãnh	46	Phường	78734	2	49209	Phường Nguyễn Cư Trinh (Quận 1), Phường Cầu Kho (Quận 1), Phường Cô Giang (Quận 1)	Phường Cầu Ông Lãnh (Quận 1)	phường Bến Thành, phường Bàn Cờ, phường Chợ Quán, phường Khánh Hội, phường Vĩnh Hội	Số 105 Trần Đình Xu, phường Cầu Ông Lãnh	10,762380	106,688323	2838395783	95.115	126.215	0	1	(1)	Thiếu CN	47558	Thành phố Hồ Chí Minh	Cầu Ông LãnhThành phố Hồ Chí Minh
+Bàn Cờ	15	Phường	67616	1	68299	Phường 1 (Quận 3), Phường 2 (Quận 3), Phường 3 (Quận 3), Phường 5 (Quận 3)	Phường 4 (Quận 3)	phường Xuân Hoà, phường Vười Lài, phường Bến Thành, phường Cầu Ông Lãnh, phường Chợ Quán	Số 611/20 Điện Biên Phủ (Số cũ 611C), phường Bàn Cờ	10,768505	106,677129	2838396136	38.883	51.650	2	1	1	Thừa CN	38883	Thành phố Hồ Chí Minh	Bàn CờThành phố Hồ Chí Minh
+Thạnh Mỹ Tây	148	Phường	153216	4	34822	Phường 19 (Quận Bình Thạnh), Phường 22 (Quận Bình Thạnh), Phường 25 (Quận Bình Thạnh)		phường Gia định, phường Bình Thạnh, phường Bình Quới, phường An Khánh và phường Sài Gòn	Số 85/16 Phạm Viết Chánh, phường Thạnh Mỹ Tây	10,797969	106,717900	2838404112	44.136	58.763	5	1	4	Thừa CN	11034	Thành phố Hồ Chí Minh	Thạnh Mỹ TâyThành phố Hồ Chí Minh
+Gia Định	64	Phường	125946	3	45633	Phường 1 (Quận Bình Thạnh), Phường 2 (Quận Bình Thạnh), Phường 7 (Quận Bình Thạnh), Phường 17 (Quận Bình Thạnh)		phường Thạnh Mỹ Tây, phường Bình Thạnh, phường Bình Lợi Trung, phường Sài Gòn, phường Tân Định, phường Đức Nhuận và phường Cầu Kiệu	Số 98 Lê Lê Văn Duyệt, phường Gia Định	10,798783	106,696475	2838412019	36.280	48.304	4	1	3	Thừa CN	12093	Thành phố Hồ Chí Minh	Gia ĐịnhThành phố Hồ Chí Minh
+Bình Thạnh	38	Phường	126300	3	38042	Phường 12 (Quận Bình Thạnh), Phường 14 (Quận Bình Thạnh), Phường 26 (Quận Bình Thạnh)		phường Gia Định, phường Bình Lợi Trung, phường Thạnh Mỹ Tây, phường Bình Quới	Số 6 Phan Đăng Lưu, phường Bình Thạnh	10,802824	106,696203	2838417902	36.382	48.440	2	1	1	Thừa CN	12127	Thành phố Hồ Chí Minh	Bình ThạnhThành phố Hồ Chí Minh
+Phú Nhuận	104	Phường	68420	1	46863	Phường 8 (Quận Phú Nhuận), Phường 10 (Quận Phú Nhuận), Phường 11 (Quận Phú Nhuận), Phường 13 (Quận Phú Nhuận)	Phường 15 (Quận Phú Nhuận)	phường Đức Nhuận, phường Cầu Kiệu, phường Nhiêu Lộc, phường Xuân Hoà, phường Tân Sơn Hoà	Số 159 Nguyễn Văn Trỗi, phường Phú Nhuận	10,795195	106,675253	2838443921	26.079	34.685	2	1	1	Thừa CN	26079	Thành phố Hồ Chí Minh	Phú NhuậnThành phố Hồ Chí Minh
+Tân Sơn Nhất	134	Phường	84639	3	26533	Phường 4 (Quận Tân Bình), Phường 5 (Quận Tân Bình), Phường 7 (Quận Tân Bình)		phường Tân Sơn Hoà, phường Bảy Hiền, phường Tân Hoà, phường Tân Sơn và phường Nhiêu Lộc	Số 25/4-6 Hoàng Việt, phường Tân Sơn Nhất	10,796968	106,659190	2838445063	30.685	40.780	3	1	2	Thừa CN	10228	Thành phố Hồ Chí Minh	Tân Sơn NhấtThành phố Hồ Chí Minh
+Bình Tiên	40	Phường	91520	2	56845	Phường 1 (Quận 6), Phường 7 (Quận 6), Phường 8 (Quận 6)		phường Bình Tây, phường Phú Định, phường Bình Phú, phường Chợ Lớn	Số 107 Cao Văn Lầu, phường Bình Tiên	10,746603	106,649177	2838552700	14.474	19.145	1	1	0	Đủ CN	7237	Thành phố Hồ Chí Minh	Bình TiênThành phố Hồ Chí Minh
+Minh Phụng	90	Phường	90808	1	71502	Phường 1 (Quận 11), Phường 7 (Quận 11), Phường 16 (Quận 11)		phường Bình Thới, phường Phú Thọ, phường Chợ Lớn, phường Bình Tây, phường Phú Lâm, phường Diên Hồng	Số 183 A Lý Nam Đế, phường Minh Phụng	10,762298	106,658956	2838553805	14.149	18.759	0	1	(1)	Thiếu CN	14149	Thành phố Hồ Chí Minh	Minh PhụngThành phố Hồ Chí Minh
+Phú Định	98	Phường	150389	6	25708	Phường Xóm Củi (Quận 8), Phường 14 (Quận 8), Phường 15 (Quận 8)	Phường 16 (Quận 8)	phường Bình Đông, phường Bình Tiên, phường Bình Phú, phường Chánh Hưng, phường An Đông, phường Chợ Lớn, phường An Lạc và xã Tân Nhựt	Trụ sở chính: 184 Lưu Hữu Phước, phường Phú Định; - Điểm tiếp nhận thứ nhất: 942 Nguyễn Duy, phường Phú Định; - Điểm tiếp nhận thứ hai: 450 Phú Định, phường Phú Định	10,712373	106,623839	2838555565	18.782	24.920	0	1	(1)	Thiếu CN	3130	Thành phố Hồ Chí Minh	Phú ĐịnhThành phố Hồ Chí Minh
+Bình Đông	24	Phường	155555	9	17419	Phường 6 (Quận 8)	Phường 7 (Quận 8), Phường 5 (Quận 8), Xã An Phú Tây (Huyện Bình Chánh)	phường Chánh Hưng, phường Phú Định, xã Tân Nhựt, xã Bình Chánh và xã Bình Hưng	Số 1094 Tạ Quang Bửu, phường Bình Đông	10,763909	106,614394	2838568756	19.525	25.904	1	1	0	Đủ CN	2169	Thành phố Hồ Chí Minh	Bình ĐôngThành phố Hồ Chí Minh
+Bình Thới	39	Phường	76478	2	50314	Phường 3 (Quận 11), Phường 10 (Quận 11)	Phường 8 (Quận 11)	phường Minh Phụng, phường Phú Thọ, phường Hoà Bình, phường Phú Lâm, phường Tân Phú	Số 270 Bình Thới, phường Bình Thới	10,763878	106,643596	2838580500	10.613	14.072	0	0	0	Đủ CN	5307	Thành phố Hồ Chí Minh	Bình ThớiThành phố Hồ Chí Minh
+Hòa Bình	70	Phường	69318	1	70733	Phường 5 (Quận 11), Phường 14 (Quận 11)		phường Bình Thới, phường Phú Thọ, phường Tân Phú, phường Tân Hoà	Số 347 Lạc Long Quân, phường Hòa Bình	10,770363	106,644533	2838600988	9.475	12.563	1	0	1	Thừa CN	9475	Thành phố Hồ Chí Minh	Hòa BìnhThành phố Hồ Chí Minh
+Hòa Hưng	73	Phường	96414	3	37225	Phường 12 (Quận 10), Phường 13 (Quận 10), Phường 15 (Quận 10)	Phường 14 (Quận 10)	phường Diên Hồng, phường Vườn Lài, phường Nhiêu Lộc, phường Xuân Hoà và phường Tân Hoà	A8 Châu Thới, phường Hòa Hưng	10,780543	106,664332	2838646278	25.177	33.424	4	1	3	Thừa CN	8392	Thành phố Hồ Chí Minh	Hòa HưngThành phố Hồ Chí Minh
+Phú Lâm	101	Phường	87513	2	43757	Phường 12 (Quận 6), Phường 13 (Quận 6), Phường 14 (Quận 6)		phường Bình Tiên, phường Bình Phú và phường Bình Tây, phường An Lạc, phường Bình Trị Đông, phường Phú Thạnh, phường Tân Phú, phường Minh Phụng, phường Bình Thới	Số 152 Đặng Nguyên Cẩn, phường Phú Lâm	10,754042	106,631474	2838754751	13.840	18.307	1	1	0	Đủ CN	6920	Thành phố Hồ Chí Minh	Phú LâmThành phố Hồ Chí Minh
+Đông Hưng Thuận	61	Phường	182895	8	22142	Phường Tân Thới Nhất (Quận 12), Phường Tân Hưng Thuận (Quận 12), Phường Đông Hưng Thuận (Quận 12)		phường Trung Mỹ Tây, phường Tân Thới Hiệp, phường An Hội Tây, phường Tân Sơn, phường Bình Hưng Hoà, phường Tây Thạnh và xã Bà Điểm	Số 68, đường TTN14, phường Đông Hưng Thuận	10,825871	106,616144	2838833587	33.189	44.124	3	2	1	Thừa CN	4149	Thành phố Hồ Chí Minh	Đông Hưng ThuậnThành phố Hồ Chí Minh
+Xuân Thới Sơn	167	Xã	103643	35	2944	Xã Xuân Thới Đông (H. Hóc Môn), Xã Xuân Thới Sơn (H. Hóc Môn), Xã Tân Thới Nhì (H. Hóc Môn)		xã Hóc Môn, xã Bà Điểm, xã Củ Chi và tỉnh Tây Ninh	Số 1A Lê Thị Kim, ấp 11, xã Xuân Thới Sơn	10,875501	106,579959	2838910467	13.993	18.578	0	1	(1)	Thiếu CN	400	Thành phố Hồ Chí Minh	Xuân Thới SơnThành phố Hồ Chí Minh
+An Phú Đông	10	Phường	179115	15	12277	Phường An Phú Đông (Quận 12), Phường Thạnh Lộc (Quận 12)		phường Thới An, phường Hiệp Bình, phường Bình Lợi Trung, phường An Nhơn và phường Lái Thiêu, phường Bình Hoà	Số 540 Hà Huy Giáp, phường An Phú Đông	10,877692	106,678774	2838919001	32.504	43.212	0	1	(1)	Thiếu CN	2167	Thành phố Hồ Chí Minh	An Phú ĐôngThành phố Hồ Chí Minh
+Thái Mỹ	145	Xã	49862	62	799	Xã Trung Lập Thượng (H. Củ Chi), Xã Thái Mỹ (H. Củ Chi), Xã Phước Thạnh (H. Củ Chi)		xã Tân An Hội, xã An Nhơn Tây, xã Nhuận Đức và tỉnh Tây Ninh	Số 712 Phan Văn Khải, ấp Phước Hưng, xã Thái Mỹ	11,004604	106,432222	2838929336	10.659	14.036	0	0	0	Đủ CN	172	Thành phố Hồ Chí Minh	Thái MỹThành phố Hồ Chí Minh
+Gò Vấp	65	Phường	110850	3	39448	Phường 10 (Quận Gò Vấp), Phường 17 (Quận Gò Vấp)		phường Hạnh Thông, phường An Nhơn, phường Thông Tây Hội, phường An Hội Đông và phường Tân Sơn	Số 332 (Số cũ 19) Quang Trung, phường Gò Vấp	10,831922	106,669329	2838941929	21.621	28.773	4	1	3	Thừa CN	7207	Thành phố Hồ Chí Minh	Gò VấpThành phố Hồ Chí Minh
+Hạnh Thông	66	Phường	128865	3	38239	Phường 1 (Quận Gò Vấp), Phường 3 (Quận Gò Vấp)		phường An Nhơn, phường Bình Lợi Trung, phường Đức Nhuận, phường Xuân Hoà, phường Tân Sơn	Số 306 (Số cũ 304) Nguyễn Văn Nghi, phường Hạnh Thông	10,820246	106,683115	2838946157	25.134	33.449	2	1	1	Thừa CN	8378	Thành phố Hồ Chí Minh	Hạnh ThôngThành phố Hồ Chí Minh
+Tân Định	121	Phường	48524	1	39450	Phường Tân Định (Quận 1)	Phường Đa Kao (Quận 1)	phường Sài Gòn, phường Gia Định, phường Cầu Kiệu, phường Xuân Hoà, phường Phú Nhuận	Số 58B Nguyễn Đình Chiểu, phường Tân Định	10,788969	106,699869	2839102126	58.620	77.786	1	1	0	Đủ CN	58620	Thành phố Hồ Chí Minh	Tân ĐịnhThành phố Hồ Chí Minh
+Nhiêu Lộc	95	Phường	88090	2	51515	Phường 9 (Quận 3), Phường 11 (Quận 3), Phường 12 (Quận 3), Phường 14 (Quận 3)		phường Xuân Hoà, phường Phú Nhuận, phường Tân Sơn Nhất, phường Vườn Lài, phường Hoà Hưng	Số 82 Bà Huyện Thanh Quan, phường Nhiêu Lộc	10,781567	106,682197	2839317313	50.643	67.271	1	1	0	Đủ CN	25322	Thành phố Hồ Chí Minh	Nhiêu LộcThành phố Hồ Chí Minh
+Xuân Hòa	165	Phường	48464	2	21831	Phường Võ Thị Sáu (Quận 3)	Phường 4 (Quận 3)	phường Nhiêu Lộc, phường Bàn Cờ, phường Tân Định, phường Sài Gòn, phường Vườn Lài, phường Phú Nhuận	Số 99 Trần Quốc Thảo (Số cũ 101), phường Xuân Hòa	10,782806	106,686144	2839326868	27.862	37.011	3	1	2	Thừa CN	13931	Thành phố Hồ Chí Minh	Xuân HòaThành phố Hồ Chí Minh
+Khánh Hội	77	Phường	94507	1	88324	Phường 8 (Quận 4), Phường 9 (Quận 4)	Phường 2 (Quận 4), Phường 4 (Quận 4), Phường 15 (Quận 4)	phường Xóm Chiếu, phường Vĩnh Hội và phường Tân Hưng, phường Bến Thành, phường Cầu Ông Lãnh	Số 531 Vĩnh Khánh, phường Khánh Hội	10,759572	106,700485	2839404977	25.924	34.305	2	1	1	Thừa CN	25924	Thành phố Hồ Chí Minh	Khánh HộiThành phố Hồ Chí Minh
+Xóm Chiếu	164	Phường	57875	2	29832	Phường 13 (Quận 4), Phường 16 (Quận 4), Phường 18 (Quận 4)	Phường 15 (Quận 4)	phường Khánh Hội, phường Tân Thuận, phường Sài Gòn, phường Bến Thành và phường An Khánh	Số 18 Đoàn Như Hài, phường Xóm Chiếu	10,766330	106,705127	2839431124	15.876	21.008	0	1	(1)	Thiếu CN	7938	Thành phố Hồ Chí Minh	Xóm ChiếuThành phố Hồ Chí Minh
+Bình Tây	37	Phường	63293	1	60279	Phường 2 (Quận 6), Phường 9 (Quận 6)		phường Bình Tiên, phường Bình Phú, phường Phú Lâm, phường Chợ Lớn, phường Minh Phụng	Số 154 Tháp Mười, phường Bình Tây	10,750568	106,653062	2839601096	10.010	13.240	2	1	1	Thừa CN	10010	Thành phố Hồ Chí Minh	Bình TâyThành phố Hồ Chí Minh
+Cầu Kiệu	45	Phường	62663	1	50946	Phường 1 (Quận Phú Nhuận), Phường 2 (Quận Phú Nhuận), Phường 7 (Quận Phú Nhuận)	Phường 15 (Quận Phú Nhuận)	phường Đức Nhuận, phường Phú Nhuận, phường Tân Định, phường Gia Định	Số 458 Phan Xích Long, phường Cầu Kiệu	10,796314	106,679401	2839903742	23.884	31.767	1	1	0	Đủ CN	23884	Thành phố Hồ Chí Minh	Cầu KiệuThành phố Hồ Chí Minh
+Dĩ An	58	Phường	227817	21	10656	Phường Dĩ An (TP. Dĩ An), Phường An Bình (TP. Dĩ An)	Phường Tân Đông Hiệp (TP. Dĩ An)	phường Đông Hoà, phường Bình Hoà, phường An Phú, phường Tân Đông Hiệp, phường Linh Xuân, phường Tam Bình	Đường Số 10, phường Dĩ An	10,891618	106,763031	789269979	61.086	80.298	0	2	(2)	Thiếu CN	2909	Thành phố Hồ Chí Minh	Dĩ AnThành phố Hồ Chí Minh
+Phước Thắng	112	Phường	52589	47	1111	Phường 11, Phường 12 (TP. Vũng Tàu)		phường Long Hương, phường Bà Rịa, phường Rạch Dừa, xã Long Sơn, xã Long Điền, xã Long Hải và Biển Đông	Số 7A đường Nguyễn Gia Thiều, phường Phước Thắng	10,419079	107,155376	888800247	17.565	23.164	0	1	(1)	Thiếu CN	374	Thành phố Hồ Chí Minh	Phước ThắngThành phố Hồ Chí Minh
+Tân Sơn	132	Phường	77229	10	7631		Phường 15 (Quận Tân Bình)	phường Tân Bình, phường Bảy Hiền, phường Tân Sơn Hoà, phường Tân Sơn Nhất, phường Hạnh Thông, phường Gò Vấp, phường Thông Tây Hội, phường An Hội Tây, phường Đông Hưng Thuận và phường Tây Thạnh	Số 822 (Số cũ 8/6) Trường Chinh, phường Tân Sơn	10,818499	106,631764	898899877	27.999	37.210	1	1	0	Đủ CN	2800	Thành phố Hồ Chí Minh	Tân SơnThành phố Hồ Chí Minh
+Hóc Môn	75	Xã	93323	16	5680	Xã Tân Xuân (H. Hóc Môn), Xã Tân Hiệp (H. Hóc Môn), Thị trấn Hóc Môn (H. Hóc Môn)		xã Đông Thạnh, xã Xuân Thới Sơn, xã Bà Điểm, xã Củ Chi, xã Phú Hoà Đông, xã Bình Mỹ	Số 01, Lý Thường Kiệt, xã Hóc Môn	10,888064	106,594307	901345346	12.600	16.729	1	0	1	Thừa CN	788	Thành phố Hồ Chí Minh	Hóc MônThành phố Hồ Chí Minh
+Long Phước	87	Phường	53092	34	1548	Phường Long Phước (TP. Thủ Đức), Phường Trường Thạnh (TP. Thủ Đức)		phường Long Bình, phường Long Trường, phường Tăng Nhơn Phú và tỉnh Đồng Nai	Số 239 Khu phố Long Thuận, phường Long Phước	10,809310	106,859600	901666611	15.899	21.083	0	1	(1)	Thiếu CN	468	Thành phố Hồ Chí Minh	Long PhướcThành phố Hồ Chí Minh
+Tân Mỹ	128	Phường	68124	6	10562	Phường Tân Phú (Quận 7)	Phường Phú Mỹ (Quận 7)	phường Tân Thuận, phường Phú Thuận, phường Tân Hưng và xã Nhà Bè	Số 7 đường Tân Phú, Phường Tân Mỹ	10,732329	106,726639	902157779	22.034	29.282	3	2	1	Thừa CN	3672	Thành phố Hồ Chí Minh	Tân MỹThành phố Hồ Chí Minh
+Tân Phú	130	Phường	93117	3	36951	Phường Phú Trung (Quận Tân Phú), Phường Hoà Thạnh (Quận Tân Phú)	Phường Tân Thành (Quận Tân Phú), Phường Tân Thới Hoà (Quận Tân Phú)	phường Phú Thọ Hoà, phường Tân Sơn Nhì, phường Phú Thạnh, phường Bình Thới, phường Hoà Bình, phường Bảy Hiền, phường Tân Bình	Số 525 Âu Cơ, phường Tân Phú	10,781013	106,643325	902379327	15.803	21.025	2	1	1	Thừa CN	5268	Thành phố Hồ Chí Minh	Tân PhúThành phố Hồ Chí Minh
+Thạnh An	147	Xã	5180	131	39	Xã Thạnh An (H. Cần Giờ) (giữ nguyên)		xã Bình Khánh, xã Cần Giờ, phường Tân Phước, phường Phú Mỹ và tỉnh Đồng Nai	Ấp Thạnh Bình, xã Thạnh An	10,470672	106,975209	902953100	572	752	0	0	0	Đủ CN	4	Thành phố Hồ Chí Minh	Thạnh AnThành phố Hồ Chí Minh
+Cát Lái	44	Phường	68654	20	3494	Phường Cát Lái (TP. Thủ Đức), Phường Thạnh Mỹ Lợi (TP. Thủ Đức)		phường Bình Trưng, phường Long Trường, phường Tân Thuận, phường Phú Thuận và tỉnh Đồng Nai	Số 441A Nguyễn Thị Định, phường Cát Lái	10,774326	106,769914	903045044	20.559	27.263	1	1	0	Đủ CN	1028	Thành phố Hồ Chí Minh	Cát LáiThành phố Hồ Chí Minh
+Thủ Đức	153	Phường	118952	9	13502	Phường Bình Thọ (TP. Thủ Đức), Phường Linh Chiểu (TP. Thủ Đức), Phường Trường Thọ (TP. Thủ Đức)	Phường Linh Đông (TP. Thủ Đức), Phường Linh Tây (TP. Thủ Đức)	phường Linh Xuân, phường Hiệp Bình, phường Tăng Nhơn Phú, phường Phước Long, phường Bình Quới	Số 2 Nguyễn Công Trứ, phường Thủ Đức	10,847482	106,771611	903131683	35.621	47.237	3	2	1	Thừa CN	3958	Thành phố Hồ Chí Minh	Thủ ĐứcThành phố Hồ Chí Minh
+Long Trường	89	Phường	73669	24	3008	Phường Long Trường (TP. Thủ Đức), Phường Phú Hữu (TP. Thủ Đức)		phường Long Phước, phường Bình Trưng, phường Cát Lái, phường Tăng Nhơn Phú, phường Phước Long và tỉnh Đồng Nai	Số 893 Nguyễn Duy Trinh, phường Long Trường	10,798636	106,823737	903335533	22.060	29.254	0	1	(1)	Thiếu CN	919	Thành phố Hồ Chí Minh	Long TrườngThành phố Hồ Chí Minh
+Phú Thạnh	105	Phường	103780	3	34709	Phường Phú Thạnh (Quận Tân Phú), Phường Hiệp Tân (Quận Tân Phú)	Phường Tân Thới Hoà (Quận Tân Phú)	phường Phú Thọ Hoà, phường Tân Phú, phường Phú Lâm, phường Bình Trị Đông, phường Bình Hưng Hoà	Số 275 Nguyễn Sơn, phường Phú Thạnh	10,783329	106,624274	903391029	17.612	23.432	1	1	0	Đủ CN	5871	Thành phố Hồ Chí Minh	Phú ThạnhThành phố Hồ Chí Minh
+Hiệp Bình	67	Phường	215638	16	13469	Phường Hiệp Bình Chánh (TP. Thủ Đức), Phường Hiệp Bình Phước (TP. Thủ Đức)	Phường Linh Đông (TP. Thủ Đức)	phường Tam Bình, phường Thủ Đức, phường Bình Quới, phường Bình Lợi Trung, phường An Phú Đông và phường Bình Hoà	Số 721 Quốc lộ 13, phường Hiệp Bình	10,829598	106,713347	903394370	64.575	85.632	1	3	(2)	Thiếu CN	4036	Thành phố Hồ Chí Minh	Hiệp BìnhThành phố Hồ Chí Minh
+Tân Sơn Nhì	135	Phường	117277	3	33895	Phường Tân Sơn Nhì (Quận Tân Phú)	Phường Sơn Kỳ (Quận Tân Phú), Phường Tân Quý (Quận Tân Phú), Phường Tân Thành (Quận Tân Phú)	phường Tây Thạnh, phường Phú Thọ Hoà, phường Tân Phú, phường Tân Bình, phường Bình Hưng Hoà	Số 48 Tân Quý, phường Tân Sơn Nhì	10,794915	106,631755	903683311	19.903	26.480	1	1	0	Đủ CN	6634	Thành phố Hồ Chí Minh	Tân Sơn NhìThành phố Hồ Chí Minh
+Bà Điểm	12	Xã	204289	27	7467	Xã Xuân Thới Thượng (H. Hóc Môn), Xã Bà Điểm (H. Hóc Môn), Xã Trung Chánh (H. Hóc Môn)		xã Đông Thạnh, xã Xuân Thới Sơn, xã Hóc Môn, phường Đông Hưng Thuận, phường Trung Mỹ Tây, phường Bình Tân và xã Vĩnh Lộc	Số 14/9 Phan Văn Hớn, ấp Tiền Lân 1, xã Bà Điểm	10,840142	106,599027	903751199	27.581	36.620	1	1	0	Đủ CN	1022	Thành phố Hồ Chí Minh	Bà ĐiểmThành phố Hồ Chí Minh
+Bảy Hiền	18	Phường	132252	3	46242	Phường 10 (Quận Tân Bình), Phường 11 (Quận Tân Bình), Phường 12 (Quận Tân Bình)		phường Tân Hoà, phường Tân Bình, phường Tân Sơn Nhất, phường Tân Sơn và phường Tân Phú	Số 1129/20 (Số cũ 2025/20) Lạc Long Quân, phường Bảy Hiền	10,775498	106,647683	903777425	47.946	63.721	1	1	0	Đủ CN	15982	Thành phố Hồ Chí Minh	Bảy HiềnThành phố Hồ Chí Minh
+Tăng Nhơn Phú	142	Phường	208233	17	12613	Phường Hiệp Phú (TP. Thủ Đức), Phường Tân Phú (TP. Thủ Đức), Phường Tăng Nhơn Phú A (TP. Thủ Đức), Phường Tăng Nhơn Phú B (TP. Thủ Đức)	Phường Long Thạnh Mỹ (TP. Thủ Đức)	phường Linh Xuân, phường Long Bình, phường Long Trường, phường Long Phước, phường Phước Long và phường Thủ Đức	Số 29 Lê Văn Việt, phường Tăng Nhơn Phú	10,845381	106,787341	903846160	62.357	82.690	1	2	(1)	Thiếu CN	3668	Thành phố Hồ Chí Minh	Tăng Nhơn PhúThành phố Hồ Chí Minh
+Bình Trưng	42	Phường	121382	15	8190	Phường Bình Trưng Đông (TP. Thủ Đức), Phường Bình Trưng Tây (TP. Thủ Đức)	Phường An Phú (TP. Thủ Đức)	phường Phước Long, phường Long Trường, phường An Khánh, phường Cát Lái và phường Tân Thuận	Số 8 Hồ Thị Nhung, phường Bình Trưng	10,789211	106,771902	906242682	36.349	48.201	1	2	(1)	Thiếu CN	2423	Thành phố Hồ Chí Minh	Bình TrưngThành phố Hồ Chí Minh
+Phú Thọ	106	Phường	65369	1	47715	Phường 11 (Quận 11), Phường 15 (Quận 11)	Phường 8 (Quận 11)	phường Bình Thới, phường Hoà Bình, phường Minh Phụng, phường Diên Hồng, phường Tân Hoà	Số 233 - 235 Lê Đại Hành, phường Phú Thọ	10,763985	106,655503	906729755	8.949	11.865	2	1	1	Thừa CN	8949	Thành phố Hồ Chí Minh	Phú ThọThành phố Hồ Chí Minh
+An Hội Tây	3	Phường	121004	4	31760	Phường 12 (Quận Gò Vấp), Phường 14 (Quận Gò Vấp)		phường Thông Tây Hội, phường An Hội Đông, phường Đông Hưng Thuận, phường Tân Thới Hiệp, phường Thới An và phường Tân Sơn	Số 397 Phan Huy Ích, phường An Hội Tây	10,844142	106,640013	906840685	23.600	31.410	0	1	(1)	Thiếu CN	5900	Thành phố Hồ Chí Minh	An Hội TâyThành phố Hồ Chí Minh
+Cần Giờ	43	Xã	27130	157	173	Xã Long Hoà (H. Cần Giờ), Thị trấn Cần Thạnh (H. Cần Giờ)		xã Bình Khánh, xã An Thới Đông, xã Thạnh An và Biển Đông	Số 48 đường Lương Văn Nho, xã Cần Giờ	10,411279	106,954732	906869606	2.999	3.937	0	0	0	Đủ CN	19	Thành phố Hồ Chí Minh	Cần GiờThành phố Hồ Chí Minh
+Tân Thuận	139	Phường	148090	10	14576	Phường Bình Thuận (Quận 7), Phường Tân Thuận Đông (Quận 7), Phường Tân Thuận Tây (Quận 7)		phường Phú Thuận, phường Tân Mỹ, phường Tân Hưng, phường Xóm Chiếu, phường Cát Lái, phường Bình Trưng và phường An Khánh	Số 342 Huỳnh Tấn Phát, phường Tân Thuận	10,748934	106,728650	907291329	47.899	63.654	1	1	0	Đủ CN	4790	Thành phố Hồ Chí Minh	Tân ThuậnThành phố Hồ Chí Minh
+Bình Hòa	27	Phường	120035	18	6492	Phường Bình Hoà (TP. Thuận An)	Phường Vĩnh Phú (TP. Thuận An)	phường Dĩ An, phường Lái Thiêu, phường Thuận Giao, phường An Phú, phường An Phú Đông, phường Hiệp Bình và phường Tam Bình	Đường ĐT743C, phường Bình Hòa	10,901207	106,713874	908256079	25.717	33.719	0	1	(1)	Thiếu CN	1429	Thành phố Hồ Chí Minh	Bình HòaThành phố Hồ Chí Minh
+Phước Long	111	Phường	137331	9	14879	Phường Phước Bình (TP. Thủ Đức), Phường Phước Long A (TP. Thủ Đức), Phường Phước Long B (TP. Thủ Đức)		phường Tăng Nhơn Phú, phường Long Trường, phường Thủ Đức và phường Bình Trưng	Số 616 Đỗ Xuân Hợp, phường Phước Long	10,839004	106,681540	908414868	41.125	54.535	3	2	1	Thừa CN	4569	Thành phố Hồ Chí Minh	Phước LongThành phố Hồ Chí Minh
+Phú Mỹ	103	Phường	78641	71	1109	Phường Mỹ Xuân (TP. Phú Mỹ), Phường Phú Mỹ (TP. Phú Mỹ)		phường Tân Thành, phường Tân Phước, xã Châu Pha, xã Thạnh An và tỉnh Đồng Nai	Số 412 Độc lập, phường Phú Mỹ	10,590535	107,048038	908463468	22.626	29.761	0	1	(1)	Thiếu CN	319	Thành phố Hồ Chí Minh	Phú MỹThành phố Hồ Chí Minh
+Linh Xuân	80	Phường	158334	12	12883	Phường Linh Trung (TP. Thủ Đức), Phường Linh Xuân (TP. Thủ Đức)	Phường Linh Tây (TP. Thủ Đức)	phường Thủ Đức, phường Hiệp Bình, phường Tam Bình, phường Tăng Nhơn Phú, phường Long Bình và phường Dĩ An, phường Đông Hoà	Số 1262 Kha Vạn Cân, phường Linh Xuân	10,878428	106,766279	908506699	47.414	62.875	0	1	(1)	Thiếu CN	3951	Thành phố Hồ Chí Minh	Linh XuânThành phố Hồ Chí Minh
+Tân Hòa	125	Phường	93437	1	63563	Phường 6 (Quận Tân Bình), Phường 8 (Quận Tân Bình), Phường 9 (Quận Tân Bình)		phường Tân Sơn Nhất, phường Bảy Hiền, phường Diên Hồng, phường Hoà Hưng, phường Hoà Bình, phường Phú Thọ	Số 356A Bắc Hải, phường Tân Hòa	10,786066	106,663931	908899947	33.874	45.019	0	1	(1)	Thiếu CN	33874	Thành phố Hồ Chí Minh	Tân HòaThành phố Hồ Chí Minh
+An Nhơn	7	Phường	111498	3	34520	Phường 5 (Quận Gò Vấp), Phường 6 (Quận Gò Vấp)		phường Hạnh Thông, phường Gò Vấp, phường An Phú Đông, phường Bình Lợi Trung	Số 1C Nguyễn Văn Lượng, phường An Nhơn	10,839004	106,681540	909425079	21.747	28.942	0	1	(1)	Thiếu CN	7249	Thành phố Hồ Chí Minh	An NhơnThành phố Hồ Chí Minh
+Tây Thạnh	144	Phường	72616	4	18384	Phường Tây Thạnh (Quận Tân Phú)	Phường Sơn Kỳ (Quận Tân Phú)	phường Tân Sơn Nhì, phường Tân Sơn, phường Đông Hưng Thuận, phường Bình Hưng Hoà và phường Tân Bình	Số 200/12 Nguyễn Hữu Tiến, phường Tây Thạnh	10,813185	106,623671	909756139	12.324	16.396	1	0	1	Thừa CN	3081	Thành phố Hồ Chí Minh	Tây ThạnhThành phố Hồ Chí Minh
+Chợ Quán	53	Phường	63545	1	49645	Phường 1 (Quận 5), Phường 2 (Quận 5), Phường 4 (Quận 5)		phường An Đông, phường Cầu Ông Lãnh, phường Vườn Lài, phường Chánh Hưng, phường Vĩnh Hội và phường Bàn Cờ	Số 53 A Trần Phú, phường Chợ Quán	10,758665	106,676528	909846555	19.877	26.193	2	1	1	Thừa CN	19877	Thành phố Hồ Chí Minh	Chợ QuánThành phố Hồ Chí Minh
+Phước Hải	109	Xã	43615	70	619	Thị trấn Phước Hải, Xã Phước Hội (H. Long Đất)		xã Đất Đỏ, xã Long Điền, xã Long Hải, xã Hồ Tràm và Biển Đông	Ấp Hội Mỹ, xã Phước Hải	10,450675	107,282502	909853122	6.702	8.806	0	0	0	Đủ CN	96	Thành phố Hồ Chí Minh	Phước HảiThành phố Hồ Chí Minh
+Trừ Văn Thố	157	Xã	24533	77	320	Xã Trừ Văn Thố (H. Bàu Bàng), Xã Cây Trường II (H. Bàu Bàng)	Thị trấn Lai Uyên (H. Bàu Bàng)	xã An Long, xã Long Hoà, xã Bàu Bàng và tỉnh Đồng Nai	Đường ĐT750, xã Trừ Văn Thố	11,344819	106,578509	911944527	2.329	3.039	0	0	0	Đủ CN	30	Thành phố Hồ Chí Minh	Trừ Văn ThốThành phố Hồ Chí Minh
+Bàu Bàng	16	Xã	42219	84	502		Thị trấn Lai Uyên (H. Bàu Bàng)	xã An Long, xã Long Hoà, xã Trừ Văn Thố, phường Bến Cát và phường Long Nguyên	Đường N17-5A, xã Bàu Bàng	11,247107	106,636970	913473975	4.009	5.229	0	0	0	Đủ CN	48	Thành phố Hồ Chí Minh	Bàu BàngThành phố Hồ Chí Minh
+Bình Trị Đông	41	Phường	165142	7	23097	Phường Bình Trị Đông (Quận Bình Tân)	Phường Bình Trị Đông A (Quận Bình Tân), Phường Bình Hưng Hoà A (Quận Bình Tân)	phường Bình Tân, phường Bình Hưng Hoà, phường An Lạc, phường Tân Tạo, phường Phú Lâm và phường Phú Thạnh	Số 162 Mã Lò, phường Bình Trị Đông	10,764552	106,604300	913734378	53.776	71.283	1	1	0	Đủ CN	7682	Thành phố Hồ Chí Minh	Bình Trị ĐôngThành phố Hồ Chí Minh
+Rạch Dừa	114	Phường	76281	20	3872	Phường 10, Phường Thắng Nhất, Phường Rạch Dừa (TP. Vũng Tàu)		phường Phước Thắng, phường Tam Thắng và Biển Đông	Số 219/28 Lưu Chí Hiếu, phường Rạch Dừa	10,381144	107,117797	913793333	25.483	33.604	1	1	0	Đủ CN	1274	Thành phố Hồ Chí Minh	Rạch DừaThành phố Hồ Chí Minh
+Thuận Giao	155	Phường	150781	17	8970	Phường Thuận Giao (TP. Thuận An)	Phường Bình Chuẩn (TP. Thuận An)	phường An Phú, phường Thuận An, phường Phú Lợi, phường Lái Thiêu, phường Bình Hoà và phường Tân Khánh	Đường Thủ Khoa Huân, phường Thuận Giao	10,982458	106,721236	913860950	32.305	42.357	0	1	(1)	Thiếu CN	1900	Thành phố Hồ Chí Minh	Thuận GiaoThành phố Hồ Chí Minh
+Bàu Lâm	17	Xã	22567	124	182	Xã Tân Lâm (H. Xuyên Mộc), Xã Bàu Lâm (H. Xuyên Mộc)		xã Hoà Hiệp, xã Hoà Hội, xã Xuân Sơn và tỉnh Đồng Nai	Ấp 2 Đông, xã Bàu Lâm	10,685840	107,389140	914808019	2.857	3.748	0	0	0	Đủ CN	23	Thành phố Hồ Chí Minh	Bàu LâmThành phố Hồ Chí Minh
+Tây Nam	143	Phường	56784	120	474	Phường An Tây (TP. Bến Cát)	Xã Thanh Tuyền (H. Dầu Tiếng), Xã An Lập (H. Dầu Tiếng)	phường Long Nguyên, phường Phú An, xã Thanh An, xã An Nhơn Tây, xã Nhuận Đức và xã Phú Hoà Đông	Đường ĐT744, phường Tây Nam	11,092994	106,540461	914924982	4.709	6.180	0	0	0	Đủ CN	39	Thành phố Hồ Chí Minh	Tây NamThành phố Hồ Chí Minh
+Long Điền	82	Xã	48048	51	934	Thị trấn Long Điền, Xã Tam An (H. Long Đất)		phường Bà Rịa, phường Tam Long, phường Phước Thắng, xã Đất Đỏ, xã Phước Hải và xã Long Hải	Số 1939, Quốc lộ 55, xã Long Điền	10,478511	107,216029	917815079	4.894	6.419	0	0	0	Đủ CN	96	Thành phố Hồ Chí Minh	Long ĐiềnThành phố Hồ Chí Minh
+An Khánh	4	Phường	76967	15	5021	Phường An Khánh (TP. Thủ Đức), Phường An Lợi Đông (TP. Thủ Đức), Phường Thảo Điền (TP. Thủ Đức), Phường Thủ Thiêm (TP. Thủ Đức)	Phường An Phú (TP. Thủ Đức)	phường Bình Trưng, phường Thủ Đức, phường Sài Gòn, phường Xóm Chiếu, phường Tân Thuận, phường Thạnh Mỹ Tây và phường Bình Quới	Số 171/1 Lương Định Của, phường An Khánh	10,031185	105,755656	918010000	23.049	30.564	4	4	0	Đủ CN	1537	Thành phố Hồ Chí Minh	An KhánhThành phố Hồ Chí Minh
+Tân Bình	120	Phường	89373	2	42157	Phường 13 (Quận Tân Bình), Phường 14 (Quận Tân Bình)	Phường 15 (Quận Tân Bình)	phường Tân Sơn, phường Bảy Hiền, phường Tân Sơn Hoà, phường Tây Thạnh, phường Tân Sơn Nhì và phường Tân Phú	Số 387A Trường Chinh, phường Tân Bình	10,801704	106,642493	918224417	32.401	43.061	2	1	1	Thừa CN	16201	Thành phố Hồ Chí Minh	Tân BìnhThành phố Hồ Chí Minh
+Long Bình	81	Phường	119637	29	4065	Phường Long Bình (TP. Thủ Đức)	Phường Long Thạnh Mỹ (TP. Thủ Đức)	phường Tăng Nhơn Phú, phường Linh Xuân, phường Long Phước, phường Đông Hoà và tỉnh Đồng Nai	Số 325 Nguyễn Văn Tăng, phường Long Bình	10,841874	106,823749	918348012	35.826	47.509	2	2	0	Đủ CN	1235	Thành phố Hồ Chí Minh	Long BìnhThành phố Hồ Chí Minh
+An Long	6	Xã	17906	100	179	Xã An Linh (H. Phú Giáo), Xã An Long (H. Phú Giáo), Xã Tân Long (H. Phú Giáo)		xã Phước Thành, xã Bàu Bàng, xã Trừ Văn Thố, xã Phước Hoà, phường Bến Cát, phường Chánh Phú Hoà và tỉnh Đồng Nai	Số 231, đường ĐT 741C, xã An Long	11,352208	106,687626	918660692	1.489	1.972	0	0	0	Đủ CN	15	Thành phố Hồ Chí Minh	An LongThành phố Hồ Chí Minh
+Tam Bình	116	Phường	153414	11	14324	Phường Bình Chiểu (TP. Thủ Đức), Phường Tam Bình (TP. Thủ Đức), Phường Tam Phú (TP. Thủ Đức)		phường Linh Xuân, phường Hiệp Bình, phường An Phú Đông và phường Bình Hoà, phường Dĩ An	Số 707 Tỉnh lộ 43, phường Tam Bình	10,868526	106,734810	918673616	45.941	60.922	0	1	(1)	Thiếu CN	4176	Thành phố Hồ Chí Minh	Tam BìnhThành phố Hồ Chí Minh
+Bình Khánh	30	Xã	35482	158	224	Xã Bình Khánh (H. Cần Giờ), Xã Tam Thôn Hiệp (H. Cần Giờ)	Xã An Thới Đông (H. Cần Giờ)	xã An Thới Đông, xã Cần Giờ, xã Thạnh An, xã Nhà Bè, xã Hiệp Phước và tỉnh Đồng Nai	Ấp Bình An 1, xã Bình Khánh	10,643810	106,786706	919134505	3.922	5.149	0	0	0	Đủ CN	25	Thành phố Hồ Chí Minh	Bình KhánhThành phố Hồ Chí Minh
+Tân Hưng	126	Phường	153674	9	17995	Phường Tân Phong (Quận 7), Phường Tân Hưng (Quận 7), Phường Tân Kiểng (Quận 7), Phường Tân Quy (Quận 7)		phường Tân Mỹ, phường Tân Thuận, phường Khánh Hội, phường Xóm Chiếu, phường Vĩnh Hội, phường Chánh Hưng, xã Bình Hưng và xã Nhà Bè	Số 9 đường 2A phường Tân Hưng	10,744377	106,698124	919404656	49.705	66.055	2	2	0	Đủ CN	5523	Thành phố Hồ Chí Minh	Tân HưngThành phố Hồ Chí Minh
+Thới Hòa	150	Phường	79601	38	2099	Phường Thời Hoà (TP. Bến Cát) (giữ nguyên)		phường Hoà Lợi, phường Long Nguyên, phường Phú An, phường Bến Cát và phường Chánh Phú Hoà	Đường Quốc lộ 13, phường Thời Hòa	11,090498	106,625881	919450975	45.983	59.995	0	1	(1)	Thiếu CN	1210	Thành phố Hồ Chí Minh	Thới HòaThành phố Hồ Chí Minh
+Phú Thọ Hòa	107	Phường	140436	3	46502	Phường Phú Thọ Hoà (Quận Tân Phú)	Phường Tân Quý (Quận Tân Phú), Phường Tân Thành (Quận Tân Phú)	phường Tân Sơn Nhì, phường Phú Thạnh, phường Tân Phú và phường Bình Hưng Hoà	Số 146 Độc Lập, phường Phú Thọ Hòa	10,792302	106,633361	934111986	23.834	31.709	0	1	(1)	Thiếu CN	7945	Thành phố Hồ Chí Minh	Phú Thọ HòaThành phố Hồ Chí Minh
+Tân Tạo	136	Phường	113363	15	7707		Phường Tân Tạo A (Quận Bình Tân), Phường Tân Tạo (Quận Bình Tân), Xã Tân Kiên (Huyện Bình Chánh)	phường An Lạc, phường Bình Trị Đông, phường Bình Tân, xã Bình Lợi và xã Tân Nhựt	Số 1409 Tỉnh lộ 10, phường Tân Tạo	10,756492	106,586986	935123236	36.915	48.933	0	2	(2)	Thiếu CN	2461	Thành phố Hồ Chí Minh	Tân TạoThành phố Hồ Chí Minh
+Đông Thạnh	62	Xã	190400	30	6313	Xã Đông Thạnh (H. Hóc Môn), Xã Nhị Bình (H. Hóc Môn), Xã Thới Tam Thôn (H. Hóc Môn)		Xã Bà Điểm, xã Hóc Môn, xã Bình Mỹ, phường Trung Mỹ Tây, phường Thới An, phường Tân Thới Hiệp, phường An Phú Đông, phường Thuận An và phường Lái Thiêu	Số 250 ấp 54, đường Đặng Thúc Vịnh, xã Đông Thạnh	10,904493	106,635812	938004411	25.706	34.130	0	1	(1)	Thiếu CN	857	Thành phố Hồ Chí Minh	Đông ThạnhThành phố Hồ Chí Minh
+An Hội Đông	2	Phường	123681	3	37593	Phường 15 (Quận Gò Vấp), Phường 16 (Quận Gò Vấp)		phường An Hội Tây, phường Thông Tây Hội, phường Gò Vấp, phường Thới An và phường An Phú Đông	Số 330 (Số cũ 182) Thống Nhất, phường An Hội Đông	10,842173	106,665062	938020280	22.172	29.509	1	1	0	Đủ CN	7391	Thành phố Hồ Chí Minh	An Hội ĐôngThành phố Hồ Chí Minh
+An Đông	1	Phường	81229	1	61537	Phường 5 (Quận 5), Phường 7 (Quận 5), Phường 9 (Quận 5)		phường Chợ Quán, phường Chợ Lớn, phường Chánh Hưng, phường Diên Hồng, phường Vườn Lài và phường Phú Định	Số 45 Phước Hưng, phường An Đông	10,756101	106,668336	938801979	25.409	33.482	1	1	0	Đủ CN	25409	Thành phố Hồ Chí Minh	An ĐôngThành phố Hồ Chí Minh
+Long Hải	83	Xã	109149	28	3908	Thị trấn Long Hải, Xã Phước Tỉnh, Xã Phước Hưng (H. Long Đất)		phường Phước Thắng, xã Long Điền, xã Phước Hải và Biển Đông	Số 45, Hương lộ 5, xã Long Hải	10,403992	107,230238	938893636	11.118	14.583	0	0	0	Đủ CN	397	Thành phố Hồ Chí Minh	Long HảiThành phố Hồ Chí Minh
+An Thới Đông	11	Xã	22607	258	88	Xã Lý Nhơn (H. Cần Giờ)	Xã An Thới Đông (H. Cần Giờ)	xã Bình Khánh, xã Cần Giờ, xã Hiệp Phước, tỉnh Tây Ninh, tỉnh Tiền Giang và Biển Đông	Ấp An Hòa 1, xã An Thới Đông	10,590408	106,789405	949093902	2.499	3.281	0	0	0	Đủ CN	10	Thành phố Hồ Chí Minh	An Thới ĐôngThành phố Hồ Chí Minh
+An Phú	9	Phường	162930	17	9669	Phường An Phú (TP. Thuận An)	Phường Bình Chuẩn (TP. Thuận An)	phường Tân Đông Hiệp, phường Thuận Giao, phường Bình Hoà, phường Dĩ An và phường Tân Khánh	Đường ĐT743, phường An Phú	10,950223	106,741737	949552608	34.908	45.769	0	2	(2)	Thiếu CN	2053	Thành phố Hồ Chí Minh	An PhúThành phố Hồ Chí Minh
+Đông Hòa	60	Phường	132056	22	6034	Phường Bình An (TP. Dĩ An), Phường Bình Thắng (TP. Dĩ An), Phường Đông Hoà (TP. Dĩ An)		phường Dĩ An, phường Tân Đông Hiệp, phường Long Bình, phường Linh Xuân và tỉnh Đồng Nai	Số 153, đường Quốc Lộ 1K, phường Đông Hòa	10,890683	106,784635	949985004	35.409	46.545	1	2	(1)	Thiếu CN	1610	Thành phố Hồ Chí Minh	Đông HòaThành phố Hồ Chí Minh
+Chợ Lớn	52	Phường	85066	2	50938	Phường 11 (Quận 5), Phường 12 (Quận 5), Phường 13 (Quận 5), Phường 14 (Quận 5)		phường An Đông, phường Phú Định, phường Bình Tây, phường Bình Tiên, phường Diên Hồng và phường Minh Phụng	Số 527 Hồng Bàng, phường Chợ Lớn	10,750603	106,655057	962947979	26.609	35.063	0	1	(1)	Thiếu CN	13305	Thành phố Hồ Chí Minh	Chợ LớnThành phố Hồ Chí Minh
+Long Hòa	84	Xã	25215	167	151	Xã Long Tân (H. Dầu Tiếng), Xã Long Hoà (H. Dầu Tiếng)	Xã Minh Tân (H. Dầu Tiếng), Xã Minh Thạnh (H. Dầu Tiếng)	xã Trừ Văn Thố, xã Bàu Bàng, xã Dầu Tiếng, xã Thanh An, xã Minh Thạnh, phường Long Nguyên và tỉnh Đồng Nai	Đường ĐT749A, ấp Long Điền, xã Long Hòa	11,314505	106,491831	967799797	2.091	2.744	0	0	0	Đủ CN	13	Thành phố Hồ Chí Minh	Long HòaThành phố Hồ Chí Minh
+Dầu Tiếng	57	Xã	39056	183	214	Thị trấn Dầu Tiếng, Xã Định An, Xã Định Thành (H. Dầu Tiếng)	Xã Định Hiệp (H. Dầu Tiếng)	xã Long Hoà, xã Thanh An, xã Minh Thạnh và tỉnh Tây Ninh	Số 5, đường Lê Lợi, xã Dầu Tiếng	11,267209	106,367542	974666499	3.239	4.250	0	0	0	Đủ CN	18	Thành phố Hồ Chí Minh	Dầu TiếngThành phố Hồ Chí Minh
+Thanh An	146	Xã	25324	137	185	Xã Thanh An (H. Dầu Tiếng)	Xã Định Hiệp (H. Dầu Tiếng), Xã Thanh Tuyền (H. Dầu Tiếng), Xã An Lập (H. Dầu Tiếng)	xã Long Hoà, xã Dầu Tiếng, phường Long Nguyên, phường Tây Nam và tỉnh Tây Ninh	Đường ĐT744, ấp Cần Giăng, xã Thanh An	11,201547	106,399400	977333608	2.100	2.756	0	0	0	Đủ CN	15	Thành phố Hồ Chí Minh	Thanh AnThành phố Hồ Chí Minh
+Minh Thạnh	91	Xã	24215	159	152	Xã Minh Hoà (H. Dầu Tiếng)	Xã Minh Tân (H. Dầu Tiếng), Xã Minh Thạnh (H. Dầu Tiếng)	xã Long Hoà, xã Dầu Tiếng, tỉnh Đồng Nai và tỉnh Tây Ninh	Đường ĐT749B, ấp Hòa Cường, xã Minh Thạnh	11,446859	106,483507	978519523	2.008	2.635	0	0	0	Đủ CN	13	Thành phố Hồ Chí Minh	Minh ThạnhThành phố Hồ Chí Minh
+Bình Mỹ	33	Xã	99675	54	1831	Xã Bình Mỹ (H. Củ Chi), Xã Trung An (H. Củ Chi), Xã Hoà Phú (H. Củ Chi)		xã Phú Hoà Đông, xã Đông Thạnh, xã Hóc Môn, phường Phú An, phường Chánh Hiệp, phường Thủ Dầu Một và phường Thuận An	Số 1627 Tỉnh lộ 8, ấp 1A, xã Bình Mỹ	10,979866	106,616409	979260218	21.308	28.058	0	1	(1)	Thiếu CN	395	Thành phố Hồ Chí Minh	Bình MỹThành phố Hồ Chí Minh
+Đất Đỏ	56	Xã	43862	120	366	Thị trấn Đất Đỏ, Xã Láng Dài, Xã Long Tân, Xã Phước Long Thọ (H. Long Đất)		phường Tam Long, xã Long Điền, xã Phước Hải, xã Hồ Tràm, xã Xuân Sơn và xã Nghĩa Thành	Đường Lê Hồng Phong, ấp Hiệp Hòa, xã Đất Đỏ	10,470378	107,272365	982919392	6.740	8.856	0	0	0	Đủ CN	56	Thành phố Hồ Chí Minh	Đất ĐỏThành phố Hồ Chí Minh
+Diên Hồng	59	Phường	75633	2	40663	Phường 6 (Quận 10), Phường 8 (Quận 10)	Phường 14 (Quận 10)	phường Hoà Hưng, phường Vườn Lài, phường An Đông, phường Chợ Lớn, phường Minh Phụng, phường Phú Thọ và phường Tân Hoà	Số 1a Thành Thái, phường Diên Hồng	10,769974	106,661547	983035141	19.751	26.220	1	1	0	Đủ CN	9876	Thành phố Hồ Chí Minh	Diên HồngThành phố Hồ Chí Minh
+An Lạc	5	Phường	172134	10	16441	Phường An Lạc (Quận Bình Tân), Phường An Lạc A (Quận Bình Tân), Phường Bình Trị Đông B (Quận Bình Tân)		phường Bình Trị Đông, phường Tân Tạo, phường Bình Phú, phường Phú Lâm, phường Phú Định và xã Tân Nhựt	Số 521 Kinh Dương Vương, phường An Lạc	10,736889	106,614878	983132123	56.052	74.302	2	2	0	Đủ CN	5605	Thành phố Hồ Chí Minh	An LạcThành phố Hồ Chí Minh
+Phú Thuận	108	Phường	84089	11	7971	Phường Phú Thuận (Quận 7)	Phường Phú Mỹ (Quận 7)	phường Tân Mỹ, phường Tân Thuận, phường Cát Lái và tỉnh Đồng Nai	Số 1203 Huỳnh Tấn Phát, phường Phú Thuận	10,721902	106,736264	983914778	27.198	36.144	1	1	0	Đủ CN	2473	Thành phố Hồ Chí Minh	Phú ThuậnThành phố Hồ Chí Minh
+Phước Hòa	110	Xã	42470	128	332	Xã Vĩnh Hoà (H. Phú Giáo), Xã Phước Hoà (H. Phú Giáo)	Xã Tam Lập (H. Phú Giáo)	xã Bắc Tân Uyên, xã Phú Giáo, xã An Long, xã Phước Thành, phường Chánh Phú Hoà, phường Bình Cơ và phường Vĩnh Tân	Số 410, đường ĐT741, xã Phước Hòa	11,271698	106,777808	985260630	3.530	4.678	0	0	0	Đủ CN	28	Thành phố Hồ Chí Minh	Phước HòaThành phố Hồ Chí Minh
+Vĩnh Tân	161	Phường	61865	61	1008	Thị trấn Tân Bình (H. Bắc Tân Uyên), Phường Vĩnh Tân (TP. Tân Uyên)		phường Bình Cơ, phường Chánh Phú Hoà, phường Hoà Lợi, phường Bình Dương, phường Tân Hiệp và xã Phước Hoà	Đường ĐT742, phường Vĩnh Tân	11,115660	106,706094	986870470	10.305	13.486	0	0	0	Đủ CN	169	Thành phố Hồ Chí Minh	Vĩnh TânThành phố Hồ Chí Minh
+Hòa Hội	72	Xã	36174	136	265	Xã Hoà Hội, Xã Hoà Hưng, Xã Hoà Bình (H. Xuyên Mộc)		xã Bàu Lâm, xã Xuân Sơn, xã Hồ Tràm, xã Xuyên Mộc, xã Bình Châu và xã Hoà Hiệp	Tỉnh lộ 328, ấp 4, xã Hoà Hội	10,626779	107,371952	987107662	4.579	6.007	0	0	0	Đủ CN	34	Thành phố Hồ Chí Minh	Hòa HộiThành phố Hồ Chí Minh
+Tân Sơn Hòa	133	Phường	64150	3	24485	Phường 1 (Quận Tân Bình), Phường 2 (Quận Tân Bình), Phường 3 (Quận Tân Bình)		phường Tân Sơn Nhất, phường Tân Bình, phường Tân Sơn, phường Hạnh Thông, phường Đức Nhuận và phường Phú Nhuận	Số 291 Lê Văn Sỹ, phường Tân Sơn Hòa	10,794697	106,667531	989353992	23.257	30.908	2	1	1	Thừa CN	7752	Thành phố Hồ Chí Minh	Tân Sơn HòaThành phố Hồ Chí Minh
+An Khánh													19.763	26.483	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	An KhánhThành phố Hà Nội
+Ba Đình													20.286	27.268	2	1	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Ba ĐìnhThành phố Hà Nội
+Ba Vì													2.871	3.799	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Ba VìThành phố Hà Nội
+Bạch Mai													47.866	64.339	3	1	2	Thừa CN	#DIV/0!	Thành phố Hà Nội	Bạch MaiThành phố Hà Nội
+Bất Bạt													4.317	5.711	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Bất BạtThành phố Hà Nội
+Bát Tràng													18.125	24.357	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Bát TràngThành phố Hà Nội
+Bình Minh													10.433	13.866	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Bình MinhThành phố Hà Nội
+Bồ Đề													44.410	59.682	2	2	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Bồ ĐềThành phố Hà Nội
+Cầu Giấy													48.475	65.242	3	1	2	Thừa CN	#DIV/0!	Thành phố Hà Nội	Cầu GiấyThành phố Hà Nội
+Chương Dương													7.682	10.200	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Chương DươngThành phố Hà Nội
+Chương Mỹ													26.396	35.571	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Chương MỹThành phố Hà Nội
+Chuyên Mỹ													7.861	10.368	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Chuyên MỹThành phố Hà Nội
+Cổ Đô													7.619	10.079	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Cổ ĐôThành phố Hà Nội
+Cửa Nam													161.660	216.516	3	1	2	Thừa CN	#DIV/0!	Thành phố Hà Nội	Cửa NamThành phố Hà Nội
+Đa Phúc													14.437	19.242	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Đa PhúcThành phố Hà Nội
+Đại Mỗ													34.437	46.421	1	2	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Đại MỗThành phố Hà Nội
+Đại Thanh													18.436	24.786	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Đại ThanhThành phố Hà Nội
+Đại Xuyên													13.126	17.314	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Đại XuyênThành phố Hà Nội
+Dân Hòa													16.111	21.355	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Dân HòaThành phố Hà Nội
+Đan Phượng													6.060	8.090	1	0	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Đan PhượngThành phố Hà Nội
+Định Công													33.774	45.647	2	2	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Định CôngThành phố Hà Nội
+Đoài Phương													9.430	12.484	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Đoài PhươngThành phố Hà Nội
+Đông Anh													29.324	39.247	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Đông AnhThành phố Hà Nội
+Đống Đa													30.056	40.398	5	1	4	Thừa CN	#DIV/0!	Thành phố Hà Nội	Đống ĐaThành phố Hà Nội
+Đông Ngạc													34.696	46.562	1	2	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Đông NgạcThành phố Hà Nội
+Dương Hòa													11.384	15.254	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Dương HòaThành phố Hà Nội
+Dương Nội													16.841	22.695	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Dương NộiThành phố Hà Nội
+Gia Lâm													18.686	24.973	2	1	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Gia LâmThành phố Hà Nội
+Giảng Võ													30.273	40.692	2	1	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Giảng VõThành phố Hà Nội
+Hạ Bằng													3.477	4.613	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Hạ BằngThành phố Hà Nội
+Hà Đông													55.607	74.937	7	2	5	Thừa CN	#DIV/0!	Thành phố Hà Nội	Hà ĐôngThành phố Hà Nội
+Hai Bà Trưng													66.400	89.127	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Hai Bà TrưngThành phố Hà Nội
+Hát Môn													7.774	10.296	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Hát MônThành phố Hà Nội
+Hòa Lạc													11.147	14.837	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Hòa LạcThành phố Hà Nội
+Hòa Phú													6.509	8.650	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Hòa PhúThành phố Hà Nội
+Hòa Xá													6.272	8.295	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Hòa XáThành phố Hà Nội
+Hoài Đức													8.809	11.762	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Hoài ĐứcThành phố Hà Nội
+Hoàn Kiếm													32.852	44.159	2	1	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Hoàn KiếmThành phố Hà Nội
+Hoàng Liệt													22.049	29.801	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Hoàng LiệtThành phố Hà Nội
+Hoàng Mai													38.909	52.587	1	2	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Hoàng MaiThành phố Hà Nội
+Hồng Hà													38.463	51.700	0	2	(2)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Hồng HàThành phố Hà Nội
+Hồng Sơn													6.021	7.959	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Hồng SơnThành phố Hà Nội
+Hồng Vân													7.516	9.980	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Hồng VânThành phố Hà Nội
+Hưng Đạo													4.432	5.880	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Hưng ĐạoThành phố Hà Nội
+Hương Sơn													5.020	6.636	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Hương SơnThành phố Hà Nội
+Khương Đình													44.544	60.068	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Khương ĐìnhThành phố Hà Nội
+Kiến Hưng													21.267	28.661	2	2	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Kiến HưngThành phố Hà Nội
+Kiều Phú													5.468	7.253	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Kiều PhúThành phố Hà Nội
+Kim Anh													8.381	11.171	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Kim AnhThành phố Hà Nội
+Kim Liên													40.306	54.177	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Kim LiênThành phố Hà Nội
+Láng													22.585	30.357	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	LángThành phố Hà Nội
+Liên Minh													8.536	11.398	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Liên MinhThành phố Hà Nội
+Lĩnh Nam													8.179	11.054	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Lĩnh NamThành phố Hà Nội
+Long Biên													23.269	31.269	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Long BiênThành phố Hà Nội
+Mê Linh													11.114	14.840	1	0	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Mê LinhThành phố Hà Nội
+Minh Châu													716	947	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Minh ChâuThành phố Hà Nội
+Mỹ Đức													5.116	6.763	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Mỹ ĐứcThành phố Hà Nội
+Nam Phù													8.520	11.454	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Nam PhùThành phố Hà Nội
+Nghĩa Đô													81.687	109.941	3	1	2	Thừa CN	#DIV/0!	Thành phố Hà Nội	Nghĩa ĐôThành phố Hà Nội
+Ngọc Hà													29.183	39.225	2	1	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Ngọc HàThành phố Hà Nội
+Ngọc Hồi													8.737	11.746	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Ngọc HồiThành phố Hà Nội
+Nội Bài													12.162	16.210	1	0	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Nội BàiThành phố Hà Nội
+Ô Chợ Dừa													26.338	35.401	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Ô Chợ DừaThành phố Hà Nội
+Ô Diên													12.405	16.564	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Ô DiênThành phố Hà Nội
+Phú Cát													3.892	5.163	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Phú CátThành phố Hà Nội
+Phú Diễn													48.532	65.318	2	2	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Phú DiễnThành phố Hà Nội
+Phù Đổng													23.019	30.764	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Phù ĐổngThành phố Hà Nội
+Phú Lương													15.620	21.050	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Phú LươngThành phố Hà Nội
+Phú Nghĩa													9.258	12.304	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Phú NghĩaThành phố Hà Nội
+Phú Thượng													16.592	22.363	2	1	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Phú ThượngThành phố Hà Nội
+Phú Xuyên													12.378	16.435	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Phú XuyênThành phố Hà Nội
+Phúc Lộc													6.615	8.760	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Phúc LộcThành phố Hà Nội
+Phúc Lợi													24.713	33.210	2	1	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Phúc LợiThành phố Hà Nội
+Phúc Sơn													5.158	6.818	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Phúc SơnThành phố Hà Nội
+Phúc Thịnh													23.808	31.864	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Phúc ThịnhThành phố Hà Nội
+Phúc Thọ													8.119	10.751	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Phúc ThọThành phố Hà Nội
+Phượng Dực													10.564	13.934	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Phượng DựcThành phố Hà Nội
+Phương Liệt													42.320	57.069	2	1	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Phương LiệtThành phố Hà Nội
+Quảng Bị													8.205	10.905	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Quảng BịThành phố Hà Nội
+Quang Minh													12.441	16.612	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Quang MinhThành phố Hà Nội
+Quảng Oai													6.358	8.411	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Quảng OaiThành phố Hà Nội
+Quốc Oai													5.688	7.546	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Quốc OaiThành phố Hà Nội
+Sóc Sơn													20.345	27.115	2	1	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Sóc SơnThành phố Hà Nội
+Sơn Đồng													12.242	16.405	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Sơn ĐồngThành phố Hà Nội
+Sơn Tây													16.883	22.348	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Sơn TâyThành phố Hà Nội
+Suối Hai													3.794	5.017	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Suối HaiThành phố Hà Nội
+Tam Hưng													10.035	13.302	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Tam HưngThành phố Hà Nội
+Tây Hồ													42.246	56.941	4	2	2	Thừa CN	#DIV/0!	Thành phố Hà Nội	Tây HồThành phố Hà Nội
+Tây Mỗ													9.074	12.158	2	1	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Tây MỗThành phố Hà Nội
+Tây Phương													8.968	11.898	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Tây PhươngThành phố Hà Nội
+Tây Tựu													16.378	21.978	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Tây TựuThành phố Hà Nội
+Thạch Thất													30.871	41.089	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Thạch ThấtThành phố Hà Nội
+Thanh Liệt													15.186	20.416	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Thanh LiệtThành phố Hà Nội
+Thanh Oai													13.986	18.537	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Thanh OaiThành phố Hà Nội
+Thanh Trì													11.031	14.829	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Thanh TrìThành phố Hà Nội
+Thanh Xuân													69.162	93.085	4	1	3	Thừa CN	#DIV/0!	Thành phố Hà Nội	Thanh XuânThành phố Hà Nội
+Thiên Lộc													18.510	24.773	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Thiên LộcThành phố Hà Nội
+Thư Lâm													25.453	34.066	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Thư LâmThành phố Hà Nội
+Thuận An													14.100	18.845	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Thuận AnThành phố Hà Nội
+Thượng Cát													10.255	13.762	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Thượng CátThành phố Hà Nội
+Thượng Phúc													5.823	7.732	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Thượng PhúcThành phố Hà Nội
+Thường Tín													9.061	12.031	1	0	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Thường TínThành phố Hà Nội
+Tiến Thắng													11.480	15.329	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Tiến ThắngThành phố Hà Nội
+Trần Phú													6.193	8.231	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Trần PhúThành phố Hà Nội
+Trung Giã													10.583	14.104	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Trung GiãThành phố Hà Nội
+Từ Liêm													51.358	69.230	3	2	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Từ LiêmThành phố Hà Nội
+Tùng Thiện													9.957	13.180	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Tùng ThiệnThành phố Hà Nội
+Tương Mai													70.360	94.880	2	1	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Tương MaiThành phố Hà Nội
+Ứng Hòa													5.759	7.616	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Ứng HòaThành phố Hà Nội
+Ứng Thiên													4.875	6.446	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Ứng ThiênThành phố Hà Nội
+Vân Đình													5.495	7.267	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Vân ĐìnhThành phố Hà Nội
+Văn Miếu - Quốc Tử Giám													39.013	52.438	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Văn Miếu - Quốc Tử GiámThành phố Hà Nội
+Vật Lại													6.312	8.350	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Vật LạiThành phố Hà Nội
+Việt Hưng													30.779	41.364	2	1	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Việt HưngThành phố Hà Nội
+Vĩnh Hưng													26.687	36.069	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Vĩnh HưngThành phố Hà Nội
+Vĩnh Thanh													16.053	21.486	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Vĩnh ThanhThành phố Hà Nội
+Vĩnh Tuy													68.503	91.952	2	1	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Vĩnh TuyThành phố Hà Nội
+Xuân Đỉnh													20.208	27.118	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Xuân ĐỉnhThành phố Hà Nội
+Xuân Mai													8.771	11.657	1	0	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Xuân MaiThành phố Hà Nội
+Xuân Phương													44.916	60.547	1	1	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Xuân PhươngThành phố Hà Nội
+Yên Bài													2.308	3.053	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Yên BàiThành phố Hà Nội
+Yên Hòa													32.968	44.441	5	1	4	Thừa CN	#DIV/0!	Thành phố Hà Nội	Yên HòaThành phố Hà Nội
+Yên Lãng													12.748	17.022	0	0	0	Đủ CN	#DIV/0!	Thành phố Hà Nội	Yên LãngThành phố Hà Nội
+Yên Nghĩa													14.905	20.087	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Yên NghĩaThành phố Hà Nội
+Yên Sở													8.149	10.956	1	0	1	Thừa CN	#DIV/0!	Thành phố Hà Nội	Yên SởThành phố Hà Nội
+Yên Xuân													15.732	20.938	0	1	(1)	Thiếu CN	#DIV/0!	Thành phố Hà Nội	Yên XuânThành phố Hà Nội
+Thành phố Hà Giang													38.268	48.788	0	0	0	Đủ CN	#DIV/0!	Hà Giang	Thành phố Hà GiangHà Giang
+Huyện Đồng Văn													9.913	12.635	0	0	0	Đủ CN	#DIV/0!	Hà Giang	Huyện Đồng VănHà Giang
+Huyện Mèo Vạc													10.185	12.983	0	0	0	Đủ CN	#DIV/0!	Hà Giang	Huyện Mèo VạcHà Giang
+Huyện Yên Minh													12.973	16.535	0	0	0	Đủ CN	#DIV/0!	Hà Giang	Huyện Yên MinhHà Giang
+Huyện Quản Bạ													11.073	14.116	0	0	0	Đủ CN	#DIV/0!	Hà Giang	Huyện Quản BạHà Giang
+Huyện Vị Xuyên													20.134	25.669	0	0	0	Đủ CN	#DIV/0!	Hà Giang	Huyện Vị XuyênHà Giang
+Huyện Bắc Mê													7.609	9.702	0	0	0	Đủ CN	#DIV/0!	Hà Giang	Huyện Bắc MêHà Giang
+Huyện Hoàng Su Phì													8.912	11.364	0	0	0	Đủ CN	#DIV/0!	Hà Giang	Huyện Hoàng Su PhìHà Giang
+Huyện Xín Mần													10.280	13.101	0	0	0	Đủ CN	#DIV/0!	Hà Giang	Huyện Xín MầnHà Giang
+Huyện Bắc Quang													24.871	31.707	0	0	0	Đủ CN	#DIV/0!	Hà Giang	Huyện Bắc QuangHà Giang
+Huyện Quang Bình													10.798	13.769	0	0	0	Đủ CN	#DIV/0!	Hà Giang	Huyện Quang BìnhHà Giang
+Thành phố Cao Bằng													41.029	52.340	0	0	0	Đủ CN	#DIV/0!	Cao Bằng	Thành phố Cao BằngCao Bằng
+Huyện Bảo Lâm													8.698	11.090	0	0	0	Đủ CN	#DIV/0!	Cao Bằng	Huyện Bảo LâmCao Bằng
+Huyện Bảo Lạc													7.999	10.200	0	0	0	Đủ CN	#DIV/0!	Cao Bằng	Huyện Bảo LạcCao Bằng
+Huyện Hà Quảng													9.272	11.829	0	0	0	Đủ CN	#DIV/0!	Cao Bằng	Huyện Hà QuảngCao Bằng
+Huyện Trùng Khánh													11.282	14.390	0	0	0	Đủ CN	#DIV/0!	Cao Bằng	Huyện Trùng KhánhCao Bằng
+Huyện Hạ Lang													3.752	4.788	0	0	0	Đủ CN	#DIV/0!	Cao Bằng	Huyện Hạ LangCao Bằng
+Huyện Quảng Hòa													10.184	12.991	0	0	0	Đủ CN	#DIV/0!	Cao Bằng	Huyện Quảng HòaCao Bằng
+Huyện Hoà An													7.863	10.031	0	0	0	Đủ CN	#DIV/0!	Cao Bằng	Huyện Hoà AnCao Bằng
+Huyện Nguyên Bình													6.531	8.333	0	0	0	Đủ CN	#DIV/0!	Cao Bằng	Huyện Nguyên BìnhCao Bằng
+Huyện Thạch An													5.080	6.484	0	0	0	Đủ CN	#DIV/0!	Cao Bằng	Huyện Thạch AnCao Bằng
+Thành Phố Bắc Kạn													22.052	28.142	0	0	0	Đủ CN	#DIV/0!	Bắc Kạn	Thành Phố Bắc KạnBắc Kạn
+Huyện Pác Nặm													4.377	5.590	0	0	0	Đủ CN	#DIV/0!	Bắc Kạn	Huyện Pác NặmBắc Kạn
+Huyện Ba Bể													8.018	10.238	0	0	0	Đủ CN	#DIV/0!	Bắc Kạn	Huyện Ba BểBắc Kạn
+Huyện Ngân Sơn													4.696	5.996	0	0	0	Đủ CN	#DIV/0!	Bắc Kạn	Huyện Ngân SơnBắc Kạn
+Huyện Bạch Thông													4.961	6.332	0	0	0	Đủ CN	#DIV/0!	Bắc Kạn	Huyện Bạch ThôngBắc Kạn
+Huyện Chợ Đồn													9.003	11.496	0	0	0	Đủ CN	#DIV/0!	Bắc Kạn	Huyện Chợ ĐồnBắc Kạn
+Huyện Chợ Mới													9.030	11.521	0	0	0	Đủ CN	#DIV/0!	Bắc Kạn	Huyện Chợ MớiBắc Kạn
+Huyện Na Rì													6.041	7.718	0	0	0	Đủ CN	#DIV/0!	Bắc Kạn	Huyện Na RìBắc Kạn
+Thành phố Tuyên Quang													55.799	71.168	0	0	0	Đủ CN	#DIV/0!	Tuyên Quang	Thành phố Tuyên QuangTuyên Quang
+Huyện Lâm Bình													4.774	6.092	0	0	0	Đủ CN	#DIV/0!	Tuyên Quang	Huyện Lâm BìnhTuyên Quang
+Huyện Na Hang													6.742	8.603	0	0	0	Đủ CN	#DIV/0!	Tuyên Quang	Huyện Na HangTuyên Quang
+Huyện Chiêm Hóa													17.519	22.360	0	0	0	Đủ CN	#DIV/0!	Tuyên Quang	Huyện Chiêm HóaTuyên Quang
+Huyện Hàm Yên													20.123	25.665	0	0	0	Đủ CN	#DIV/0!	Tuyên Quang	Huyện Hàm YênTuyên Quang
+Huyện Yên Sơn													22.457	28.644	0	0	0	Đủ CN	#DIV/0!	Tuyên Quang	Huyện Yên SơnTuyên Quang
+Huyện Sơn Dương													35.371	45.086	0	0	0	Đủ CN	#DIV/0!	Tuyên Quang	Huyện Sơn DươngTuyên Quang
+Thành phố Lào Cai													73.785	94.776	1	1	0	Đủ CN	#DIV/0!	Lào Cai	Thành phố Lào CaiLào Cai
+Huyện Bát Xát													9.298	11.950	0	0	0	Đủ CN	#DIV/0!	Lào Cai	Huyện Bát XátLào Cai
+Huyện Mường Khương													5.625	7.236	0	0	0	Đủ CN	#DIV/0!	Lào Cai	Huyện Mường KhươngLào Cai
+Huyện Si Ma Cai													4.538	5.830	0	0	0	Đủ CN	#DIV/0!	Lào Cai	Huyện Si Ma CaiLào Cai
+Huyện Bắc Hà													7.176	9.227	0	0	0	Đủ CN	#DIV/0!	Lào Cai	Huyện Bắc HàLào Cai
+Huyện Bảo Thắng													15.693	20.170	0	0	0	Đủ CN	#DIV/0!	Lào Cai	Huyện Bảo ThắngLào Cai
+Huyện Bảo Yên													8.922	11.475	0	0	0	Đủ CN	#DIV/0!	Lào Cai	Huyện Bảo YênLào Cai
+Thị xã Sa Pa													12.068	15.529	0	0	0	Đủ CN	#DIV/0!	Lào Cai	Thị xã Sa PaLào Cai
+Huyện Văn Bàn													9.683	12.449	0	0	0	Đủ CN	#DIV/0!	Lào Cai	Huyện Văn BànLào Cai
+Thành phố Điện Biên Phủ													46.820	59.715	0	0	0	Đủ CN	#DIV/0!	Điện Biên	Thành phố Điện Biên PhủĐiện Biên
+Thị Xã Mường Lay													2.555	3.261	0	0	0	Đủ CN	#DIV/0!	Điện Biên	Thị Xã Mường LayĐiện Biên
+Huyện Mường Nhé													5.740	7.328	0	0	0	Đủ CN	#DIV/0!	Điện Biên	Huyện Mường NhéĐiện Biên
+Huyện Mường Chà													7.153	9.129	0	0	0	Đủ CN	#DIV/0!	Điện Biên	Huyện Mường ChàĐiện Biên
+Huyện Tủa Chùa													6.405	8.176	0	0	0	Đủ CN	#DIV/0!	Điện Biên	Huyện Tủa ChùaĐiện Biên
+Huyện Tuần Giáo													10.695	13.646	0	0	0	Đủ CN	#DIV/0!	Điện Biên	Huyện Tuần GiáoĐiện Biên
+Huyện Điện Biên													15.448	19.719	0	0	0	Đủ CN	#DIV/0!	Điện Biên	Huyện Điện BiênĐiện Biên
+Huyện Điện Biên Đông													7.396	9.442	0	0	0	Đủ CN	#DIV/0!	Điện Biên	Huyện Điện Biên ĐôngĐiện Biên
+Huyện Mường Ảng													6.611	8.441	0	0	0	Đủ CN	#DIV/0!	Điện Biên	Huyện Mường ẢngĐiện Biên
+Huyện Nậm Pồ													6.237	7.958	0	0	0	Đủ CN	#DIV/0!	Điện Biên	Huyện Nậm PồĐiện Biên
+Thành phố Lai Châu													28.001	35.747	0	0	0	Đủ CN	#DIV/0!	Lai Châu	Thành phố Lai ChâuLai Châu
+Huyện Tam Đường													7.966	10.168	0	0	0	Đủ CN	#DIV/0!	Lai Châu	Huyện Tam ĐườngLai Châu
+Huyện Mường Tè													7.107	9.075	0	0	0	Đủ CN	#DIV/0!	Lai Châu	Huyện Mường TèLai Châu
+Huyện Sìn Hồ													9.079	11.587	0	0	0	Đủ CN	#DIV/0!	Lai Châu	Huyện Sìn HồLai Châu
+Huyện Phong Thổ													9.756	12.448	0	0	0	Đủ CN	#DIV/0!	Lai Châu	Huyện Phong ThổLai Châu
+Huyện Than Uyên													11.937	15.220	0	0	0	Đủ CN	#DIV/0!	Lai Châu	Huyện Than UyênLai Châu
+Huyện Tân Uyên													8.029	10.248	0	0	0	Đủ CN	#DIV/0!	Lai Châu	Huyện Tân UyênLai Châu
+Huyện Nậm Nhùn													3.969	5.068	0	0	0	Đủ CN	#DIV/0!	Lai Châu	Huyện Nậm NhùnLai Châu
+Thành phố Sơn La													64.913	82.706	0	0	0	Đủ CN	#DIV/0!	Sơn La	Thành phố Sơn LaSơn La
+Huyện Quỳnh Nhai													9.100	11.592	0	0	0	Đủ CN	#DIV/0!	Sơn La	Huyện Quỳnh NhaiSơn La
+Huyện Thuận Châu													20.722	26.406	0	0	0	Đủ CN	#DIV/0!	Sơn La	Huyện Thuận ChâuSơn La
+Huyện Mường La													14.865	18.930	0	0	0	Đủ CN	#DIV/0!	Sơn La	Huyện Mường LaSơn La
+Huyện Bắc Yên													11.185	14.249	0	0	0	Đủ CN	#DIV/0!	Sơn La	Huyện Bắc YênSơn La
+Huyện Phù Yên													21.840	27.815	0	0	0	Đủ CN	#DIV/0!	Sơn La	Huyện Phù YênSơn La
+Huyện Mộc Châu													29.230	37.243	0	0	0	Đủ CN	#DIV/0!	Sơn La	Huyện Mộc ChâuSơn La
+Huyện Yên Châu													12.151	15.482	0	0	0	Đủ CN	#DIV/0!	Sơn La	Huyện Yên ChâuSơn La
+Huyện Mai Sơn													26.967	34.356	0	0	0	Đủ CN	#DIV/0!	Sơn La	Huyện Mai SơnSơn La
+Huyện Sông Mã													20.365	25.937	0	0	0	Đủ CN	#DIV/0!	Sơn La	Huyện Sông MãSơn La
+Huyện Sốp Cộp													7.461	9.502	0	0	0	Đủ CN	#DIV/0!	Sơn La	Huyện Sốp CộpSơn La
+Huyện Vân Hồ													8.879	11.312	0	0	0	Đủ CN	#DIV/0!	Sơn La	Huyện Vân HồSơn La
+Thành phố Yên Bái													58.275	74.330	1	2	(1)	Thiếu CN	#DIV/0!	Yên Bái	Thành phố Yên BáiYên Bái
+Thị xã Nghĩa Lộ													13.194	16.844	0	0	0	Đủ CN	#DIV/0!	Yên Bái	Thị xã Nghĩa LộYên Bái
+Huyện Lục Yên													13.283	16.966	0	0	0	Đủ CN	#DIV/0!	Yên Bái	Huyện Lục YênYên Bái
+Huyện Văn Yên													17.434	22.266	0	0	0	Đủ CN	#DIV/0!	Yên Bái	Huyện Văn YênYên Bái
+Huyện Mù Cang Chải													5.804	7.414	0	0	0	Đủ CN	#DIV/0!	Yên Bái	Huyện Mù Cang ChảiYên Bái
+Huyện Trấn Yên													16.757	21.376	0	0	0	Đủ CN	#DIV/0!	Yên Bái	Huyện Trấn YênYên Bái
+Huyện Trạm Tấu													4.049	5.171	0	0	0	Đủ CN	#DIV/0!	Yên Bái	Huyện Trạm TấuYên Bái
+Huyện Văn Chấn													16.092	20.546	0	0	0	Đủ CN	#DIV/0!	Yên Bái	Huyện Văn ChấnYên Bái
+Huyện Yên Bình													21.805	27.825	0	0	0	Đủ CN	#DIV/0!	Yên Bái	Huyện Yên BìnhYên Bái
+Thành phố Hòa Bình													49.417	63.068	0	0	0	Đủ CN	#DIV/0!	Hòa Bình	Thành phố Hòa BìnhHòa Bình
+Huyện Đà Bắc													7.417	9.480	0	0	0	Đủ CN	#DIV/0!	Hòa Bình	Huyện Đà BắcHòa Bình
+Huyện Lương Sơn													27.842	35.509	0	0	0	Đủ CN	#DIV/0!	Hòa Bình	Huyện Lương SơnHòa Bình
+Huyện Kim Bôi													13.112	16.761	0	0	0	Đủ CN	#DIV/0!	Hòa Bình	Huyện Kim BôiHòa Bình
+Huyện Cao Phong													6.137	7.841	0	0	0	Đủ CN	#DIV/0!	Hòa Bình	Huyện Cao PhongHòa Bình
+Huyện Tân Lạc													12.084	15.434	0	0	0	Đủ CN	#DIV/0!	Hòa Bình	Huyện Tân LạcHòa Bình
+Huyện Mai Châu													8.716	11.140	0	0	0	Đủ CN	#DIV/0!	Hòa Bình	Huyện Mai ChâuHòa Bình
+Huyện Lạc Sơn													26.485	33.765	0	0	0	Đủ CN	#DIV/0!	Hòa Bình	Huyện Lạc SơnHòa Bình
+Huyện Yên Thủy													9.675	12.356	0	0	0	Đủ CN	#DIV/0!	Hòa Bình	Huyện Yên ThủyHòa Bình
+Huyện Lạc Thủy													12.548	16.008	0	0	0	Đủ CN	#DIV/0!	Hòa Bình	Huyện Lạc ThủyHòa Bình
+Thành phố Thái Nguyên													113.331	147.416	1	2	(1)	Thiếu CN	#DIV/0!	Thái Nguyên	Thành phố Thái NguyênThái Nguyên
+Thành phố Sông Công													25.887	33.654	0	0	0	Đủ CN	#DIV/0!	Thái Nguyên	Thành phố Sông CôngThái Nguyên
+Huyện Định Hóa													8.606	11.184	0	0	0	Đủ CN	#DIV/0!	Thái Nguyên	Huyện Định HóaThái Nguyên
+Huyện Phú Lương													9.138	11.883	0	0	0	Đủ CN	#DIV/0!	Thái Nguyên	Huyện Phú LươngThái Nguyên
+Huyện Đồng Hỷ													8.265	10.754	0	0	0	Đủ CN	#DIV/0!	Thái Nguyên	Huyện Đồng HỷThái Nguyên
+Huyện Võ Nhai													6.311	8.197	0	0	0	Đủ CN	#DIV/0!	Thái Nguyên	Huyện Võ NhaiThái Nguyên
+Huyện Đại Từ													16.738	21.763	0	0	0	Đủ CN	#DIV/0!	Thái Nguyên	Huyện Đại TừThái Nguyên
+Thành phố Phổ Yên													108.131	140.299	1	1	0	Đủ CN	#DIV/0!	Thái Nguyên	Thành phố Phổ YênThái Nguyên
+Huyện Phú Bình													24.359	31.645	0	0	0	Đủ CN	#DIV/0!	Thái Nguyên	Huyện Phú BìnhThái Nguyên
+Thành phố Lạng Sơn													47.952	61.182	1	1	0	Đủ CN	#DIV/0!	Lạng Sơn	Thành phố Lạng SơnLạng Sơn
+Huyện Tràng Định													8.453	10.783	0	0	0	Đủ CN	#DIV/0!	Lạng Sơn	Huyện Tràng ĐịnhLạng Sơn
+Huyện Bình Gia													8.928	11.398	0	0	0	Đủ CN	#DIV/0!	Lạng Sơn	Huyện Bình GiaLạng Sơn
+Huyện Văn Lãng													8.722	11.131	0	0	0	Đủ CN	#DIV/0!	Lạng Sơn	Huyện Văn LãngLạng Sơn
+Huyện Cao Lộc													21.275	27.138	1	0	1	Thừa CN	#DIV/0!	Lạng Sơn	Huyện Cao LộcLạng Sơn
+Huyện Văn Quan													9.313	11.885	0	0	0	Đủ CN	#DIV/0!	Lạng Sơn	Huyện Văn QuanLạng Sơn
+Huyện Bắc Sơn													12.884	16.445	0	0	0	Đủ CN	#DIV/0!	Lạng Sơn	Huyện Bắc SơnLạng Sơn
+Huyện Hữu Lũng													21.178	27.024	0	0	0	Đủ CN	#DIV/0!	Lạng Sơn	Huyện Hữu LũngLạng Sơn
+Huyện Chi Lăng													12.599	16.078	0	0	0	Đủ CN	#DIV/0!	Lạng Sơn	Huyện Chi LăngLạng Sơn
+Huyện Lộc Bình													14.601	18.624	0	0	0	Đủ CN	#DIV/0!	Lạng Sơn	Huyện Lộc BìnhLạng Sơn
+Huyện Đình Lập													6.052	7.723	0	0	0	Đủ CN	#DIV/0!	Lạng Sơn	Huyện Đình LậpLạng Sơn
+Thành phố Hạ Long													145.750	192.550	2	3	(1)	Thiếu CN	#DIV/0!	Quảng Ninh	Thành phố Hạ LongQuảng Ninh
+Thành phố Móng Cái													21.590	28.580	1	1	0	Đủ CN	#DIV/0!	Quảng Ninh	Thành phố Móng CáiQuảng Ninh
+Thành phố Cẩm Phả													63.183	83.361	1	1	0	Đủ CN	#DIV/0!	Quảng Ninh	Thành phố Cẩm PhảQuảng Ninh
+Thành phố Uông Bí													35.718	47.097	1	1	0	Đủ CN	#DIV/0!	Quảng Ninh	Thành phố Uông BíQuảng Ninh
+Huyện Bình Liêu													3.274	4.311	0	0	0	Đủ CN	#DIV/0!	Quảng Ninh	Huyện Bình LiêuQuảng Ninh
+Huyện Tiên Yên													6.500	8.559	0	0	0	Đủ CN	#DIV/0!	Quảng Ninh	Huyện Tiên YênQuảng Ninh
+Huyện Đầm Hà													4.299	5.661	0	0	0	Đủ CN	#DIV/0!	Quảng Ninh	Huyện Đầm HàQuảng Ninh
+Huyện Hải Hà													21.638	28.508	0	0	0	Đủ CN	#DIV/0!	Quảng Ninh	Huyện Hải HàQuảng Ninh
+Huyện Ba Chẽ													3.235	4.258	0	0	0	Đủ CN	#DIV/0!	Quảng Ninh	Huyện Ba ChẽQuảng Ninh
+Huyện Vân Đồn													10.104	13.334	0	1	(1)	Thiếu CN	#DIV/0!	Quảng Ninh	Huyện Vân ĐồnQuảng Ninh
+Thị xã Đông Triều													33.648	44.382	0	1	(1)	Thiếu CN	#DIV/0!	Quảng Ninh	Thị xã Đông TriềuQuảng Ninh
+Thị xã Quảng Yên													33.459	44.069	0	1	(1)	Thiếu CN	#DIV/0!	Quảng Ninh	Thị xã Quảng YênQuảng Ninh
+Huyện Cô Tô													1.236	1.627	0	0	0	Đủ CN	#DIV/0!	Quảng Ninh	Huyện Cô TôQuảng Ninh
+Thành phố Bắc Giang													59.462	76.682	1	2	(1)	Thiếu CN	#DIV/0!	Bắc Giang	Thành phố Bắc GiangBắc Giang
+Huyện Yên Thế													12.166	15.697	0	0	0	Đủ CN	#DIV/0!	Bắc Giang	Huyện Yên ThếBắc Giang
+Huyện Tân Yên													23.047	29.722	0	0	0	Đủ CN	#DIV/0!	Bắc Giang	Huyện Tân YênBắc Giang
+Huyện Lạng Giang													26.725	34.468	0	0	0	Đủ CN	#DIV/0!	Bắc Giang	Huyện Lạng GiangBắc Giang
+Huyện Lục Nam													26.509	34.146	0	0	0	Đủ CN	#DIV/0!	Bắc Giang	Huyện Lục NamBắc Giang
+Huyện Lục Ngạn													20.295	26.224	0	0	0	Đủ CN	#DIV/0!	Bắc Giang	Huyện Lục NgạnBắc Giang
+Huyện Sơn Động													8.648	11.187	0	0	0	Đủ CN	#DIV/0!	Bắc Giang	Huyện Sơn ĐộngBắc Giang
+Huyện Yên Dũng													23.834	30.733	0	0	0	Đủ CN	#DIV/0!	Bắc Giang	Huyện Yên DũngBắc Giang
+Huyện Việt Yên													112.014	143.539	0	1	(1)	Thiếu CN	#DIV/0!	Bắc Giang	Huyện Việt YênBắc Giang
+Huyện Hiệp Hòa													38.620	49.655	0	0	0	Đủ CN	#DIV/0!	Bắc Giang	Huyện Hiệp HòaBắc Giang
+Thành phố Việt Trì													90.677	116.312	1	1	0	Đủ CN	#DIV/0!	Phú Thọ	Thành phố Việt TrìPhú Thọ
+Thị xã Phú Thọ													40.743	52.205	0	0	0	Đủ CN	#DIV/0!	Phú Thọ	Thị xã Phú ThọPhú Thọ
+Huyện Đoan Hùng													16.466	21.084	0	0	0	Đủ CN	#DIV/0!	Phú Thọ	Huyện Đoan HùngPhú Thọ
+Huyện Hạ Hoà													12.596	16.129	0	0	0	Đủ CN	#DIV/0!	Phú Thọ	Huyện Hạ HoàPhú Thọ
+Huyện Thanh Ba													29.577	37.884	0	0	0	Đủ CN	#DIV/0!	Phú Thọ	Huyện Thanh BaPhú Thọ
+Huyện Phù Ninh													21.868	28.018	0	0	0	Đủ CN	#DIV/0!	Phú Thọ	Huyện Phù NinhPhú Thọ
+Huyện Yên Lập													11.533	14.767	0	0	0	Đủ CN	#DIV/0!	Phú Thọ	Huyện Yên LậpPhú Thọ
+Huyện Cẩm Khê													29.625	37.931	0	0	0	Đủ CN	#DIV/0!	Phú Thọ	Huyện Cẩm KhêPhú Thọ
+Huyện Tam Nông													12.268	15.708	0	0	0	Đủ CN	#DIV/0!	Phú Thọ	Huyện Tam NôngPhú Thọ
+Huyện Lâm Thao													17.039	21.820	0	0	0	Đủ CN	#DIV/0!	Phú Thọ	Huyện Lâm ThaoPhú Thọ
+Huyện Thanh Sơn													17.168	21.992	0	0	0	Đủ CN	#DIV/0!	Phú Thọ	Huyện Thanh SơnPhú Thọ
+Huyện Thanh Thuỷ													14.048	17.993	0	0	0	Đủ CN	#DIV/0!	Phú Thọ	Huyện Thanh ThuỷPhú Thọ
+Huyện Tân Sơn													9.266	11.860	0	0	0	Đủ CN	#DIV/0!	Phú Thọ	Huyện Tân SơnPhú Thọ
+Thành phố Vĩnh Yên													38.280	50.053	1	1	0	Đủ CN	#DIV/0!	Vĩnh Phúc	Thành phố Vĩnh YênVĩnh Phúc
+Thành phố Phúc Yên													18.477	24.203	1	1	0	Đủ CN	#DIV/0!	Vĩnh Phúc	Thành phố Phúc YênVĩnh Phúc
+Huyện Lập Thạch													13.794	18.036	0	0	0	Đủ CN	#DIV/0!	Vĩnh Phúc	Huyện Lập ThạchVĩnh Phúc
+Huyện Tam Dương													10.624	13.949	0	0	0	Đủ CN	#DIV/0!	Vĩnh Phúc	Huyện Tam DươngVĩnh Phúc
+Huyện Tam Đảo													5.941	7.791	0	0	0	Đủ CN	#DIV/0!	Vĩnh Phúc	Huyện Tam ĐảoVĩnh Phúc
+Huyện Bình Xuyên													41.550	53.851	0	0	0	Đủ CN	#DIV/0!	Vĩnh Phúc	Huyện Bình XuyênVĩnh Phúc
+Huyện Yên Lạc													12.965	17.101	0	0	0	Đủ CN	#DIV/0!	Vĩnh Phúc	Huyện Yên LạcVĩnh Phúc
+Huyện Vĩnh Tường													59.685	76.998	0	0	0	Đủ CN	#DIV/0!	Vĩnh Phúc	Huyện Vĩnh TườngVĩnh Phúc
+Huyện Sông Lô													7.473	9.800	0	0	0	Đủ CN	#DIV/0!	Vĩnh Phúc	Huyện Sông LôVĩnh Phúc
+Thành phố Bắc Ninh													78.062	103.049	1	1	0	Đủ CN	#DIV/0!	Bắc Ninh	Thành phố Bắc NinhBắc Ninh
+Huyện Yên Phong													68.782	89.963	1	1	0	Đủ CN	#DIV/0!	Bắc Ninh	Huyện Yên PhongBắc Ninh
+Huyện Quế Võ													39.566	51.985	1	1	0	Đủ CN	#DIV/0!	Bắc Ninh	Huyện Quế VõBắc Ninh
+Huyện Tiên Du													35.035	46.169	1	0	1	Thừa CN	#DIV/0!	Bắc Ninh	Huyện Tiên DuBắc Ninh
+Thành phố Từ Sơn													58.951	77.496	1	1	0	Đủ CN	#DIV/0!	Bắc Ninh	Thành phố Từ SơnBắc Ninh
+Huyện Thuận Thành													25.346	33.421	0	0	0	Đủ CN	#DIV/0!	Bắc Ninh	Huyện Thuận ThànhBắc Ninh
+Huyện Gia Bình													12.774	16.868	0	0	0	Đủ CN	#DIV/0!	Bắc Ninh	Huyện Gia BìnhBắc Ninh
+Huyện Lương Tài													12.047	15.893	0	0	0	Đủ CN	#DIV/0!	Bắc Ninh	Huyện Lương TàiBắc Ninh
+Thành phố Hải Dương													109.346	141.027	2	2	0	Đủ CN	#DIV/0!	Hải Dương	Thành phố Hải DươngHải Dương
+Thành phố Chí Linh													27.155	35.020	0	0	0	Đủ CN	#DIV/0!	Hải Dương	Thành phố Chí LinhHải Dương
+Huyện Nam Sách													22.544	29.087	0	0	0	Đủ CN	#DIV/0!	Hải Dương	Huyện Nam SáchHải Dương
+Thị xã Kinh Môn													27.331	35.276	0	0	0	Đủ CN	#DIV/0!	Hải Dương	Thị xã Kinh MônHải Dương
+Huyện Kim Thành													27.804	35.816	0	0	0	Đủ CN	#DIV/0!	Hải Dương	Huyện Kim ThànhHải Dương
+Huyện Thanh Hà													19.336	24.922	0	0	0	Đủ CN	#DIV/0!	Hải Dương	Huyện Thanh HàHải Dương
+Huyện Cẩm Giàng													43.249	55.637	0	0	0	Đủ CN	#DIV/0!	Hải Dương	Huyện Cẩm GiàngHải Dương
+Huyện Bình Giang													18.688	24.114	0	0	0	Đủ CN	#DIV/0!	Hải Dương	Huyện Bình GiangHải Dương
+Huyện Gia Lộc													20.969	27.010	0	0	0	Đủ CN	#DIV/0!	Hải Dương	Huyện Gia LộcHải Dương
+Huyện Tứ Kỳ													25.399	32.730	0	0	0	Đủ CN	#DIV/0!	Hải Dương	Huyện Tứ KỳHải Dương
+Huyện Ninh Giang													20.394	26.265	0	0	0	Đủ CN	#DIV/0!	Hải Dương	Huyện Ninh GiangHải Dương
+Huyện Thanh Miện													34.267	44.020	0	0	0	Đủ CN	#DIV/0!	Hải Dương	Huyện Thanh MiệnHải Dương
+Quận Hồng Bàng													42.383	55.909	2	2	0	Đủ CN	#DIV/0!	Hải Phòng	Quận Hồng BàngHải Phòng
+Quận Ngô Quyền													59.007	77.942	3	2	1	Thừa CN	#DIV/0!	Hải Phòng	Quận Ngô QuyềnHải Phòng
+Quận Lê Chân													48.936	64.626	3	2	1	Thừa CN	#DIV/0!	Hải Phòng	Quận Lê ChânHải Phòng
+Quận Hải An													56.377	74.257	0	0	0	Đủ CN	#DIV/0!	Hải Phòng	Quận Hải AnHải Phòng
+Quận Kiến An													25.567	33.685	1	1	0	Đủ CN	#DIV/0!	Hải Phòng	Quận Kiến AnHải Phòng
+Quận Đồ Sơn													10.718	14.054	0	0	0	Đủ CN	#DIV/0!	Hải Phòng	Quận Đồ SơnHải Phòng
+Quận Dương Kinh													20.709	27.218	0	0	0	Đủ CN	#DIV/0!	Hải Phòng	Quận Dương KinhHải Phòng
+Huyện Thuỷ Nguyên													67.453	88.518	1	3	(2)	Thiếu CN	#DIV/0!	Hải Phòng	Huyện Thuỷ NguyênHải Phòng
+Huyện An Dương													79.681	104.504	0	0	0	Đủ CN	#DIV/0!	Hải Phòng	Huyện An DươngHải Phòng
+Huyện An Lão													15.683	20.670	0	0	0	Đủ CN	#DIV/0!	Hải Phòng	Huyện An LãoHải Phòng
+Huyện Kiến Thuy													14.173	18.650	0	0	0	Đủ CN	#DIV/0!	Hải Phòng	Huyện Kiến ThuyHải Phòng
+Huyện Tiên Lãng													18.915	24.814	0	0	0	Đủ CN	#DIV/0!	Hải Phòng	Huyện Tiên LãngHải Phòng
+Huyện Vĩnh Bảo													18.881	24.808	0	0	0	Đủ CN	#DIV/0!	Hải Phòng	Huyện Vĩnh BảoHải Phòng
+Huyện Cát Hải													11.297	14.828	0	0	0	Đủ CN	#DIV/0!	Hải Phòng	Huyện Cát HảiHải Phòng
+Huyện Bạch Long Vĩ													288	379	0	0	0	Đủ CN	#DIV/0!	Hải Phòng	Huyện Bạch Long VĩHải Phòng
+Thành phố Hưng Yên													26.257	34.043	1	1	0	Đủ CN	#DIV/0!	Hưng Yên	Thành phố Hưng YênHưng Yên
+Huyện Văn Lâm													52.449	67.934	1	1	0	Đủ CN	#DIV/0!	Hưng Yên	Huyện Văn LâmHưng Yên
+Huyện Văn Giang													20.745	26.921	2	3	(1)	Thiếu CN	#DIV/0!	Hưng Yên	Huyện Văn GiangHưng Yên
+Huyện Yên Mỹ													39.254	50.897	0	1	(1)	Thiếu CN	#DIV/0!	Hưng Yên	Huyện Yên MỹHưng Yên
+Thị xã Mỹ Hào													36.396	47.163	1	1	0	Đủ CN	#DIV/0!	Hưng Yên	Thị xã Mỹ HàoHưng Yên
+Huyện Ân Thi													16.411	21.232	0	0	0	Đủ CN	#DIV/0!	Hưng Yên	Huyện Ân ThiHưng Yên
+Huyện Khoái Châu													30.742	39.766	0	0	0	Đủ CN	#DIV/0!	Hưng Yên	Huyện Khoái ChâuHưng Yên
+Huyện Kim Động													24.958	32.236	0	0	0	Đủ CN	#DIV/0!	Hưng Yên	Huyện Kim ĐộngHưng Yên
+Huyện Tiên Lữ													14.235	18.416	0	0	0	Đủ CN	#DIV/0!	Hưng Yên	Huyện Tiên LữHưng Yên
+Huyện Phù Cừ													12.404	16.032	0	0	0	Đủ CN	#DIV/0!	Hưng Yên	Huyện Phù CừHưng Yên
+Thành phố Thái Bình													104.085	132.654	1	1	0	Đủ CN	#DIV/0!	Thái Bình	Thành phố Thái BìnhThái Bình
+Huyện Quỳnh Phụ													35.528	45.333	0	0	0	Đủ CN	#DIV/0!	Thái Bình	Huyện Quỳnh PhụThái Bình
+Huyện Hưng Hà													40.840	52.144	0	0	0	Đủ CN	#DIV/0!	Thái Bình	Huyện Hưng HàThái Bình
+Huyện Đông Hưng													50.823	64.791	0	0	0	Đủ CN	#DIV/0!	Thái Bình	Huyện Đông HưngThái Bình
+Huyện Thái Thụy													49.498	63.145	0	0	0	Đủ CN	#DIV/0!	Thái Bình	Huyện Thái ThụyThái Bình
+Huyện Tiền Hải													38.527	49.127	0	0	0	Đủ CN	#DIV/0!	Thái Bình	Huyện Tiền HảiThái Bình
+Huyện Kiến Xương													35.448	45.218	0	0	0	Đủ CN	#DIV/0!	Thái Bình	Huyện Kiến XươngThái Bình
+Huyện Vũ Thư													35.568	45.346	0	0	0	Đủ CN	#DIV/0!	Thái Bình	Huyện Vũ ThưThái Bình
+Thành phố Phủ Lý													43.239	55.827	1	2	(1)	Thiếu CN	#DIV/0!	Hà Nam	Thành phố Phủ LýHà Nam
+Thị xã Duy Tiên													43.270	55.659	0	0	0	Đủ CN	#DIV/0!	Hà Nam	Thị xã Duy TiênHà Nam
+Huyện Kim Bảng													22.769	29.352	0	0	0	Đủ CN	#DIV/0!	Hà Nam	Huyện Kim BảngHà Nam
+Huyện Thanh Liêm													17.935	23.177	0	0	0	Đủ CN	#DIV/0!	Hà Nam	Huyện Thanh LiêmHà Nam
+Huyện Bình Lục													13.358	17.277	0	0	0	Đủ CN	#DIV/0!	Hà Nam	Huyện Bình LụcHà Nam
+Huyện Lý Nhân													23.265	30.018	0	0	0	Đủ CN	#DIV/0!	Hà Nam	Huyện Lý NhânHà Nam
+Thành phố Nam Định													92.923	118.452	1	2	(1)	Thiếu CN	#DIV/0!	Nam Định	Thành phố Nam ĐịnhNam Định
+Huyện Mỹ Lộc													12.410	15.834	0	0	0	Đủ CN	#DIV/0!	Nam Định	Huyện Mỹ LộcNam Định
+Huyện Vụ Bản													27.093	34.509	0	0	0	Đủ CN	#DIV/0!	Nam Định	Huyện Vụ BảnNam Định
+Huyện Ý Yên													35.029	44.734	0	0	0	Đủ CN	#DIV/0!	Nam Định	Huyện Ý YênNam Định
+Huyện Nghĩa Hưng													34.737	44.320	0	0	0	Đủ CN	#DIV/0!	Nam Định	Huyện Nghĩa HưngNam Định
+Huyện Nam Trực													36.702	46.762	0	0	0	Đủ CN	#DIV/0!	Nam Định	Huyện Nam TrựcNam Định
+Huyện Trực Ninh													31.306	39.946	0	0	0	Đủ CN	#DIV/0!	Nam Định	Huyện Trực NinhNam Định
+Huyện Xuân Trường													26.689	34.050	0	0	0	Đủ CN	#DIV/0!	Nam Định	Huyện Xuân TrườngNam Định
+Huyện Giao Thủy													25.745	32.853	0	0	0	Đủ CN	#DIV/0!	Nam Định	Huyện Giao ThủyNam Định
+Huyện Hải Hậu													37.158	47.422	0	0	0	Đủ CN	#DIV/0!	Nam Định	Huyện Hải HậuNam Định
+Thành phố Ninh Bình													45.729	59.025	1	1	0	Đủ CN	#DIV/0!	Ninh Bình	Thành phố Ninh BìnhNinh Bình
+Thành phố Tam Điệp													17.497	22.557	0	1	(1)	Thiếu CN	#DIV/0!	Ninh Bình	Thành phố Tam ĐiệpNinh Bình
+Huyện Nho Quan													17.970	23.219	0	0	0	Đủ CN	#DIV/0!	Ninh Bình	Huyện Nho QuanNinh Bình
+Huyện Gia Viễn													19.649	25.352	0	0	0	Đủ CN	#DIV/0!	Ninh Bình	Huyện Gia ViễnNinh Bình
+Huyện Hoa Lư													12.952	16.729	0	0	0	Đủ CN	#DIV/0!	Ninh Bình	Huyện Hoa LưNinh Bình
+Huyện Yên Khánh													26.610	34.359	0	0	0	Đủ CN	#DIV/0!	Ninh Bình	Huyện Yên KhánhNinh Bình
+Huyện Kim Sơn													28.171	36.371	0	0	0	Đủ CN	#DIV/0!	Ninh Bình	Huyện Kim SơnNinh Bình
+Huyện Yên Mô													17.349	22.396	0	0	0	Đủ CN	#DIV/0!	Ninh Bình	Huyện Yên MôNinh Bình
+Thành phố Thanh Hóa													206.529	263.801	3	3	0	Đủ CN	#DIV/0!	Thanh Hóa	Thành phố Thanh HóaThanh Hóa
+Thị xã Bỉm Sơn													29.852	38.105	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Thị xã Bỉm SơnThanh Hóa
+Thành phố Sầm Sơn													26.409	33.776	0	1	(1)	Thiếu CN	#DIV/0!	Thanh Hóa	Thành phố Sầm SơnThanh Hóa
+Huyện Mường Lát													2.798	3.578	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Mường LátThanh Hóa
+Huyện Quan Hóa													5.933	7.586	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Quan HóaThanh Hóa
+Huyện Bá Thước													8.890	11.368	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Bá ThướcThanh Hóa
+Huyện Quan Sơn													5.922	7.570	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Quan SơnThanh Hóa
+Huyện Lang Chánh													6.855	8.763	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Lang ChánhThanh Hóa
+Huyện Ngọc Lặc													14.904	19.056	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Ngọc LặcThanh Hóa
+Huyện Cẩm Thủy													12.266	15.683	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Cẩm ThủyThanh Hóa
+Huyện Thạch Thành													22.602	28.865	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Thạch ThànhThanh Hóa
+Huyện Hà Trung													25.393	32.424	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Hà TrungThanh Hóa
+Huyện Vĩnh Lộc													12.945	16.545	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Vĩnh LộcThanh Hóa
+Huyện Yên Định													39.811	50.820	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Yên ĐịnhThanh Hóa
+Huyện Thọ Xuân													37.216	47.560	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Thọ XuânThanh Hóa
+Huyện Thường Xuân													9.536	12.195	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Thường XuânThanh Hóa
+Huyện Triệu Sơn													32.083	40.985	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Triệu SơnThanh Hóa
+Huyện Thiệu Hóa													21.269	27.193	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Thiệu HóaThanh Hóa
+Huyện Hoằng Hóa													36.948	47.213	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Hoằng HóaThanh Hóa
+Huyện Hậu Lộc													29.555	37.752	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Hậu LộcThanh Hóa
+Huyện Nga Sơn													29.666	37.909	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Nga SơnThanh Hóa
+Huyện Như Xuân													8.309	10.626	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Như XuânThanh Hóa
+Huyện Như Thanh													13.858	17.711	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Như ThanhThanh Hóa
+Huyện Nông Cống													40.252	51.399	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Nông CốngThanh Hóa
+Huyện Đông Sơn													15.366	19.640	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Đông SơnThanh Hóa
+Huyện Quảng Xương													30.903	39.494	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Huyện Quảng XươngThanh Hóa
+Thị xã Nghi Sơn													53.817	68.736	0	0	0	Đủ CN	#DIV/0!	Thanh Hóa	Thị xã Nghi SơnThanh Hóa
+Thành phố Vinh													164.555	210.420	2	2	0	Đủ CN	#DIV/0!	Nghệ An	Thành phố VinhNghệ An
+Thị xã Cửa Lò													15.312	19.575	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Thị xã Cửa LòNghệ An
+Thị xã Thái Hoà													14.359	18.355	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Thị xã Thái HoàNghệ An
+Huyện Quế Phong													7.685	9.820	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Quế PhongNghệ An
+Huyện Quỳ Châu													6.232	7.966	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Quỳ ChâuNghệ An
+Huyện Kỳ Sơn													6.870	8.783	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Kỳ SơnNghệ An
+Huyện Tương Dương													7.479	9.559	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Tương DươngNghệ An
+Huyện Nghĩa Đàn													16.031	20.491	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Nghĩa ĐànNghệ An
+Huyện Quỳ Hợp													16.621	21.247	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Quỳ HợpNghệ An
+Huyện Quỳnh Lưu													39.921	51.030	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Quỳnh LưuNghệ An
+Huyện Con Cuông													7.100	9.074	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Con CuôngNghệ An
+Huyện Tân Kỳ													15.564	19.898	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Tân KỳNghệ An
+Huyện Anh Sơn													14.143	18.076	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Anh SơnNghệ An
+Huyện Diễn Châu													55.572	70.983	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Diễn ChâuNghệ An
+Huyện Yên Thành													47.489	60.639	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Yên ThànhNghệ An
+Huyện Đô Lương													30.006	38.345	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Đô LươngNghệ An
+Huyện Thanh Chương													27.691	35.380	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Thanh ChươngNghệ An
+Huyện Nghi Lộc													104.255	132.958	0	1	(1)	Thiếu CN	#DIV/0!	Nghệ An	Huyện Nghi LộcNghệ An
+Huyện Nam Đàn													22.509	28.761	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Nam ĐànNghệ An
+Huyện Hưng Nguyên													47.541	60.646	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Huyện Hưng NguyênNghệ An
+Thị xã Hoàng Mai													36.974	47.185	0	0	0	Đủ CN	#DIV/0!	Nghệ An	Thị xã Hoàng MaiNghệ An
+Thành phố Hà Tĩnh													53.352	68.249	1	1	0	Đủ CN	#DIV/0!	Hà Tĩnh	Thành phố Hà TĩnhHà Tĩnh
+Thị xã Hồng Lĩnh													18.456	23.593	0	0	0	Đủ CN	#DIV/0!	Hà Tĩnh	Thị xã Hồng LĩnhHà Tĩnh
+Huyện Hương Sơn													20.345	26.002	0	0	0	Đủ CN	#DIV/0!	Hà Tĩnh	Huyện Hương SơnHà Tĩnh
+Huyện Đức Thọ													19.786	25.276	0	0	0	Đủ CN	#DIV/0!	Hà Tĩnh	Huyện Đức ThọHà Tĩnh
+Huyện Vũ Quang													4.426	5.662	0	0	0	Đủ CN	#DIV/0!	Hà Tĩnh	Huyện Vũ QuangHà Tĩnh
+Huyện Nghi Xuân													19.011	24.316	0	0	0	Đủ CN	#DIV/0!	Hà Tĩnh	Huyện Nghi XuânHà Tĩnh
+Huyện Can Lộc													19.656	25.119	0	0	0	Đủ CN	#DIV/0!	Hà Tĩnh	Huyện Can LộcHà Tĩnh
+Huyện Hương Khê													14.720	18.809	0	0	0	Đủ CN	#DIV/0!	Hà Tĩnh	Huyện Hương KhêHà Tĩnh
+Huyện Thạch Hà													21.430	27.398	0	0	0	Đủ CN	#DIV/0!	Hà Tĩnh	Huyện Thạch HàHà Tĩnh
+Huyện Cẩm Xuyên													21.478	27.455	0	0	0	Đủ CN	#DIV/0!	Hà Tĩnh	Huyện Cẩm XuyênHà Tĩnh
+Huyện Kỳ Anh													17.103	21.855	1	0	1	Thừa CN	#DIV/0!	Hà Tĩnh	Huyện Kỳ AnhHà Tĩnh
+Huyện Lộc Hà													14.248	18.206	0	0	0	Đủ CN	#DIV/0!	Hà Tĩnh	Huyện Lộc HàHà Tĩnh
+Thị xã Kỳ Anh													34.028	43.499	0	0	0	Đủ CN	#DIV/0!	Hà Tĩnh	Thị xã Kỳ AnhHà Tĩnh
+Thành Phố Đồng Hới													62.061	79.545	1	1	0	Đủ CN	#DIV/0!	Quảng Bình	Thành Phố Đồng HớiQuảng Bình
+Huyện Minh Hóa													7.291	9.336	0	0	0	Đủ CN	#DIV/0!	Quảng Bình	Huyện Minh HóaQuảng Bình
+Huyện Tuyên Hóa													12.443	15.923	0	0	0	Đủ CN	#DIV/0!	Quảng Bình	Huyện Tuyên HóaQuảng Bình
+Huyện Quảng Trạch													20.205	25.851	0	0	0	Đủ CN	#DIV/0!	Quảng Bình	Huyện Quảng TrạchQuảng Bình
+Huyện Bố Trạch													31.741	40.636	0	0	0	Đủ CN	#DIV/0!	Quảng Bình	Huyện Bố TrạchQuảng Bình
+Huyện Quảng Ninh													14.814	18.963	0	0	0	Đủ CN	#DIV/0!	Quảng Bình	Huyện Quảng NinhQuảng Bình
+Huyện Lệ Thủy													23.138	29.619	0	0	0	Đủ CN	#DIV/0!	Quảng Bình	Huyện Lệ ThủyQuảng Bình
+Thị xã Ba Đồn													26.718	34.206	0	0	0	Đủ CN	#DIV/0!	Quảng Bình	Thị xã Ba ĐồnQuảng Bình
+Thành phố Đông Hà													36.035	46.188	0	0	0	Đủ CN	#DIV/0!	Quảng Trị	Thành phố Đông HàQuảng Trị
+Thị xã Quảng Trị													7.138	9.149	0	0	0	Đủ CN	#DIV/0!	Quảng Trị	Thị xã Quảng TrịQuảng Trị
+Huyện Vĩnh Linh													20.648	26.421	0	0	0	Đủ CN	#DIV/0!	Quảng Trị	Huyện Vĩnh LinhQuảng Trị
+Huyện Hướng Hóa													13.316	17.067	0	0	0	Đủ CN	#DIV/0!	Quảng Trị	Huyện Hướng HóaQuảng Trị
+Huyện Gio Linh													12.972	16.612	0	0	0	Đủ CN	#DIV/0!	Quảng Trị	Huyện Gio LinhQuảng Trị
+Huyện Đa Krông													5.020	6.433	0	0	0	Đủ CN	#DIV/0!	Quảng Trị	Huyện Đa KrôngQuảng Trị
+Huyện Cam Lộ													9.179	11.751	0	0	0	Đủ CN	#DIV/0!	Quảng Trị	Huyện Cam LộQuảng Trị
+Huyện Triệu Phong													15.713	20.110	0	0	0	Đủ CN	#DIV/0!	Quảng Trị	Huyện Triệu PhongQuảng Trị
+Huyện Hải Lăng													13.198	16.889	0	0	0	Đủ CN	#DIV/0!	Quảng Trị	Huyện Hải LăngQuảng Trị
+Huyện Cồn Cỏ													64	82	0	0	0	Đủ CN	#DIV/0!	Quảng Trị	Huyện Cồn CỏQuảng Trị
+Thành phố Huế													103.446	132.228	1	2	(1)	Thiếu CN	#DIV/0!	Thừa Thiên Huế	Thành phố HuếThừa Thiên Huế
+Huyện Phong Điền													18.202	23.241	0	0	0	Đủ CN	#DIV/0!	Thừa Thiên Huế	Huyện Phong ĐiềnThừa Thiên Huế
+Huyện Quảng Điền													15.389	19.635	0	0	0	Đủ CN	#DIV/0!	Thừa Thiên Huế	Huyện Quảng ĐiềnThừa Thiên Huế
+Huyện Phú Vang													23.973	30.625	0	0	0	Đủ CN	#DIV/0!	Thừa Thiên Huế	Huyện Phú VangThừa Thiên Huế
+Thị xã Hương Thủy													29.340	37.427	0	0	0	Đủ CN	#DIV/0!	Thừa Thiên Huế	Thị xã Hương ThủyThừa Thiên Huế
+Thị xã Hương Trà													16.405	20.961	0	0	0	Đủ CN	#DIV/0!	Thừa Thiên Huế	Thị xã Hương TràThừa Thiên Huế
+Huyện A Lưới													5.967	7.636	0	0	0	Đủ CN	#DIV/0!	Thừa Thiên Huế	Huyện A LướiThừa Thiên Huế
+Huyện Phú Lộc													22.022	28.130	0	0	0	Đủ CN	#DIV/0!	Thừa Thiên Huế	Huyện Phú LộcThừa Thiên Huế
+Huyện Nam Đông													3.758	4.811	0	0	0	Đủ CN	#DIV/0!	Thừa Thiên Huế	Huyện Nam ĐôngThừa Thiên Huế
+Quận Liên Chiểu													50.098	65.370	1	1	0	Đủ CN	#DIV/0!	Đà Nẵng	Quận Liên ChiểuĐà Nẵng
+Quận Thanh Khê													38.447	50.357	2	2	0	Đủ CN	#DIV/0!	Đà Nẵng	Quận Thanh KhêĐà Nẵng
+Quận Hải Châu													75.453	98.629	3	2	1	Thừa CN	#DIV/0!	Đà Nẵng	Quận Hải ChâuĐà Nẵng
+Quận Sơn Trà													34.172	44.705	2	1	1	Thừa CN	#DIV/0!	Đà Nẵng	Quận Sơn TràĐà Nẵng
+Quận Ngũ Hành Sơn													26.458	34.640	0	2	(2)	Thiếu CN	#DIV/0!	Đà Nẵng	Quận Ngũ Hành SơnĐà Nẵng
+Quận Cẩm Lệ													45.832	59.963	2	2	0	Đủ CN	#DIV/0!	Đà Nẵng	Quận Cẩm LệĐà Nẵng
+Huyện Hòa Vang													18.405	24.074	0	0	0	Đủ CN	#DIV/0!	Đà Nẵng	Huyện Hòa VangĐà Nẵng
+Thành phố Tam Kỳ													65.450	83.553	1	1	0	Đủ CN	#DIV/0!	Quảng Nam	Thành phố Tam KỳQuảng Nam
+Thành phố Hội An													28.110	35.993	1	1	0	Đủ CN	#DIV/0!	Quảng Nam	Thành phố Hội AnQuảng Nam
+Huyện Tây Giang													2.502	3.204	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Huyện Tây GiangQuảng Nam
+Huyện Đông Giang													2.972	3.806	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Huyện Đông GiangQuảng Nam
+Huyện Đại Lộc													22.422	28.678	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Huyện Đại LộcQuảng Nam
+Thị xã Điện Bàn													43.336	55.381	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Thị xã Điện BànQuảng Nam
+Huyện Duy Xuyên													27.758	35.447	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Huyện Duy XuyênQuảng Nam
+Huyện Quế Sơn													13.867	17.737	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Huyện Quế SơnQuảng Nam
+Huyện Nam Giang													4.634	5.927	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Huyện Nam GiangQuảng Nam
+Huyện Phước Sơn													3.828	4.901	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Huyện Phước SơnQuảng Nam
+Huyện Hiệp Đức													6.063	7.759	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Huyện Hiệp ĐứcQuảng Nam
+Huyện Thăng Bình													31.087	39.696	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Huyện Thăng BìnhQuảng Nam
+Huyện Tiên Phước													9.498	12.141	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Huyện Tiên PhướcQuảng Nam
+Huyện Bắc Trà My													5.622	7.197	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Huyện Bắc Trà MyQuảng Nam
+Huyện Nam Trà My													2.846	3.646	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Huyện Nam Trà MyQuảng Nam
+Huyện Núi Thành													43.820	55.930	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Huyện Núi ThànhQuảng Nam
+Huyện Phú Ninh													13.636	17.422	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Huyện Phú NinhQuảng Nam
+Huyện Nông Sơn													3.850	4.925	0	0	0	Đủ CN	#DIV/0!	Quảng Nam	Huyện Nông SơnQuảng Nam
+Thành phố Quảng Ngãi													83.537	108.532	1	1	0	Đủ CN	#DIV/0!	Quảng Ngãi	Thành phố Quảng NgãiQuảng Ngãi
+Huyện Bình Sơn													43.450	56.287	0	0	0	Đủ CN	#DIV/0!	Quảng Ngãi	Huyện Bình SơnQuảng Ngãi
+Huyện Trà Bồng													6.815	8.828	0	0	0	Đủ CN	#DIV/0!	Quảng Ngãi	Huyện Trà BồngQuảng Ngãi
+Huyện Sơn Tịnh													45.779	59.252	0	0	0	Đủ CN	#DIV/0!	Quảng Ngãi	Huyện Sơn TịnhQuảng Ngãi
+Huyện Tư Nghĩa													20.857	26.999	0	0	0	Đủ CN	#DIV/0!	Quảng Ngãi	Huyện Tư NghĩaQuảng Ngãi
+Huyện Sơn Hà													7.912	10.244	0	0	0	Đủ CN	#DIV/0!	Quảng Ngãi	Huyện Sơn HàQuảng Ngãi
+Huyện Sơn Tây													2.319	3.008	0	0	0	Đủ CN	#DIV/0!	Quảng Ngãi	Huyện Sơn TâyQuảng Ngãi
+Huyện Minh Long													2.404	3.112	0	0	0	Đủ CN	#DIV/0!	Quảng Ngãi	Huyện Minh LongQuảng Ngãi
+Huyện Nghĩa Hành													11.148	14.428	0	0	0	Đủ CN	#DIV/0!	Quảng Ngãi	Huyện Nghĩa HànhQuảng Ngãi
+Huyện Mộ Đức													15.731	20.376	0	0	0	Đủ CN	#DIV/0!	Quảng Ngãi	Huyện Mộ ĐứcQuảng Ngãi
+Thị xã Đức Phổ													21.542	27.901	0	0	0	Đủ CN	#DIV/0!	Quảng Ngãi	Thị xã Đức PhổQuảng Ngãi
+Huyện Ba Tơ													7.276	9.426	0	0	0	Đủ CN	#DIV/0!	Quảng Ngãi	Huyện Ba TơQuảng Ngãi
+Huyện Lý Sơn													3.627	4.699	0	0	0	Đủ CN	#DIV/0!	Quảng Ngãi	Huyện Lý SơnQuảng Ngãi
+Thành phố Quy Nhơn													136.457	174.288	1	2	(1)	Thiếu CN	#DIV/0!	Bình Định	Thành phố Quy NhơnBình Định
+Huyện An Lão													4.114	5.268	0	0	0	Đủ CN	#DIV/0!	Bình Định	Huyện An LãoBình Định
+Thị xã Hoài Nhơn													43.483	55.558	0	0	0	Đủ CN	#DIV/0!	Bình Định	Thị xã Hoài NhơnBình Định
+Huyện Hoài Ân													11.330	14.496	0	0	0	Đủ CN	#DIV/0!	Bình Định	Huyện Hoài ÂnBình Định
+Huyện Phù Mỹ													19.748	25.262	0	0	0	Đủ CN	#DIV/0!	Bình Định	Huyện Phù MỹBình Định
+Huyện Vĩnh Thạnh													4.652	5.954	0	0	0	Đủ CN	#DIV/0!	Bình Định	Huyện Vĩnh ThạnhBình Định
+Huyện Tây Sơn													19.913	25.459	0	0	0	Đủ CN	#DIV/0!	Bình Định	Huyện Tây SơnBình Định
+Huyện Phù Cát													25.437	32.519	0	0	0	Đủ CN	#DIV/0!	Bình Định	Huyện Phù CátBình Định
+Thị xã An Nhơn													37.709	48.208	0	0	0	Đủ CN	#DIV/0!	Bình Định	Thị xã An NhơnBình Định
+Huyện Tuy Phước													26.054	33.315	0	0	0	Đủ CN	#DIV/0!	Bình Định	Huyện Tuy PhướcBình Định
+Huyện Vân Canh													4.368	5.586	0	0	0	Đủ CN	#DIV/0!	Bình Định	Huyện Vân CanhBình Định
+Thành phố Tuy Hòa													65.130	83.223	0	0	0	Đủ CN	#DIV/0!	Phú Yên	Thành phố Tuy HòaPhú Yên
+Thị xã Sông Cầu													18.991	24.260	0	0	0	Đủ CN	#DIV/0!	Phú Yên	Thị xã Sông CầuPhú Yên
+Huyện Đồng Xuân													10.407	13.299	0	0	0	Đủ CN	#DIV/0!	Phú Yên	Huyện Đồng XuânPhú Yên
+Huyện Tuy An													18.940	24.199	0	0	0	Đủ CN	#DIV/0!	Phú Yên	Huyện Tuy AnPhú Yên
+Huyện Sơn Hòa													9.467	12.102	0	0	0	Đủ CN	#DIV/0!	Phú Yên	Huyện Sơn HòaPhú Yên
+Huyện Sông Hinh													7.518	9.612	0	0	0	Đủ CN	#DIV/0!	Phú Yên	Huyện Sông HinhPhú Yên
+Huyện Tây Hoà													15.047	19.231	0	0	0	Đủ CN	#DIV/0!	Phú Yên	Huyện Tây HoàPhú Yên
+Huyện Phú Hoà													15.266	19.507	0	0	0	Đủ CN	#DIV/0!	Phú Yên	Huyện Phú HoàPhú Yên
+Thị xã Đông Hòa													21.752	27.785	0	0	0	Đủ CN	#DIV/0!	Phú Yên	Thị xã Đông HòaPhú Yên
+Thành phố Nha Trang													129.954	168.108	3	2	1	Thừa CN	#DIV/0!	Khánh Hòa	Thành phố Nha TrangKhánh Hòa
+Thành phố Cam Ranh													25.918	33.409	0	0	0	Đủ CN	#DIV/0!	Khánh Hòa	Thành phố Cam RanhKhánh Hòa
+Huyện Cam Lâm													23.483	30.257	0	0	0	Đủ CN	#DIV/0!	Khánh Hòa	Huyện Cam LâmKhánh Hòa
+Huyện Vạn Ninh													17.536	22.569	0	0	0	Đủ CN	#DIV/0!	Khánh Hòa	Huyện Vạn NinhKhánh Hòa
+Thị xã Ninh Hòa													34.414	44.347	0	0	0	Đủ CN	#DIV/0!	Khánh Hòa	Thị xã Ninh HòaKhánh Hòa
+Huyện Khánh Vĩnh													5.544	7.151	0	0	0	Đủ CN	#DIV/0!	Khánh Hòa	Huyện Khánh VĩnhKhánh Hòa
+Huyện Diên Khánh													26.797	34.554	0	0	0	Đủ CN	#DIV/0!	Khánh Hòa	Huyện Diên KhánhKhánh Hòa
+Huyện Khánh Sơn													2.865	3.693	0	0	0	Đủ CN	#DIV/0!	Khánh Hòa	Huyện Khánh SơnKhánh Hòa
+Thành phố Phan Rang-Tháp Chàm													46.198	59.427	0	0	0	Đủ CN	#DIV/0!	Ninh Thuận	Thành phố Phan Rang-Tháp ChàmNinh Thuận
+Huyện Bác Ái													3.642	4.686	0	0	0	Đủ CN	#DIV/0!	Ninh Thuận	Huyện Bác ÁiNinh Thuận
+Huyện Ninh Sơn													12.714	16.333	0	0	0	Đủ CN	#DIV/0!	Ninh Thuận	Huyện Ninh SơnNinh Thuận
+Huyện Ninh Hải													17.293	22.217	0	0	0	Đủ CN	#DIV/0!	Ninh Thuận	Huyện Ninh HảiNinh Thuận
+Huyện Ninh Phước													20.666	26.527	0	0	0	Đủ CN	#DIV/0!	Ninh Thuận	Huyện Ninh PhướcNinh Thuận
+Huyện Thuận Bắc													8.084	10.369	0	0	0	Đủ CN	#DIV/0!	Ninh Thuận	Huyện Thuận BắcNinh Thuận
+Huyện Thuận Nam													12.247	15.725	0	0	0	Đủ CN	#DIV/0!	Ninh Thuận	Huyện Thuận NamNinh Thuận
+Thành phố Phan Thiết													74.429	95.101	1	1	0	Đủ CN	#DIV/0!	Bình Thuận	Thành phố Phan ThiếtBình Thuận
+Thị xã La Gi													24.903	31.787	0	0	0	Đủ CN	#DIV/0!	Bình Thuận	Thị xã La GiBình Thuận
+Huyện Tuy Phong													26.292	33.566	0	0	0	Đủ CN	#DIV/0!	Bình Thuận	Huyện Tuy PhongBình Thuận
+Huyện Bắc Bình													18.597	23.745	0	0	0	Đủ CN	#DIV/0!	Bình Thuận	Huyện Bắc BìnhBình Thuận
+Huyện Hàm Thuận Bắc													26.050	33.258	0	0	0	Đủ CN	#DIV/0!	Bình Thuận	Huyện Hàm Thuận BắcBình Thuận
+Huyện Hàm Thuận Nam													22.260	28.411	0	0	0	Đủ CN	#DIV/0!	Bình Thuận	Huyện Hàm Thuận NamBình Thuận
+Huyện Tánh Linh													18.835	24.048	0	0	0	Đủ CN	#DIV/0!	Bình Thuận	Huyện Tánh LinhBình Thuận
+Huyện Đức Linh													37.452	47.758	0	0	0	Đủ CN	#DIV/0!	Bình Thuận	Huyện Đức LinhBình Thuận
+Huyện Hàm Tân													13.143	16.791	0	0	0	Đủ CN	#DIV/0!	Bình Thuận	Huyện Hàm TânBình Thuận
+Huyện Phú Quý													5.037	6.436	0	0	0	Đủ CN	#DIV/0!	Bình Thuận	Huyện Phú QuýBình Thuận
+Thành phố Kon Tum													51.224	65.483	0	0	0	Đủ CN	#DIV/0!	Kon Tum	Thành phố Kon TumKon Tum
+Huyện Đắk Glei													7.063	9.033	0	0	0	Đủ CN	#DIV/0!	Kon Tum	Huyện Đắk GleiKon Tum
+Huyện Ngọc Hồi													9.903	12.657	0	0	0	Đủ CN	#DIV/0!	Kon Tum	Huyện Ngọc HồiKon Tum
+Huyện Đắk Tô													7.186	9.189	0	0	0	Đủ CN	#DIV/0!	Kon Tum	Huyện Đắk TôKon Tum
+Huyện Kon Plông													5.642	7.210	0	0	0	Đủ CN	#DIV/0!	Kon Tum	Huyện Kon PlôngKon Tum
+Huyện Kon Rẫy													3.894	4.976	0	0	0	Đủ CN	#DIV/0!	Kon Tum	Huyện Kon RẫyKon Tum
+Huyện Đắk Hà													10.996	14.061	0	0	0	Đủ CN	#DIV/0!	Kon Tum	Huyện Đắk HàKon Tum
+Huyện Sa Thầy													9.366	11.962	0	0	0	Đủ CN	#DIV/0!	Kon Tum	Huyện Sa ThầyKon Tum
+Huyện Tu Mơ Rông													3.496	4.471	0	0	0	Đủ CN	#DIV/0!	Kon Tum	Huyện Tu Mơ RôngKon Tum
+Huyện Ia H' Drai													1.617	2.068	0	0	0	Đủ CN	#DIV/0!	Kon Tum	Huyện Ia H' DraiKon Tum
+Thành phố Pleiku													121.760	155.341	1	1	0	Đủ CN	#DIV/0!	Gia Lai	Thành phố PleikuGia Lai
+Thị xã An Khê													13.968	17.831	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Thị xã An KhêGia Lai
+Thị xã Ayun Pa													9.240	11.795	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Thị xã Ayun PaGia Lai
+Huyện KBang													9.186	11.727	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Huyện KBangGia Lai
+Huyện Đăk Đoa													16.998	21.675	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Huyện Đăk ĐoaGia Lai
+Huyện Chư Păh													11.229	14.325	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Huyện Chư PăhGia Lai
+Huyện Ia Grai													15.305	19.519	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Huyện Ia GraiGia Lai
+Huyện Mang Yang													8.997	11.485	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Huyện Mang YangGia Lai
+Huyện Kông Chro													6.013	7.676	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Huyện Kông ChroGia Lai
+Huyện Đức Cơ													18.123	23.098	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Huyện Đức CơGia Lai
+Huyện Chư Prông													13.443	17.166	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Huyện Chư PrôngGia Lai
+Huyện Chư Sê													16.655	21.263	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Huyện Chư SêGia Lai
+Huyện Đăk Pơ													6.245	7.968	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Huyện Đăk PơGia Lai
+Huyện Ia Pa													6.359	8.116	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Huyện Ia PaGia Lai
+Huyện Krông Pa													11.486	14.661	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Huyện Krông PaGia Lai
+Huyện Phú Thiện													9.556	12.195	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Huyện Phú ThiệnGia Lai
+Huyện Chư Pưh													8.062	10.292	0	0	0	Đủ CN	#DIV/0!	Gia Lai	Huyện Chư PưhGia Lai
+Thành phố Buôn Ma Thuột													151.902	193.916	1	1	0	Đủ CN	#DIV/0!	Đắk Lắk	Thành phố Buôn Ma ThuộtĐắk Lắk
+Thị Xã Buôn Hồ													15.883	20.275	0	0	0	Đủ CN	#DIV/0!	Đắk Lắk	Thị Xã Buôn HồĐắk Lắk
+Huyện Ea H'leo													26.333	33.587	0	0	0	Đủ CN	#DIV/0!	Đắk Lắk	Huyện Ea H'leoĐắk Lắk
+Huyện Ea Súp													12.514	15.963	0	0	0	Đủ CN	#DIV/0!	Đắk Lắk	Huyện Ea SúpĐắk Lắk
+Huyện Buôn Đôn													10.889	13.892	0	0	0	Đủ CN	#DIV/0!	Đắk Lắk	Huyện Buôn ĐônĐắk Lắk
+Huyện Cư M'gar													26.799	34.191	0	0	0	Đủ CN	#DIV/0!	Đắk Lắk	Huyện Cư M'garĐắk Lắk
+Huyện Krông Búk													10.592	13.520	0	0	0	Đủ CN	#DIV/0!	Đắk Lắk	Huyện Krông BúkĐắk Lắk
+Huyện Krông Năng													22.905	29.216	0	0	0	Đủ CN	#DIV/0!	Đắk Lắk	Huyện Krông NăngĐắk Lắk
+Huyện Ea Kar													29.072	37.082	0	0	0	Đủ CN	#DIV/0!	Đắk Lắk	Huyện Ea KarĐắk Lắk
+Huyện M'Đrắk													13.300	16.960	0	0	0	Đủ CN	#DIV/0!	Đắk Lắk	Huyện M'ĐrắkĐắk Lắk
+Huyện Krông Bông													14.962	19.083	0	0	0	Đủ CN	#DIV/0!	Đắk Lắk	Huyện Krông BôngĐắk Lắk
+Huyện Krông Pắc													29.572	37.736	0	0	0	Đủ CN	#DIV/0!	Đắk Lắk	Huyện Krông PắcĐắk Lắk
+Huyện Krông A Na													19.969	25.463	0	0	0	Đủ CN	#DIV/0!	Đắk Lắk	Huyện Krông A NaĐắk Lắk
+Huyện Lắk													9.336	11.910	0	0	0	Đủ CN	#DIV/0!	Đắk Lắk	Huyện LắkĐắk Lắk
+Huyện Cư Kuin													23.008	29.340	0	0	0	Đủ CN	#DIV/0!	Đắk Lắk	Huyện Cư KuinĐắk Lắk
+Thành phố Gia Nghĩa													29.524	37.687	0	0	0	Đủ CN	#DIV/0!	Đắk Nông	Thành phố Gia NghĩaĐắk Nông
+Huyện Đắk Glong													10.825	13.815	0	0	0	Đủ CN	#DIV/0!	Đắk Nông	Huyện Đắk GlongĐắk Nông
+Huyện Cư Jút													20.504	26.147	0	0	0	Đủ CN	#DIV/0!	Đắk Nông	Huyện Cư JútĐắk Nông
+Huyện Đắk Mil													15.955	20.374	0	0	0	Đủ CN	#DIV/0!	Đắk Nông	Huyện Đắk MilĐắk Nông
+Huyện Krông Nô													12.373	15.789	0	0	0	Đủ CN	#DIV/0!	Đắk Nông	Huyện Krông NôĐắk Nông
+Huyện Đắk Song													12.285	15.688	0	0	0	Đủ CN	#DIV/0!	Đắk Nông	Huyện Đắk SongĐắk Nông
+Huyện Đắk R'Lấp													21.955	28.028	0	0	0	Đủ CN	#DIV/0!	Đắk Nông	Huyện Đắk R'LấpĐắk Nông
+Huyện Tuy Đức													7.254	9.263	0	0	0	Đủ CN	#DIV/0!	Đắk Nông	Huyện Tuy ĐứcĐắk Nông
+Thành phố Đà Lạt													85.021	109.223	1	1	0	Đủ CN	#DIV/0!	Lâm Đồng	Thành phố Đà LạtLâm Đồng
+Thành phố Bảo Lộc													40.657	52.179	0	0	0	Đủ CN	#DIV/0!	Lâm Đồng	Thành phố Bảo LộcLâm Đồng
+Huyện Đam Rông													7.918	10.159	0	0	0	Đủ CN	#DIV/0!	Lâm Đồng	Huyện Đam RôngLâm Đồng
+Huyện Lạc Dương													5.591	7.186	0	0	0	Đủ CN	#DIV/0!	Lâm Đồng	Huyện Lạc DươngLâm Đồng
+Huyện Lâm Hà													25.235	32.397	0	0	0	Đủ CN	#DIV/0!	Lâm Đồng	Huyện Lâm HàLâm Đồng
+Huyện Đơn Dương													15.822	20.315	0	0	0	Đủ CN	#DIV/0!	Lâm Đồng	Huyện Đơn DươngLâm Đồng
+Huyện Đức Trọng													34.726	44.638	0	0	0	Đủ CN	#DIV/0!	Lâm Đồng	Huyện Đức TrọngLâm Đồng
+Huyện Di Linh													22.115	28.403	0	0	0	Đủ CN	#DIV/0!	Lâm Đồng	Huyện Di LinhLâm Đồng
+Huyện Bảo Lâm													19.911	25.535	0	0	0	Đủ CN	#DIV/0!	Lâm Đồng	Huyện Bảo LâmLâm Đồng
+Huyện Đạ Huoai													10.408	13.330	0	0	0	Đủ CN	#DIV/0!	Lâm Đồng	Huyện Đạ HuoaiLâm Đồng
+Huyện Đạ Tẻh													9.976	12.803	0	0	0	Đủ CN	#DIV/0!	Lâm Đồng	Huyện Đạ TẻhLâm Đồng
+Huyện Cát Tiên													7.938	10.191	0	0	0	Đủ CN	#DIV/0!	Lâm Đồng	Huyện Cát TiênLâm Đồng
+Thị xã Phước Long													10.856	14.140	0	0	0	Đủ CN	#DIV/0!	Bình Phước	Thị xã Phước LongBình Phước
+Thành phố Đồng Xoài													36.648	47.353	1	1	0	Đủ CN	#DIV/0!	Bình Phước	Thành phố Đồng XoàiBình Phước
+Thị xã Bình Long													8.481	10.997	0	0	0	Đủ CN	#DIV/0!	Bình Phước	Thị xã Bình LongBình Phước
+Huyện Bù Gia Mập													7.017	9.105	0	0	0	Đủ CN	#DIV/0!	Bình Phước	Huyện Bù Gia MậpBình Phước
+Huyện Lộc Ninh													12.328	15.992	0	0	0	Đủ CN	#DIV/0!	Bình Phước	Huyện Lộc NinhBình Phước
+Huyện Bù Đốp													5.824	7.553	0	0	0	Đủ CN	#DIV/0!	Bình Phước	Huyện Bù ĐốpBình Phước
+Huyện Hớn Quản													17.578	22.588	0	0	0	Đủ CN	#DIV/0!	Bình Phước	Huyện Hớn QuảnBình Phước
+Huyện Đồng Phú													29.517	37.906	0	0	0	Đủ CN	#DIV/0!	Bình Phước	Huyện Đồng PhúBình Phước
+Huyện Bù Đăng													13.595	17.636	0	0	0	Đủ CN	#DIV/0!	Bình Phước	Huyện Bù ĐăngBình Phước
+Thị xã Chơn Thành													50.448	64.733	0	0	0	Đủ CN	#DIV/0!	Bình Phước	Thị xã Chơn ThànhBình Phước
+Huyện Phú Riềng													8.866	11.509	0	0	0	Đủ CN	#DIV/0!	Bình Phước	Huyện Phú RiềngBình Phước
+Thành phố Tây Ninh													29.765	38.369	1	1	0	Đủ CN	#DIV/0!	Tây Ninh	Thành phố Tây NinhTây Ninh
+Huyện Tân Biên													10.806	13.966	0	0	0	Đủ CN	#DIV/0!	Tây Ninh	Huyện Tân BiênTây Ninh
+Huyện Tân Châu													18.522	23.841	0	0	0	Đủ CN	#DIV/0!	Tây Ninh	Huyện Tân ChâuTây Ninh
+Huyện Dương Minh Châu													29.906	38.169	0	0	0	Đủ CN	#DIV/0!	Tây Ninh	Huyện Dương Minh ChâuTây Ninh
+Huyện Châu Thành													20.380	26.180	0	0	0	Đủ CN	#DIV/0!	Tây Ninh	Huyện Châu ThànhTây Ninh
+Thị xã Hòa Thành													22.591	29.104	0	0	0	Đủ CN	#DIV/0!	Tây Ninh	Thị xã Hòa ThànhTây Ninh
+Huyện Gò Dầu													47.811	60.995	0	0	0	Đủ CN	#DIV/0!	Tây Ninh	Huyện Gò DầuTây Ninh
+Huyện Bến Cầu													21.347	27.239	0	0	0	Đủ CN	#DIV/0!	Tây Ninh	Huyện Bến CầuTây Ninh
+Thị xã Trảng Bàng													72.314	92.163	0	0	0	Đủ CN	#DIV/0!	Tây Ninh	Thị xã Trảng BàngTây Ninh
+Thành phố Biên Hòa													245.911	318.921	4	4	0	Đủ CN	#DIV/0!	Đồng Nai	Thành phố Biên HòaĐồng Nai
+Thành phố Long khánh													37.563	48.519	1	1	0	Đủ CN	#DIV/0!	Đồng Nai	Thành phố Long khánhĐồng Nai
+Huyện Tân Phú													17.017	22.144	0	0	0	Đủ CN	#DIV/0!	Đồng Nai	Huyện Tân PhúĐồng Nai
+Huyện Vĩnh Cửu													50.718	65.187	0	0	0	Đủ CN	#DIV/0!	Đồng Nai	Huyện Vĩnh CửuĐồng Nai
+Huyện Định Quán													22.097	28.699	0	0	0	Đủ CN	#DIV/0!	Đồng Nai	Huyện Định QuánĐồng Nai
+Huyện Trảng Bom													82.740	106.759	0	1	(1)	Thiếu CN	#DIV/0!	Đồng Nai	Huyện Trảng BomĐồng Nai
+Huyện Thống Nhất													29.437	37.951	0	0	0	Đủ CN	#DIV/0!	Đồng Nai	Huyện Thống NhấtĐồng Nai
+Huyện Cẩm Mỹ													13.169	17.174	0	0	0	Đủ CN	#DIV/0!	Đồng Nai	Huyện Cẩm MỹĐồng Nai
+Huyện Long Thành													51.128	66.308	1	1	0	Đủ CN	#DIV/0!	Đồng Nai	Huyện Long ThànhĐồng Nai
+Huyện Xuân Lộc													35.217	45.612	0	0	0	Đủ CN	#DIV/0!	Đồng Nai	Huyện Xuân LộcĐồng Nai
+Huyện Nhơn Trạch													85.364	109.776	0	2	(2)	Thiếu CN	#DIV/0!	Đồng Nai	Huyện Nhơn TrạchĐồng Nai
+Thành phố Tân An													38.709	50.265	1	1	0	Đủ CN	#DIV/0!	Long An	Thành phố Tân AnLong An
+Thị xã Kiến Tường													8.869	11.483	0	0	0	Đủ CN	#DIV/0!	Long An	Thị xã Kiến TườngLong An
+Huyện Tân Hưng													4.180	5.427	0	0	0	Đủ CN	#DIV/0!	Long An	Huyện Tân HưngLong An
+Huyện Vĩnh Hưng													5.368	6.967	0	0	0	Đủ CN	#DIV/0!	Long An	Huyện Vĩnh HưngLong An
+Huyện Mộc Hóa													3.225	4.172	0	0	0	Đủ CN	#DIV/0!	Long An	Huyện Mộc HóaLong An
+Huyện Tân Thạnh													6.657	8.637	0	0	0	Đủ CN	#DIV/0!	Long An	Huyện Tân ThạnhLong An
+Huyện Thạnh Hóa													6.646	8.624	0	0	0	Đủ CN	#DIV/0!	Long An	Huyện Thạnh HóaLong An
+Huyện Đức Huệ													5.899	7.655	0	0	0	Đủ CN	#DIV/0!	Long An	Huyện Đức HuệLong An
+Huyện Đức Hòa													137.848	178.475	0	1	(1)	Thiếu CN	#DIV/0!	Long An	Huyện Đức HòaLong An
+Huyện Bến Lức													62.566	81.007	0	0	0	Đủ CN	#DIV/0!	Long An	Huyện Bến LứcLong An
+Huyện Thủ Thừa													19.630	25.390	0	0	0	Đủ CN	#DIV/0!	Long An	Huyện Thủ ThừaLong An
+Huyện Tân Trụ													5.202	6.746	0	0	0	Đủ CN	#DIV/0!	Long An	Huyện Tân TrụLong An
+Huyện Cần Đước													33.944	43.914	0	0	0	Đủ CN	#DIV/0!	Long An	Huyện Cần ĐướcLong An
+Huyện Cần Giuộc													38.009	49.206	0	0	0	Đủ CN	#DIV/0!	Long An	Huyện Cần GiuộcLong An
+Huyện Châu Thành													8.349	10.827	0	0	0	Đủ CN	#DIV/0!	Long An	Huyện Châu ThànhLong An
+Thành phố Mỹ Tho													74.862	95.644	1	1	0	Đủ CN	#DIV/0!	Tiền Giang	Thành phố Mỹ ThoTiền Giang
+Thị xã Gò Công													18.878	24.115	0	0	0	Đủ CN	#DIV/0!	Tiền Giang	Thị xã Gò CôngTiền Giang
+Thị xã Cai Lậy													27.025	34.511	0	0	0	Đủ CN	#DIV/0!	Tiền Giang	Thị xã Cai LậyTiền Giang
+Huyện Tân Phước													30.516	38.916	0	0	0	Đủ CN	#DIV/0!	Tiền Giang	Huyện Tân PhướcTiền Giang
+Huyện Cái Bè													46.145	58.938	0	0	0	Đủ CN	#DIV/0!	Tiền Giang	Huyện Cái BèTiền Giang
+Huyện Cai Lậy													20.413	26.078	0	0	0	Đủ CN	#DIV/0!	Tiền Giang	Huyện Cai LậyTiền Giang
+Huyện Châu Thành													128.129	163.282	0	0	0	Đủ CN	#DIV/0!	Tiền Giang	Huyện Châu ThànhTiền Giang
+Huyện Chợ Gạo													21.737	27.771	0	0	0	Đủ CN	#DIV/0!	Tiền Giang	Huyện Chợ GạoTiền Giang
+Huyện Gò Công Tây													12.939	16.536	0	0	0	Đủ CN	#DIV/0!	Tiền Giang	Huyện Gò Công TâyTiền Giang
+Huyện Gò Công Đông													22.181	28.305	0	0	0	Đủ CN	#DIV/0!	Tiền Giang	Huyện Gò Công ĐôngTiền Giang
+Huyện Tân Phú Đông													5.235	6.690	0	0	0	Đủ CN	#DIV/0!	Tiền Giang	Huyện Tân Phú ĐôngTiền Giang
+Thành phố Bến Tre													49.717	63.533	0	0	0	Đủ CN	#DIV/0!	Bến Tre	Thành phố Bến TreBến Tre
+Huyện Châu Thành													63.437	80.903	0	0	0	Đủ CN	#DIV/0!	Bến Tre	Huyện Châu ThànhBến Tre
+Huyện Chợ Lách													16.829	21.489	0	0	0	Đủ CN	#DIV/0!	Bến Tre	Huyện Chợ LáchBến Tre
+Huyện Mỏ Cày Nam													24.582	31.388	0	0	0	Đủ CN	#DIV/0!	Bến Tre	Huyện Mỏ Cày NamBến Tre
+Huyện Giồng Trôm													36.434	46.478	0	0	0	Đủ CN	#DIV/0!	Bến Tre	Huyện Giồng TrômBến Tre
+Huyện Bình Đại													19.925	25.457	0	0	0	Đủ CN	#DIV/0!	Bến Tre	Huyện Bình ĐạiBến Tre
+Huyện Ba Tri													35.512	45.307	0	0	0	Đủ CN	#DIV/0!	Bến Tre	Huyện Ba TriBến Tre
+Huyện Thạnh Phú													19.263	24.600	0	0	0	Đủ CN	#DIV/0!	Bến Tre	Huyện Thạnh PhúBến Tre
+Huyện Mỏ Cày Bắc													21.758	27.772	0	0	0	Đủ CN	#DIV/0!	Bến Tre	Huyện Mỏ Cày BắcBến Tre
+Thành phố Trà Vinh													40.750	52.071	0	0	0	Đủ CN	#DIV/0!	Trà Vinh	Thành phố Trà VinhTrà Vinh
+Huyện Càng Long													25.041	31.961	0	0	0	Đủ CN	#DIV/0!	Trà Vinh	Huyện Càng LongTrà Vinh
+Huyện Cầu Kè													18.453	23.558	0	0	0	Đủ CN	#DIV/0!	Trà Vinh	Huyện Cầu KèTrà Vinh
+Huyện Tiểu Cần													21.846	27.877	0	0	0	Đủ CN	#DIV/0!	Trà Vinh	Huyện Tiểu CầnTrà Vinh
+Huyện Châu Thành													37.944	48.408	0	0	0	Đủ CN	#DIV/0!	Trà Vinh	Huyện Châu ThànhTrà Vinh
+Huyện Cầu Ngang													20.100	25.662	0	0	0	Đủ CN	#DIV/0!	Trà Vinh	Huyện Cầu NgangTrà Vinh
+Huyện Trà Cú													26.455	33.771	0	0	0	Đủ CN	#DIV/0!	Trà Vinh	Huyện Trà CúTrà Vinh
+Huyện Duyên Hải													9.906	12.651	0	0	0	Đủ CN	#DIV/0!	Trà Vinh	Huyện Duyên HảiTrà Vinh
+Thị xã Duyên Hải													11.609	14.837	0	0	0	Đủ CN	#DIV/0!	Trà Vinh	Thị xã Duyên HảiTrà Vinh
+Thành phố Vĩnh Long													54.174	69.280	1	1	0	Đủ CN	#DIV/0!	Vĩnh Long	Thành phố Vĩnh LongVĩnh Long
+Huyện Long Hồ													41.841	53.417	0	0	0	Đủ CN	#DIV/0!	Vĩnh Long	Huyện Long HồVĩnh Long
+Huyện Mang Thít													13.870	17.718	0	0	0	Đủ CN	#DIV/0!	Vĩnh Long	Huyện Mang ThítVĩnh Long
+Huyện Vũng Liêm													25.149	32.118	0	0	0	Đủ CN	#DIV/0!	Vĩnh Long	Huyện Vũng LiêmVĩnh Long
+Huyện Tam Bình													20.514	26.211	0	0	0	Đủ CN	#DIV/0!	Vĩnh Long	Huyện Tam BìnhVĩnh Long
+Thị xã Bình Minh													27.221	34.742	0	0	0	Đủ CN	#DIV/0!	Vĩnh Long	Thị xã Bình MinhVĩnh Long
+Huyện Trà Ôn													18.517	23.663	0	0	0	Đủ CN	#DIV/0!	Vĩnh Long	Huyện Trà ÔnVĩnh Long
+Huyện Bình Tân													11.562	14.771	0	0	0	Đủ CN	#DIV/0!	Vĩnh Long	Huyện Bình TânVĩnh Long
+Thành phố Cao Lãnh													48.819	62.316	1	1	0	Đủ CN	#DIV/0!	Đồng Tháp	Thành phố Cao LãnhĐồng Tháp
+Thành phố Sa Đéc													33.083	42.201	0	0	0	Đủ CN	#DIV/0!	Đồng Tháp	Thành phố Sa ĐécĐồng Tháp
+Thành phố Hồng Ngự													18.443	23.531	0	0	0	Đủ CN	#DIV/0!	Đồng Tháp	Thành phố Hồng NgựĐồng Tháp
+Huyện Tân Hồng													22.788	29.047	0	0	0	Đủ CN	#DIV/0!	Đồng Tháp	Huyện Tân HồngĐồng Tháp
+Huyện Hồng Ngự													17.512	22.354	0	0	0	Đủ CN	#DIV/0!	Đồng Tháp	Huyện Hồng NgựĐồng Tháp
+Huyện Tam Nông													26.989	34.392	0	0	0	Đủ CN	#DIV/0!	Đồng Tháp	Huyện Tam NôngĐồng Tháp
+Huyện Tháp Mười													22.949	29.291	0	0	0	Đủ CN	#DIV/0!	Đồng Tháp	Huyện Tháp MườiĐồng Tháp
+Huyện Cao Lãnh													31.413	40.081	0	0	0	Đủ CN	#DIV/0!	Đồng Tháp	Huyện Cao LãnhĐồng Tháp
+Huyện Thanh Bình													23.406	29.869	0	0	0	Đủ CN	#DIV/0!	Đồng Tháp	Huyện Thanh BìnhĐồng Tháp
+Huyện Lấp Vò													32.927	42.019	0	0	0	Đủ CN	#DIV/0!	Đồng Tháp	Huyện Lấp VòĐồng Tháp
+Huyện Lai Vung													32.705	41.692	0	0	0	Đủ CN	#DIV/0!	Đồng Tháp	Huyện Lai VungĐồng Tháp
+Huyện Châu Thành													27.025	34.480	0	0	0	Đủ CN	#DIV/0!	Đồng Tháp	Huyện Châu ThànhĐồng Tháp
+Thành phố Long Xuyên													88.434	112.900	1	1	0	Đủ CN	#DIV/0!	An Giang	Thành phố Long XuyênAn Giang
+Thành phố Châu Đốc													27.807	35.490	0	0	0	Đủ CN	#DIV/0!	An Giang	Thành phố Châu ĐốcAn Giang
+Huyện An Phú													21.140	26.983	0	0	0	Đủ CN	#DIV/0!	An Giang	Huyện An PhúAn Giang
+Thị xã Tân Châu													25.021	31.945	0	0	0	Đủ CN	#DIV/0!	An Giang	Thị xã Tân ChâuAn Giang
+Huyện Phú Tân													27.417	34.992	0	0	0	Đủ CN	#DIV/0!	An Giang	Huyện Phú TânAn Giang
+Huyện Châu Phú													35.582	45.389	0	0	0	Đủ CN	#DIV/0!	An Giang	Huyện Châu PhúAn Giang
+Huyện Tịnh Biên													25.563	32.623	0	0	0	Đủ CN	#DIV/0!	An Giang	Huyện Tịnh BiênAn Giang
+Huyện Tri Tôn													22.900	29.236	0	0	0	Đủ CN	#DIV/0!	An Giang	Huyện Tri TônAn Giang
+Huyện Châu Thành													44.422	56.630	0	0	0	Đủ CN	#DIV/0!	An Giang	Huyện Châu ThànhAn Giang
+Huyện Chợ Mới													49.256	62.852	0	0	0	Đủ CN	#DIV/0!	An Giang	Huyện Chợ MớiAn Giang
+Huyện Thoại Sơn													30.659	39.131	0	0	0	Đủ CN	#DIV/0!	An Giang	Huyện Thoại SơnAn Giang
+Thành phố Rạch Giá													84.160	107.363	1	1	0	Đủ CN	#DIV/0!	Kiên Giang	Thành phố Rạch GiáKiên Giang
+Thành phố Hà Tiên													13.256	16.913	0	0	0	Đủ CN	#DIV/0!	Kiên Giang	Thành phố Hà TiênKiên Giang
+Huyện Kiên Lương													19.733	25.173	0	0	0	Đủ CN	#DIV/0!	Kiên Giang	Huyện Kiên LươngKiên Giang
+Huyện Hòn Đất													25.343	32.325	0	0	0	Đủ CN	#DIV/0!	Kiên Giang	Huyện Hòn ĐấtKiên Giang
+Huyện Tân Hiệp													19.170	24.446	0	0	0	Đủ CN	#DIV/0!	Kiên Giang	Huyện Tân HiệpKiên Giang
+Huyện Châu Thành													46.436	59.150	0	0	0	Đủ CN	#DIV/0!	Kiên Giang	Huyện Châu ThànhKiên Giang
+Huyện Giồng Riềng													29.451	37.558	0	0	0	Đủ CN	#DIV/0!	Kiên Giang	Huyện Giồng RiềngKiên Giang
+Huyện Gò Quao													20.205	25.759	0	0	0	Đủ CN	#DIV/0!	Kiên Giang	Huyện Gò QuaoKiên Giang
+Huyện An Biên													19.323	24.644	0	0	0	Đủ CN	#DIV/0!	Kiên Giang	Huyện An BiênKiên Giang
+Huyện An Minh													16.184	20.640	0	0	0	Đủ CN	#DIV/0!	Kiên Giang	Huyện An MinhKiên Giang
+Huyện Vĩnh Thuận													13.469	17.184	0	0	0	Đủ CN	#DIV/0!	Kiên Giang	Huyện Vĩnh ThuậnKiên Giang
+Thành phố Phú Quốc													59.380	75.840	1	2	(1)	Thiếu CN	#DIV/0!	Kiên Giang	Thành phố Phú QuốcKiên Giang
+Huyện Kiên Hải													4.794	6.111	0	0	0	Đủ CN	#DIV/0!	Kiên Giang	Huyện Kiên HảiKiên Giang
+Huyện U Minh Thượng													8.829	11.264	0	0	0	Đủ CN	#DIV/0!	Kiên Giang	Huyện U Minh ThượngKiên Giang
+Huyện Giang Thành													4.848	6.182	0	0	0	Đủ CN	#DIV/0!	Kiên Giang	Huyện Giang ThànhKiên Giang
+Quận Ninh Kiều													112.411	145.300	2	2	0	Đủ CN	#DIV/0!	Cần Thơ	Quận Ninh KiềuCần Thơ
+Quận Ô Môn													30.848	39.738	0	0	0	Đủ CN	#DIV/0!	Cần Thơ	Quận Ô MônCần Thơ
+Quận Bình Thuỷ													44.759	57.782	0	0	0	Đủ CN	#DIV/0!	Cần Thơ	Quận Bình ThuỷCần Thơ
+Quận Cái Răng													33.199	42.960	0	1	(1)	Thiếu CN	#DIV/0!	Cần Thơ	Quận Cái RăngCần Thơ
+Quận Thốt Nốt													29.200	37.646	0	0	0	Đủ CN	#DIV/0!	Cần Thơ	Quận Thốt NốtCần Thơ
+Huyện Vĩnh Thạnh													11.671	15.033	0	0	0	Đủ CN	#DIV/0!	Cần Thơ	Huyện Vĩnh ThạnhCần Thơ
+Huyện Cờ Đỏ													15.165	19.542	0	0	0	Đủ CN	#DIV/0!	Cần Thơ	Huyện Cờ ĐỏCần Thơ
+Huyện Phong Điền													15.689	20.210	0	0	0	Đủ CN	#DIV/0!	Cần Thơ	Huyện Phong ĐiềnCần Thơ
+Huyện Thới Lai													15.625	20.132	0	0	0	Đủ CN	#DIV/0!	Cần Thơ	Huyện Thới LaiCần Thơ
+Thành phố Vị Thanh													29.071	37.110	0	0	0	Đủ CN	#DIV/0!	Hậu Giang	Thành phố Vị ThanhHậu Giang
+Thành phố Ngã Bảy													14.742	18.816	0	0	0	Đủ CN	#DIV/0!	Hậu Giang	Thành phố Ngã BảyHậu Giang
+Huyện Châu Thành A													26.473	33.777	0	0	0	Đủ CN	#DIV/0!	Hậu Giang	Huyện Châu Thành AHậu Giang
+Huyện Châu Thành													18.522	23.642	0	0	0	Đủ CN	#DIV/0!	Hậu Giang	Huyện Châu ThànhHậu Giang
+Huyện Phụng Hiệp													27.375	34.941	0	0	0	Đủ CN	#DIV/0!	Hậu Giang	Huyện Phụng HiệpHậu Giang
+Huyện Vị Thủy													14.354	18.328	0	0	0	Đủ CN	#DIV/0!	Hậu Giang	Huyện Vị ThủyHậu Giang
+Huyện Long Mỹ													10.641	13.583	0	0	0	Đủ CN	#DIV/0!	Hậu Giang	Huyện Long MỹHậu Giang
+Thị xã Long Mỹ													14.272	18.219	0	0	0	Đủ CN	#DIV/0!	Hậu Giang	Thị xã Long MỹHậu Giang
+Thành phố Sóc Trăng													60.963	77.762	1	1	0	Đủ CN	#DIV/0!	Sóc Trăng	Thành phố Sóc TrăngSóc Trăng
+Huyện Châu Thành													44.477	56.631	0	0	0	Đủ CN	#DIV/0!	Sóc Trăng	Huyện Châu ThànhSóc Trăng
+Huyện Kế Sách													23.276	29.667	0	0	0	Đủ CN	#DIV/0!	Sóc Trăng	Huyện Kế SáchSóc Trăng
+Huyện Mỹ Tú													12.668	16.149	0	0	0	Đủ CN	#DIV/0!	Sóc Trăng	Huyện Mỹ TúSóc Trăng
+Huyện Cù Lao Dung													9.754	12.432	0	0	0	Đủ CN	#DIV/0!	Sóc Trăng	Huyện Cù Lao DungSóc Trăng
+Huyện Long Phú													15.210	19.388	0	0	0	Đủ CN	#DIV/0!	Sóc Trăng	Huyện Long PhúSóc Trăng
+Huyện Mỹ Xuyên													21.176	26.997	0	0	0	Đủ CN	#DIV/0!	Sóc Trăng	Huyện Mỹ XuyênSóc Trăng
+Thị xã Ngã Năm													13.024	16.599	0	0	0	Đủ CN	#DIV/0!	Sóc Trăng	Thị xã Ngã NămSóc Trăng
+Huyện Thạnh Trị													11.537	14.709	0	0	0	Đủ CN	#DIV/0!	Sóc Trăng	Huyện Thạnh TrịSóc Trăng
+Thị xã Vĩnh Châu													19.872	25.331	0	0	0	Đủ CN	#DIV/0!	Sóc Trăng	Thị xã Vĩnh ChâuSóc Trăng
+Huyện Trần Đề													18.985	24.196	0	0	0	Đủ CN	#DIV/0!	Sóc Trăng	Huyện Trần ĐềSóc Trăng
+Thành phố Bạc Liêu													57.198	72.945	0	0	0	Đủ CN	#DIV/0!	Bạc Liêu	Thành phố Bạc LiêuBạc Liêu
+Huyện Hồng Dân													19.495	24.865	0	0	0	Đủ CN	#DIV/0!	Bạc Liêu	Huyện Hồng DânBạc Liêu
+Huyện Phước Long													23.692	30.200	0	0	0	Đủ CN	#DIV/0!	Bạc Liêu	Huyện Phước LongBạc Liêu
+Huyện Vĩnh Lợi													20.159	25.689	0	0	0	Đủ CN	#DIV/0!	Bạc Liêu	Huyện Vĩnh LợiBạc Liêu
+Thị xã Giá Rai													36.143	46.042	0	0	0	Đủ CN	#DIV/0!	Bạc Liêu	Thị xã Giá RaiBạc Liêu
+Huyện Đông Hải													28.410	36.189	0	0	0	Đủ CN	#DIV/0!	Bạc Liêu	Huyện Đông HảiBạc Liêu
+Huyện Hoà Bình													21.518	27.416	0	0	0	Đủ CN	#DIV/0!	Bạc Liêu	Huyện Hoà BìnhBạc Liêu
+Thành phố Cà Mau													89.236	113.853	1	1	0	Đủ CN	#DIV/0!	Cà Mau	Thành phố Cà MauCà Mau
+Huyện U Minh													16.987	21.664	0	0	0	Đủ CN	#DIV/0!	Cà Mau	Huyện U MinhCà Mau
+Huyện Thới Bình													21.861	27.877	0	0	0	Đủ CN	#DIV/0!	Cà Mau	Huyện Thới BìnhCà Mau
+Huyện Trần Văn Thời													30.626	39.057	0	0	0	Đủ CN	#DIV/0!	Cà Mau	Huyện Trần Văn ThờiCà Mau
+Huyện Cái Nước													27.259	34.750	0	0	0	Đủ CN	#DIV/0!	Cà Mau	Huyện Cái NướcCà Mau
+Huyện Đầm Dơi													27.182	34.652	0	0	0	Đủ CN	#DIV/0!	Cà Mau	Huyện Đầm DơiCà Mau
+Huyện Năm Căn													13.274	16.933	0	0	0	Đủ CN	#DIV/0!	Cà Mau	Huyện Năm CănCà Mau
+Huyện Phú Tân													15.660	19.965	0	0	0	Đủ CN	#DIV/0!	Cà Mau	Huyện Phú TânCà Mau
+Huyện Ngọc Hiển													9.579	12.214	0	0	0	Đủ CN	#DIV/0!	Cà Mau	Huyện Ngọc HiểnCà Mau
